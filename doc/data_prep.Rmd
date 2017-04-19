@@ -1,0 +1,54 @@
+---
+title: "data preprocessing"
+author: "Jiahao Zhang"
+date: "April 19, 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Step 0: Load the packages, specify directories
+
+```{r}
+packages.used=c("plyr","parallel")
+
+# check packages that need to be installed.
+packages.needed=setdiff(packages.used, 
+                        intersect(installed.packages()[,1], 
+                                  packages.used))
+# install additional packages
+if(length(packages.needed)>0){
+  install.packages(packages.needed, dependencies = TRUE,
+                   repos='http://cran.us.r-project.org')
+}
+
+library(plyr)
+library(parallel)
+
+setwd("/Users/ZHANGJIAHAO/Downloads/Spr2017-proj5-grp6-master")
+
+source("./lib/clean_data.R")
+
+
+```
+## Step 1: Load and process the data
+```{r}
+setwd("../data/matches")
+file_names <- list.files(pattern = "*.csv")
+file <- lapply(file_names,read.csv)
+matches <- lapply(file,clean_data)
+```
+```{r}
+setwd("../data/score_pass_defense")
+file_names <- list.files(pattern = "*.csv")
+players <- lapply(file_names,read.csv)
+
+```
+## Step2: Clustering
+```{r}
+set.seed(20)
+che <- matches[[4]]
+che<-na.omit(che)
+KCluster <- kmeans(che[, c(6:9,13:16,18:22,28:29,31,33:34)], 3, nstart = 20)
+```

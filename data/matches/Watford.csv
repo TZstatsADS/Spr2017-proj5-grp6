@@ -1,0 +1,71 @@
+League,Time,Home,Score,Away,Fouls,Yellow Card,Red Card,Possession,Shots (OT),Passes (Success),Pass Success%,Dribbles,Rating,League,Time,Home,Score,Away,Corners,Offsides,Head(Success),saves,Tackles,Off Target,Blocked,Throws,Rating
+ENG PR,2017-04-15 22:00,Watford,1-0,Swansea City,8,0,0,53%,15(7),444(347),78%,0.78,7.1,ENG PR,2017-04-15 22:00,Watford,1-0,Swansea City,6,4,44(21),4,21,6,2,19,7.1
+ENG PR,2017-04-08 19:30,Tottenham Hotspur,4-0,Watford,12,1,0,43%,8(2),345(277),80%,0.8,6.08,ENG PR,2017-04-08 19:30,Tottenham Hotspur,4-0,Watford,5,1,18(6),2,28,4,2,15,6.08
+ENG PR,2017-04-05 02:45,Watford,2-0,West Bromwich(WBA),11,3,1,55%,9(2),438(370),84%,0.84,7.1,ENG PR,2017-04-05 02:45,Watford,2-0,West Bromwich(WBA),5,1,29(13),2,30,3,4,22,7.1
+ENG PR,2017-04-01 22:00,Watford,1-0,Sunderland A.F.C,12,1,0,56%,23(10),381(314),82%,0.82,7.32,ENG PR,2017-04-01 22:00,Watford,1-0,Sunderland A.F.C,13,1,44(21),3,20,5,8,14,7.32
+ENG PR,2017-03-18 23:00,Crystal Palace,1-0,Watford,15,2,0,57%,6(2),388(273),70%,0.7,6.32,ENG PR,2017-03-18 23:00,Crystal Palace,1-0,Watford,2,1,42(21),0,25,4,0,35,6.32
+ENG PR,2017-03-04 23:00,Watford,3-4,Southampton,15,3,0,45%,21(4),252(152),60%,0.6,6.91,ENG PR,2017-03-04 23:00,Watford,3-4,Southampton,6,2,47(27),7,34,11,6,24,6.91
+ENG PR,2017-02-26 01:30,Watford,1-1,West Ham United,18,4,0,36%,9(1),259(167),64%,0.64,6.65,ENG PR,2017-02-26 01:30,Watford,1-1,West Ham United,4,2,53(31),1,27,3,5,22,6.65
+ENG PR,2017-02-11 23:00,Manchester United,2-0,Watford,12,0,0,43%,9(3),426(325),76%,0.76,6.58,ENG PR,2017-02-11 23:00,Manchester United,2-0,Watford,1,0,33(14),9,39,5,1,12,6.58
+ENG PR,2017-02-04 23:00,Watford,2-1,Burnley,12,5,0,60%,16(7),512(395),77%,0.77,7.07,ENG PR,2017-02-04 23:00,Watford,2-1,Burnley,3,2,59(28),6,20,3,6,26,7.07
+ENG PR,2017-02-01 03:45,Arsenal,1-2,Watford,15,3,0,26%,9(5),204(125),61%,0.61,7.28,ENG PR,2017-02-01 03:45,Arsenal,1-2,Watford,5,1,41(21),4,39,2,2,20,7.28
+ENG PR,2017-01-21 23:00,Bournemouth AFC,2-2,Watford,16,2,0,37%,11(4),318(200),63%,0.63,6.8,ENG PR,2017-01-21 23:00,Bournemouth AFC,2-2,Watford,4,2,42(21),3,24,2,5,15,6.8
+ENG PR,2017-01-14 23:00,Watford,0-0,Middlesbrough,15,3,0,47%,8(0),348(242),70%,0.7,6.79,ENG PR,2017-01-14 23:00,Watford,0-0,Middlesbrough,3,2,44(24),0,13,6,1,33,6.79
+ENG PR,2017-01-04 04:00,Stoke City,2-0,Watford,15,2,0,46%,13(6),350(237),68%,0.68,6.24,ENG PR,2017-01-04 04:00,Stoke City,2-0,Watford,6,0,50(24),3,26,4,3,27,6.24
+ENG PR,2017-01-01 21:30,Watford,1-4,Tottenham Hotspur,11,3,0,34%,5(1),294(190),65%,0.65,5.94,ENG PR,2017-01-01 21:30,Watford,1-4,Tottenham Hotspur,0,5,28(13),2,23,1,3,22,5.94
+ENG PR,2016-12-26 20:30,Watford,1-1,Crystal Palace,18,2,0,56%,7(1),352(231),66%,0.66,6.64,ENG PR,2016-12-26 20:30,Watford,1-1,Crystal Palace,7,0,48(22),3,21,4,2,29,6.64
+ENG PR,2016-12-17 23:00,Sunderland A.F.C,1-0,Watford,9,2,0,58%,10(2),366(265),72%,0.72,6.62,ENG PR,2016-12-17 23:00,Sunderland A.F.C,1-0,Watford,11,2,44(18),3,22,4,1,32,6.62
+ENG PR,2016-12-15 04:00,Manchester City,2-0,Watford,20,2,0,37%,4(1),288(202),70%,0.7,6.42,ENG PR,2016-12-15 04:00,Manchester City,2-0,Watford,2,3,31(11),5,25,3,0,26,6.42
+ENG PR,2016-12-10 20:30,Watford,3-2,Everton,11,2,0,47%,11(6),355(258),73%,0.73,7.05,ENG PR,2016-12-10 20:30,Watford,3-2,Everton,2,3,44(23),2,24,4,1,25,7.05
+ENG PR,2016-12-03 23:00,West Bromwich(WBA),3-1,Watford,8,1,1,59%,15(3),437(334),76%,0.76,6.22,ENG PR,2016-12-03 23:00,West Bromwich(WBA),3-1,Watford,4,2,46(18),0,19,5,7,27,6.22
+ENG PR,2016-11-27 20:00,Watford,0-1,Stoke City,24,5,1,50%,6(3),356(250),70%,0.7,6.46,ENG PR,2016-11-27 20:00,Watford,0-1,Stoke City,3,1,46(18),1,26,3,1,23,6.46
+ENG PR,2016-11-19 23:00,Watford,2-1,Leicester City,12,2,0,45%,10(3),341(220),65%,0.65,7.23,ENG PR,2016-11-19 23:00,Watford,2-1,Leicester City,4,1,51(29),1,26,7,0,27,7.23
+ENG PR,2016-11-06 22:15,Liverpool,6-1,Watford,10,2,0,40%,11(8),376(262),70%,0.7,6.34,ENG PR,2016-11-06 22:15,Liverpool,6-1,Watford,3,2,33(19),11,15,2,1,17,6.34
+ENG PR,2016-10-29 22:00,Watford,1-0,Hull City,13,1,0,59%,22(2),474(373),79%,0.79,6.99,ENG PR,2016-10-29 22:00,Watford,1-0,Hull City,7,0,37(22),2,16,15,7,20,6.99
+ENG PR,2016-10-22 22:00,Swansea City,0-0,Watford,16,1,0,46%,10(2),382(290),76%,0.76,6.86,ENG PR,2016-10-22 22:00,Swansea City,0-0,Watford,2,4,35(15),5,22,3,5,19,6.86
+ENG PR,2016-10-16 20:30,Middlesbrough,0-1,Watford,10,1,0,36%,4(2),266(185),70%,0.7,6.96,ENG PR,2016-10-16 20:30,Middlesbrough,0-1,Watford,6,1,30(18),3,29,1,1,26,6.96
+ENG PR,2016-10-01 22:00,Watford,2-2,Bournemouth AFC,17,3,0,48%,17(7),350(271),77%,0.77,6.86,ENG PR,2016-10-01 22:00,Watford,2-2,Bournemouth AFC,4,0,28(16),0,29,5,5,22,6.86
+ENG PR,2016-09-27 03:00,Burnley,2-0,Watford,15,3,0,56%,12(3),475(348),73%,0.73,6.51,ENG PR,2016-09-27 03:00,Burnley,2-0,Watford,6,0,66(33),2,18,4,5,22,6.51
+ENG PR,2016-09-18 19:00,Watford,3-1,Manchester United,14,3,0,40%,10(5),286(184),64%,0.64,6.95,ENG PR,2016-09-18 19:00,Watford,3-1,Manchester United,5,0,37(16),1,26,3,2,28,6.95
+ENG PR,2016-09-10 22:00,West Ham United,2-4,Watford,15,2,0,43%,13(8),322(231),72%,0.72,7.2,ENG PR,2016-09-10 22:00,West Ham United,2-4,Watford,4,1,31(15),2,35,3,2,13,7.2
+ENG PR,2016-08-27 22:00,Watford,1-3,Arsenal,18,6,0,45%,14(6),395(308),78%,0.78,6.29,ENG PR,2016-08-27 22:00,Watford,1-3,Arsenal,3,1,32(18),4,24,6,2,24,6.29
+ENG PR,2016-08-20 22:00,Watford,1-2,Chelsea,20,4,0,41%,5(2),330(251),76%,0.76,6.65,ENG PR,2016-08-20 22:00,Watford,1-2,Chelsea,0,1,22(9),0,33,3,2,20,6.65
+ENG PR,2016-08-13 22:00,Southampton,1-1,Watford,12,2,1,39%,3(1),303(194),64%,0.64,6.82,ENG PR,2016-08-13 22:00,Southampton,1-1,Watford,2,0,25(16),5,34,2,0,11,6.82
+ENG PR,2016-05-15 22:00,Watford,2-2,Sunderland A.F.C,11,1,0,51%,21(6),379(293),77%,0.77,6.78,ENG PR,2016-05-15 22:00,Watford,2-2,Sunderland A.F.C,7,1,26(13),2,19,11,4,22,6.78
+ENG PR,2016-05-12 02:45,Norwich City,4-2,Watford,12,3,0,0%,12(7),393(287),73%,0.73,6.55,ENG PR,2016-05-12 02:45,Norwich City,4-2,Watford,1,3,29(17),3,41,2,3,21,6.55
+ENG PR,2016-05-08 23:00,Liverpool,2-0,Watford,15,2,0,29%,14(3),268(186),69%,0.69,6.68,ENG PR,2016-05-08 23:00,Liverpool,2-0,Watford,8,1,29(14),3,33,8,3,20,6.68
+ENG PR,2016-04-30 22:00,Watford,3-2,Aston Villa,14,2,0,61%,13(5),589(500),85%,0.85,6.97,ENG PR,2016-04-30 22:00,Watford,3-2,Aston Villa,8,1,36(16),0,28,8,5,29,6.97
+ENG PR,2016-04-21 02:45,West Ham United,3-1,Watford,17,4,1,51%,7(4),434(342),79%,0.79,6.25,ENG PR,2016-04-21 02:45,West Ham United,3-1,Watford,2,2,25(9),4,43,2,1,22,6.25
+ENG PR,2016-04-16 22:00,West Bromwich(WBA),0-1,Watford,17,3,0,42%,11(4),353(231),65%,0.65,7.3,ENG PR,2016-04-16 22:00,West Bromwich(WBA),0-1,Watford,3,0,47(24),4,35,4,3,22,7.3
+ENG PR,2016-04-09 22:00,Watford,1-1,Everton,13,2,0,46%,12(5),326(225),69%,0.69,6.76,ENG PR,2016-04-09 22:00,Watford,1-1,Everton,7,3,47(27),6,28,7,3,20,6.76
+ENG PR,2016-04-02 22:00,Arsenal,4-0,Watford,10,1,0,36%,6(2),0(0),0%,0,6.32,ENG PR,2016-04-02 22:00,Arsenal,4-0,Watford,3,3,0(0),8,0,2,2,0,6.32
+ENG PR,2016-03-19 23:00,Watford,1-2,Stoke City,10,3,0,53%,9(4),461(333),72%,0.72,6.57,ENG PR,2016-03-19 23:00,Watford,1-2,Stoke City,9,2,44(25),4,29,4,1,29,6.57
+ENG PR,2016-03-06 01:30,Watford,0-1,Leicester City,10,2,0,50%,9(5),405(294),73%,0.73,6.95,ENG PR,2016-03-06 01:30,Watford,0-1,Leicester City,3,2,49(27),6,39,4,3,23,6.95
+ENG PR,2016-03-03 04:00,Manchester United,1-0,Watford,17,2,0,39%,10(3),308(209),68%,0.68,6.66,ENG PR,2016-03-03 04:00,Manchester United,1-0,Watford,7,0,23(19),2,44,6,4,15,6.66
+ENG PR,2016-02-27 23:00,Watford,0-0,Bournemouth AFC,14,3,0,47%,12(3),315(208),66%,0.66,6.91,ENG PR,2016-02-27 23:00,Watford,0-0,Bournemouth AFC,4,3,36(14),3,26,9,4,20,6.91
+ENG PR,2016-02-13 23:00,Crystal Palace,1-2,Watford,14,1,0,46%,4(4),341(230),67%,0.67,7.17,ENG PR,2016-02-13 23:00,Crystal Palace,1-2,Watford,3,0,49(19),4,41,2,4,26,7.17
+ENG PR,2016-02-06 23:00,Tottenham Hotspur,1-0,Watford,9,1,0,34%,3(1),290(191),66%,0.66,6.88,ENG PR,2016-02-06 23:00,Tottenham Hotspur,1-0,Watford,1,3,24(12),8,42,2,1,32,6.88
+ENG PR,2016-02-04 03:45,Watford,0-0,Chelsea,10,2,0,45%,12(3),445(350),79%,0.79,7.18,ENG PR,2016-02-04 03:45,Watford,0-0,Chelsea,7,0,30(19),4,35,5,7,27,7.18
+ENG PR,2016-01-23 23:00,Watford,2-1,Newcastle United,10,2,0,51%,13(5),475(357),75%,0.75,7.16,ENG PR,2016-01-23 23:00,Watford,2-1,Newcastle United,2,1,40(24),1,41,7,1,25,7.16
+ENG PR,2016-01-19 04:00,Swansea City,1-0,Watford,11,2,0,43%,13(2),376(268),71%,0.71,6.7,ENG PR,2016-01-19 04:00,Swansea City,1-0,Watford,3,0,36(24),1,43,8,3,31,6.7
+ENG PR,2016-01-14 03:45,Southampton,2-0,Watford,11,2,0,49%,4(1),460(343),75%,0.75,6.46,ENG PR,2016-01-14 03:45,Southampton,2-0,Watford,1,3,32(13),5,19,0,3,20,6.46
+ENG PR,2016-01-03 01:30,Watford,1-2,Manchester City,6,1,0,48%,11(3),407(290),71%,0.71,6.78,ENG PR,2016-01-03 01:30,Watford,1-2,Manchester City,4,0,29(17),3,29,6,2,37,6.78
+ENG PR,2015-12-28 23:00,Watford,1-2,Tottenham Hotspur,11,4,1,37%,9(1),312(188),60%,0.6,6.56,ENG PR,2015-12-28 23:00,Watford,1-2,Tottenham Hotspur,5,2,37(21),1,25,4,4,25,6.56
+ENG PR,2015-12-26 23:00,Chelsea,2-2,Watford,15,4,0,38%,13(4),329(242),74%,0.74,6.76,ENG PR,2015-12-26 23:00,Chelsea,2-2,Watford,4,1,27(12),1,35,4,5,16,6.76
+ENG PR,2015-12-20 21:30,Watford,3-0,Liverpool,6,1,0,34%,6(5),260(140),54%,0.54,7.47,ENG PR,2015-12-20 21:30,Watford,3-0,Liverpool,7,1,28(13),4,37,0,1,30,7.47
+ENG PR,2015-12-12 23:00,Sunderland A.F.C,0-1,Watford,9,0,0,53%,12(7),461(340),74%,0.74,7.35,ENG PR,2015-12-12 23:00,Sunderland A.F.C,0-1,Watford,3,2,32(20),2,33,2,3,18,7.35
+ENG PR,2015-12-05 23:00,Watford,2-0,Norwich City,8,3,0,51%,14(7),355(238),67%,0.67,7.16,ENG PR,2015-12-05 23:00,Watford,2-0,Norwich City,4,3,25(9),1,17,3,3,37,7.16
+ENG PR,2015-11-28 23:00,Aston Villa,2-3,Watford,13,4,0,34%,14(6),257(157),61%,0.61,6.89,ENG PR,2015-11-28 23:00,Aston Villa,2-3,Watford,10,0,32(9),4,39,2,6,23,6.89
+ENG PR,2015-11-21 20:45,Watford,1-2,Manchester United,6,1,0,47%,10(5),382(246),64%,0.64,6.77,ENG PR,2015-11-21 20:45,Watford,1-2,Manchester United,4,1,23(11),4,32,2,3,33,6.77
+ENG PR,2015-11-07 23:00,Leicester City,2-1,Watford,10,1,0,60%,8(2),559(415),74%,0.74,6.46,ENG PR,2015-11-07 23:00,Leicester City,2-1,Watford,2,1,25(13),3,26,4,0,31,6.46
+ENG PR,2015-10-31 23:00,Watford,2-0,West Ham United,16,3,0,50%,20(5),394(295),75%,0.75,7.2,ENG PR,2015-10-31 23:00,Watford,2-0,West Ham United,7,3,34(11),3,22,6,9,22,7.2
+ENG PR,2015-10-24 22:00,Stoke City,0-2,Watford,18,1,0,37%,11(3),262(184),70%,0.7,7.2,ENG PR,2015-10-24 22:00,Stoke City,0-2,Watford,5,0,24(12),1,29,3,5,18,7.2
+ENG PR,2015-10-18 00:30,Watford,0-3,Arsenal,11,2,0,33%,8(1),305(225),74%,0.74,6.43,ENG PR,2015-10-18 00:30,Watford,0-3,Arsenal,3,1,22(11),3,43,6,1,17,6.43
+ENG PR,2015-10-03 22:00,Bournemouth AFC,1-1,Watford,13,1,0,46%,11(2),416(306),74%,0.74,6.86,ENG PR,2015-10-03 22:00,Bournemouth AFC,1-1,Watford,3,1,46(19),5,34,5,4,31,6.86
+ENG PR,2015-09-27 23:00,Watford,0-1,Crystal Palace,17,4,0,55%,15(2),387(291),75%,0.75,6.55,ENG PR,2015-09-27 23:00,Watford,0-1,Crystal Palace,6,0,36(20),2,26,9,4,30,6.55
+ENG PR,2015-09-19 22:00,Newcastle United,1-2,Watford,12,2,0,42%,13(4),365(271),74%,0.74,7.15,ENG PR,2015-09-19 22:00,Newcastle United,1-2,Watford,5,1,21(9),4,36,6,3,16,7.15
+ENG PR,2015-09-12 22:00,Watford,1-0,Swansea City,11,1,1,38%,17(6),313(225),72%,0.72,6.98,ENG PR,2015-09-12 22:00,Watford,1-0,Swansea City,1,0,30(13),3,22,7,4,21,6.98
+ENG PR,2015-08-29 22:00,Manchester City,2-0,Watford,12,2,0,40%,7(0),447(385),86%,0.86,6.45,ENG PR,2015-08-29 22:00,Manchester City,2-0,Watford,3,1,12(3),3,42,2,5,11,6.45
+ENG PR,2015-08-23 23:00,Watford,0-0,Southampton,10,0,0,52%,13(0),429(319),74%,0.74,7.04,ENG PR,2015-08-23 23:00,Watford,0-0,Southampton,5,4,48(24),5,21,6,7,31,7.04
+ENG PR,2015-08-15 22:00,Watford,0-0,West Bromwich(WBA),13,1,0,59%,16(5),488(416),85%,0.85,7.09,ENG PR,2015-08-15 22:00,Watford,0-0,West Bromwich(WBA),2,0,42(18),0,22,8,3,32,7.09
+ENG PR,2015-08-08 22:00,Everton,2-2,Watford,13,2,0,32%,11(5),275(197),72%,0.72,7.18,ENG PR,2015-08-08 22:00,Everton,2-2,Watford,2,1,48(28),3,31,3,3,14,7.18

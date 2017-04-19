@@ -1,0 +1,106 @@
+League,Time,Home,Score,Away,Fouls,Yellow Card,Red Card,Possession,Shots (OT),Passes (Success),Pass Success%,Dribbles,Rating,League,Time,Home,Score,Away,Corners,Offsides,Head(Success),saves,Tackles,Off Target,Blocked,Throws,Rating
+ENG PR,2017-04-16 00:30,Southampton,0-3,Manchester City,8,0,0,59%,18(5),628(547),87%,0.87,7.34,ENG PR,2017-04-16 00:30,Southampton,0-3,Manchester City,8,0,18(8),1,19,7,6,17,7.34
+ENG PR,2017-04-08 22:00,Manchester City,3-1,Hull City,6,0,0,67%,23(7),713(642),90%,0.9,7.27,ENG PR,2017-04-08 22:00,Manchester City,3-1,Hull City,7,1,21(10),0,27,10,6,27,7.27
+ENG PR,2017-04-06 03:00,Chelsea,2-1,Manchester City,14,3,0,60%,17(7),616(539),88%,0.88,6.62,ENG PR,2017-04-06 03:00,Chelsea,2-1,Manchester City,9,0,28(12),2,21,6,4,27,6.62
+ENG PR,2017-04-02 23:00,Arsenal,2-2,Manchester City,15,2,0,56%,15(5),510(397),78%,0.78,7.03,ENG PR,2017-04-02 23:00,Arsenal,2-2,Manchester City,8,6,29(16),1,40,6,3,22,7.03
+ENG PR,2017-03-20 00:30,Manchester City,1-1,Liverpool,14,3,0,60%,14(3),562(489),87%,0.87,7.01,ENG PR,2017-03-20 00:30,Manchester City,1-1,Liverpool,9,6,26(9),3,36,8,2,20,7.01
+ENG PR,2017-03-09 04:00,Manchester City,0-0,Stoke City,8,1,0,65%,12(1),626(514),82%,0.82,6.97,ENG PR,2017-03-09 04:00,Manchester City,0-0,Stoke City,8,1,36(15),2,32,7,4,26,6.97
+ENG PR,2017-03-05 23:59,Sunderland A.F.C,0-2,Manchester City,4,0,0,72%,14(7),716(641),90%,0.9,7.37,ENG PR,2017-03-05 23:59,Sunderland A.F.C,0-2,Manchester City,4,3,22(13),3,25,5,2,16,7.37
+ENG PR,2017-02-14 04:00,Bournemouth AFC,0-2,Manchester City,11,3,0,62%,18(5),598(522),87%,0.87,7.13,ENG PR,2017-02-14 04:00,Bournemouth AFC,0-2,Manchester City,7,2,22(11),1,36,8,4,29,7.13
+ENG PR,2017-02-05 21:30,Manchester City,2-1,Swansea City,9,2,0,69%,17(5),704(624),89%,0.89,6.99,ENG PR,2017-02-05 21:30,Manchester City,2-1,Swansea City,10,4,36(17),1,22,5,7,15,6.99
+ENG PR,2017-02-02 03:45,West Ham United,0-4,Manchester City,14,3,0,70%,11(4),671(590),88%,0.88,7.31,ENG PR,2017-02-02 03:45,West Ham United,0-4,Manchester City,4,3,31(15),1,22,5,2,21,7.31
+ENG PR,2017-01-22 01:30,Manchester City,2-2,Tottenham Hotspur,10,2,0,55%,17(7),474(359),76%,0.76,6.83,ENG PR,2017-01-22 01:30,Manchester City,2-2,Tottenham Hotspur,5,3,27(10),0,32,9,1,26,6.83
+ENG PR,2017-01-15 21:30,Everton,4-0,Manchester City,7,2,0,72%,13(5),674(595),88%,0.88,6.17,ENG PR,2017-01-15 21:30,Everton,4-0,Manchester City,6,4,23(15),0,29,4,4,19,6.17
+ENG PR,2017-01-02 23:00,Manchester City,2-1,Burnley,11,4,1,55%,13(3),452(360),80%,0.8,6.71,ENG PR,2017-01-02 23:00,Manchester City,2-1,Burnley,8,3,62(32),2,14,4,6,19,6.71
+ENG PR,2017-01-01 01:30,Liverpool,1-0,Manchester City,12,1,0,57%,9(2),575(462),80%,0.8,6.79,ENG PR,2017-01-01 01:30,Liverpool,1-0,Manchester City,6,2,48(27),0,32,4,3,25,6.79
+ENG PR,2016-12-27 01:15,Hull City,0-3,Manchester City,14,0,0,67%,18(7),683(590),86%,0.86,7.29,ENG PR,2016-12-27 01:15,Hull City,0-3,Manchester City,7,1,29(15),3,21,6,4,11,7.29
+ENG PR,2016-12-18 23:59,Manchester City,2-1,Arsenal,9,4,0,61%,15(5),594(501),84%,0.84,6.93,ENG PR,2016-12-18 23:59,Manchester City,2-1,Arsenal,8,4,33(20),0,29,7,2,26,6.93
+ENG PR,2016-12-15 04:00,Manchester City,2-0,Watford,16,1,0,63%,14(7),504(404),80%,0.8,7.42,ENG PR,2016-12-15 04:00,Manchester City,2-0,Watford,5,3,31(20),2,39,4,2,20,7.42
+ENG PR,2016-12-11 01:30,Leicester City,4-2,Manchester City,7,1,0,78%,15(4),705(635),90%,0.9,6.81,ENG PR,2016-12-11 01:30,Leicester City,4-2,Manchester City,11,3,37(19),2,12,8,7,21,6.81
+ENG PR,2016-12-03 20:30,Manchester City,1-3,Chelsea,14,2,2,61%,16(6),541(456),84%,0.84,6.24,ENG PR,2016-12-03 20:30,Manchester City,1-3,Chelsea,9,2,19(13),1,28,7,2,22,6.24
+ENG PR,2016-11-26 20:30,Burnley,1-2,Manchester City,15,3,0,67%,21(5),547(443),81%,0.81,7.07,ENG PR,2016-11-26 20:30,Burnley,1-2,Manchester City,8,3,55(32),4,18,8,8,17,7.07
+ENG PR,2016-11-19 23:00,Crystal Palace,1-2,Manchester City,15,2,0,62%,10(4),449(338),75%,0.75,6.93,ENG PR,2016-11-19 23:00,Crystal Palace,1-2,Manchester City,7,1,39(20),1,26,5,1,29,6.93
+ENG PR,2016-11-05 23:00,Manchester City,1-1,Middlesbrough,7,1,0,71%,25(7),631(552),87%,0.87,7.04,ENG PR,2016-11-05 23:00,Manchester City,1-1,Middlesbrough,8,5,31(17),2,32,11,7,23,7.04
+ENG PR,2016-10-29 22:00,West Bromwich(WBA),0-4,Manchester City,10,3,0,68%,21(8),676(604),89%,0.89,7.52,ENG PR,2016-10-29 22:00,West Bromwich(WBA),0-4,Manchester City,7,3,18(10),1,19,4,9,12,7.52
+ENG PR,2016-10-23 20:30,Manchester City,1-1,Southampton,11,3,0,65%,14(3),585(490),84%,0.84,6.66,ENG PR,2016-10-23 20:30,Manchester City,1-1,Southampton,10,1,32(17),1,27,7,4,28,6.66
+ENG PR,2016-10-15 22:00,Manchester City,1-1,Everton,7,0,0,72%,19(8),659(574),87%,0.87,6.89,ENG PR,2016-10-15 22:00,Manchester City,1-1,Everton,13,0,30(12),1,24,5,6,20,6.89
+ENG PR,2016-10-02 21:15,Tottenham Hotspur,2-0,Manchester City,10,2,0,58%,12(6),482(379),79%,0.79,6.77,ENG PR,2016-10-02 21:15,Tottenham Hotspur,2-0,Manchester City,3,5,27(15),6,39,3,3,26,6.77
+ENG PR,2016-09-24 22:00,Swansea City,1-3,Manchester City,9,4,0,58%,18(4),563(481),85%,0.85,7.17,ENG PR,2016-09-24 22:00,Swansea City,1-3,Manchester City,7,2,22(11),4,26,8,6,15,7.17
+ENG PR,2016-09-17 22:00,Manchester City,4-0,Bournemouth AFC,8,1,1,64%,20(12),588(525),89%,0.89,7.7,ENG PR,2016-09-17 22:00,Manchester City,4-0,Bournemouth AFC,5,1,9(6),2,47,3,5,17,7.7
+ENG PR,2016-09-10 19:30,Manchester United,1-2,Manchester City,10,2,0,60%,18(6),593(485),82%,0.82,7.12,ENG PR,2016-09-10 19:30,Manchester United,1-2,Manchester City,4,3,36(14),2,39,8,4,16,7.12
+ENG PR,2016-08-28 23:00,Manchester City,3-1,West Ham United,5,1,0,67%,22(5),587(509),87%,0.87,7.36,ENG PR,2016-08-28 23:00,Manchester City,3-1,West Ham United,5,3,37(15),1,35,10,7,25,7.36
+ENG PR,2016-08-20 19:30,Stoke City,1-4,Manchester City,13,4,0,58%,13(6),494(398),81%,0.81,7.34,ENG PR,2016-08-20 19:30,Stoke City,1-4,Manchester City,7,1,43(22),2,35,7,4,19,7.34
+ENG PR,2016-08-14 00:30,Manchester City,2-1,Sunderland A.F.C,11,1,0,70%,17(6),678(578),85%,0.85,6.87,ENG PR,2016-08-14 00:30,Manchester City,2-1,Sunderland A.F.C,9,1,36(16),2,19,11,4,27,6.87
+ENG PR,2016-05-15 22:00,Swansea City,1-1,Manchester City,19,3,0,51%,18(5),496(399),80%,0.8,6.65,ENG PR,2016-05-15 22:00,Swansea City,1-1,Manchester City,4,2,26(8),0,23,10,3,24,6.65
+ENG PR,2016-05-08 23:00,Manchester City,2-2,Arsenal,16,2,0,64%,14(3),505(391),77%,0.77,7.16,ENG PR,2016-05-08 23:00,Manchester City,2-2,Arsenal,7,3,50(27),0,39,9,2,31,7.16
+ENG PR,2016-05-01 23:30,Southampton,4-2,Manchester City,9,1,0,56%,6(5),576(486),84%,0.84,6.71,ENG PR,2016-05-01 23:30,Southampton,4-2,Manchester City,2,0,32(16),3,41,1,0,20,6.71
+ENG PR,2016-04-23 19:45,Manchester City,4-0,Stoke City,8,0,0,53%,11(6),501(410),82%,0.82,7.38,ENG PR,2016-04-23 19:45,Manchester City,4-0,Stoke City,9,1,35(11),2,40,4,2,11,7.38
+ENG PR,2016-04-20 02:45,Newcastle United,1-1,Manchester City,8,2,0,54%,9(5),522(389),75%,0.75,6.83,ENG PR,2016-04-20 02:45,Newcastle United,1-1,Manchester City,3,3,36(23),2,41,3,1,33,6.83
+ENG PR,2016-04-17 00:30,Chelsea,0-3,Manchester City,15,3,0,44%,9(8),510(426),84%,0.84,7.8,ENG PR,2016-04-17 00:30,Chelsea,0-3,Manchester City,3,1,18(11),4,28,1,2,18,7.8
+ENG PR,2016-04-10 00:30,Manchester City,2-1,West Bromwich(WBA),10,0,0,57%,13(4),549(458),83%,0.83,6.71,ENG PR,2016-04-10 00:30,Manchester City,2-1,West Bromwich(WBA),8,3,31(14),1,22,9,5,20,6.71
+ENG PR,2016-04-02 22:00,Bournemouth AFC,0-4,Manchester City,8,1,0,51%,15(7),0(0),0%,0,7.65,ENG PR,2016-04-02 22:00,Bournemouth AFC,0-4,Manchester City,4,4,0(0),2,0,8,0,0,7.65
+ENG PR,2016-03-20 23:59,Manchester City,0-1,Manchester United,9,1,0,56%,26(3),455(373),82%,0.82,6.98,ENG PR,2016-03-20 23:59,Manchester City,0-1,Manchester United,11,2,32(23),3,34,16,7,28,6.98
+ENG PR,2016-03-12 20:45,Norwich City,0-0,Manchester City,10,1,0,66%,11(1),628(529),84%,0.84,7.06,ENG PR,2016-03-12 20:45,Norwich City,0-0,Manchester City,8,1,51(29),0,25,10,7,21,7.06
+ENG PR,2016-03-05 23:00,Manchester City,4-0,Aston Villa,10,0,0,71%,20(10),809(736),91%,0.91,7.76,ENG PR,2016-03-05 23:00,Manchester City,4-0,Aston Villa,9,2,23(9),1,23,10,3,16,7.76
+ENG PR,2016-03-03 04:00,Liverpool,3-0,Manchester City,14,1,0,50%,6(1),471(354),75%,0.75,6.49,ENG PR,2016-03-03 04:00,Liverpool,3-0,Manchester City,2,1,19(10),4,41,5,0,24,6.49
+ENG PR,2016-02-15 00:15,Manchester City,1-2,Tottenham Hotspur,12,1,0,46%,16(4),469(369),79%,0.79,6.65,ENG PR,2016-02-15 00:15,Manchester City,1-2,Tottenham Hotspur,7,4,28(17),1,40,7,8,30,6.65
+ENG PR,2016-02-06 20:45,Manchester City,1-3,Leicester City,9,2,0,66%,22(4),563(481),85%,0.85,6.73,ENG PR,2016-02-06 20:45,Manchester City,1-3,Leicester City,11,1,38(25),4,29,14,6,40,6.73
+ENG PR,2016-02-03 03:45,Sunderland A.F.C,0-1,Manchester City,15,4,0,51%,6(2),434(320),74%,0.74,7.13,ENG PR,2016-02-03 03:45,Sunderland A.F.C,0-1,Manchester City,4,2,30(15),2,33,3,1,20,7.13
+ENG PR,2016-01-24 01:30,West Ham United,2-2,Manchester City,15,3,0,54%,16(3),474(376),79%,0.79,6.85,ENG PR,2016-01-24 01:30,West Ham United,2-2,Manchester City,2,1,41(22),1,31,3,10,23,6.85
+ENG PR,2016-01-16 23:00,Manchester City,4-0,Crystal Palace,10,0,0,53%,17(4),492(407),83%,0.83,7.69,ENG PR,2016-01-16 23:00,Manchester City,4-0,Crystal Palace,5,0,32(16),3,36,6,7,15,7.69
+ENG PR,2016-01-14 03:45,Manchester City,0-0,Everton,5,0,0,55%,22(5),545(487),89%,0.89,7.1,ENG PR,2016-01-14 03:45,Manchester City,0-0,Everton,12,3,15(9),2,33,7,10,17,7.1
+ENG PR,2016-01-03 01:30,Watford,1-2,Manchester City,10,0,0,52%,16(5),439(331),75%,0.75,7.1,ENG PR,2016-01-03 01:30,Watford,1-2,Manchester City,5,1,29(12),3,45,7,4,30,7.1
+ENG PR,2015-12-30 03:45,Leicester City,0-0,Manchester City,8,4,0,60%,20(5),495(379),77%,0.77,7.05,ENG PR,2015-12-30 03:45,Leicester City,0-0,Manchester City,13,1,34(23),4,28,9,7,27,7.05
+ENG PR,2015-12-26 23:00,Manchester City,4-1,Sunderland A.F.C,10,1,0,66%,19(9),616(543),88%,0.88,7.39,ENG PR,2015-12-26 23:00,Manchester City,4-1,Sunderland A.F.C,5,3,29(12),2,22,6,4,22,7.39
+ENG PR,2015-12-22 04:00,Arsenal,2-1,Manchester City,16,2,0,63%,20(6),648(570),88%,0.88,6.76,ENG PR,2015-12-22 04:00,Arsenal,2-1,Manchester City,8,1,25(10),3,30,8,6,18,6.76
+ENG PR,2015-12-12 23:00,Manchester City,2-1,Swansea City,13,3,0,53%,13(5),560(498),89%,0.89,7,ENG PR,2015-12-12 23:00,Manchester City,2-1,Swansea City,5,3,18(5),6,21,4,4,15,7
+ENG PR,2015-12-05 20:45,Stoke City,2-0,Manchester City,10,1,0,53%,11(4),462(334),72%,0.72,6.4,ENG PR,2015-12-05 20:45,Stoke City,2-0,Manchester City,6,0,15(5),2,54,6,1,41,6.4
+ENG PR,2015-11-28 23:00,Manchester City,3-1,Southampton,14,2,0,46%,16(8),390(311),80%,0.8,7.51,ENG PR,2015-11-28 23:00,Manchester City,3-1,Southampton,6,2,23(13),7,41,1,6,23,7.51
+ENG PR,2015-11-22 01:30,Manchester City,1-4,Liverpool,5,0,0,59%,11(3),532(404),76%,0.76,6.3,ENG PR,2015-11-22 01:30,Manchester City,1-4,Liverpool,11,1,45(25),5,28,5,3,39,6.3
+ENG PR,2015-11-08 21:30,Aston Villa,0-0,Manchester City,7,1,0,60%,13(3),577(493),85%,0.85,6.79,ENG PR,2015-11-08 21:30,Aston Villa,0-0,Manchester City,8,1,31(19),0,32,5,5,26,6.79
+ENG PR,2015-10-31 23:00,Manchester City,2-1,Norwich City,4,2,0,68%,21(5),722(648),90%,0.9,7,ENG PR,2015-10-31 23:00,Manchester City,2-1,Norwich City,12,4,31(21),2,24,10,6,21,7
+ENG PR,2015-10-25 22:05,Manchester United,0-0,Manchester City,13,2,0,41%,6(1),386(279),72%,0.72,6.79,ENG PR,2015-10-25 22:05,Manchester United,0-0,Manchester City,4,0,38(15),1,41,2,3,25,6.79
+ENG PR,2015-10-17 22:00,Manchester City,5-1,Bournemouth AFC,11,2,0,55%,15(11),562(467),83%,0.83,7.55,ENG PR,2015-10-17 22:00,Manchester City,5-1,Bournemouth AFC,1,2,33(18),0,24,4,0,28,7.55
+ENG PR,2015-10-03 22:00,Manchester City,6-1,Newcastle United,13,3,0,65%,23(11),587(496),84%,0.84,7.6,ENG PR,2015-10-03 22:00,Manchester City,6-1,Newcastle United,7,1,14(7),3,30,8,4,20,7.6
+ENG PR,2015-09-26 19:45,Tottenham Hotspur,4-1,Manchester City,6,1,0,53%,22(8),477(364),76%,0.76,6.41,ENG PR,2015-09-26 19:45,Tottenham Hotspur,4-1,Manchester City,9,3,38(22),4,34,6,8,26,6.41
+ENG PR,2015-09-20 00:30,Manchester City,1-2,West Ham United,10,1,0,72%,27(8),672(595),89%,0.89,6.89,ENG PR,2015-09-20 00:30,Manchester City,1-2,West Ham United,16,2,39(22),1,34,9,10,21,6.89
+ENG PR,2015-09-12 22:00,Crystal Palace,0-1,Manchester City,13,3,0,58%,21(7),499(404),81%,0.81,7.02,ENG PR,2015-09-12 22:00,Crystal Palace,0-1,Manchester City,4,0,29(10),2,26,9,5,30,7.02
+ENG PR,2015-08-29 22:00,Manchester City,2-0,Watford,9,1,0,60%,18(5),644(593),92%,0.92,7.3,ENG PR,2015-08-29 22:00,Manchester City,2-0,Watford,9,1,12(9),0,23,8,5,13,7.3
+ENG PR,2015-08-23 23:00,Everton,0-2,Manchester City,7,3,0,54%,16(9),487(414),85%,0.85,7.3,ENG PR,2015-08-23 23:00,Everton,0-2,Manchester City,7,2,25(14),1,33,3,4,26,7.3
+ENG PR,2015-08-16 23:00,Manchester City,3-0,Chelsea,19,4,0,49%,18(8),423(345),82%,0.82,7.55,ENG PR,2015-08-16 23:00,Manchester City,3-0,Chelsea,5,1,35(16),3,32,6,4,19,7.55
+ENG PR,2015-08-11 03:00,West Bromwich(WBA),0-3,Manchester City,9,1,0,69%,19(7),763(692),91%,0.91,7.47,ENG PR,2015-08-11 03:00,West Bromwich(WBA),0-3,Manchester City,6,0,18(12),2,18,2,10,12,7.47
+ENG PR,2015-05-24 22:00,Manchester City,2-0,Southampton,13,1,0,54%,15(6),478(388),81%,0.81,0,ENG PR,2015-05-24 22:00,Manchester City,2-0,Southampton,8,0,27(17),4,31,7,2,16,0
+ENG PR,2015-05-17 20:30,Swansea City,2-4,Manchester City,8,3,0,53%,22(11),531(451),85%,0.85,0,ENG PR,2015-05-17 20:30,Swansea City,2-4,Manchester City,7,2,17(10),7,36,5,6,21,0
+ENG PR,2015-05-10 20:30,Manchester City,6-0,Queens Park Rangers (QPR),12,0,0,60%,23(11),493(392),80%,0.8,0,ENG PR,2015-05-10 20:30,Manchester City,6-0,Queens Park Rangers (QPR),7,1,38(19),3,28,9,3,15,0
+ENG PR,2015-05-03 23:00,Tottenham Hotspur,0-1,Manchester City,11,4,0,45%,10(4),405(297),73%,0.73,0,ENG PR,2015-05-03 23:00,Tottenham Hotspur,0-1,Manchester City,7,1,26(12),5,28,6,5,21,0
+ENG PR,2015-04-26 00:30,Manchester City,3-2,Aston Villa,13,1,0,45%,11(4),426(341),80%,0.8,0,ENG PR,2015-04-26 00:30,Manchester City,3-2,Aston Villa,7,1,31(13),2,25,2,5,22,0
+ENG PR,2015-04-19 20:30,Manchester City,2-0,West Ham United,10,2,0,67%,18(3),676(612),91%,0.91,0,ENG PR,2015-04-19 20:30,Manchester City,2-0,West Ham United,6,5,25(10),3,24,7,8,18,0
+ENG PR,2015-04-12 23:00,Manchester United,4-2,Manchester City,16,3,0,42%,10(3),383(271),71%,0.71,0,ENG PR,2015-04-12 23:00,Manchester United,4-2,Manchester City,5,3,30(16),3,32,3,4,28,0
+ENG PR,2015-04-07 03:00,Crystal Palace,2-1,Manchester City,11,1,0,74%,22(4),665(575),86%,0.86,0,ENG PR,2015-04-07 03:00,Crystal Palace,2-1,Manchester City,13,0,41(15),1,32,10,8,30,0
+ENG PR,2015-03-21 20:45,Manchester City,3-0,West Bromwich(WBA),6,0,0,78%,43(16),762(707),93%,0.93,0,ENG PR,2015-03-21 20:45,Manchester City,3-0,West Bromwich(WBA),9,2,18(11),0,15,15,12,21,0
+ENG PR,2015-03-15 01:30,Burnley,1-0,Manchester City,9,1,0,64%,21(5),685(566),83%,0.83,0,ENG PR,2015-03-15 01:30,Burnley,1-0,Manchester City,6,0,64(31),3,30,9,7,25,0
+ENG PR,2015-03-05 03:45,Manchester City,2-0,Leicester City,11,0,0,66%,22(9),698(608),87%,0.87,0,ENG PR,2015-03-05 03:45,Manchester City,2-0,Leicester City,10,4,49(29),2,25,7,6,26,0
+ENG PR,2015-03-01 20:00,Liverpool,2-1,Manchester City,16,3,0,51%,8(1),521(411),79%,0.79,0,ENG PR,2015-03-01 20:00,Liverpool,2-1,Manchester City,0,6,24(13),3,35,7,0,25,0
+ENG PR,2015-02-22 01:30,Manchester City,5-0,Newcastle United,9,3,0,52%,16(9),603(534),89%,0.89,0,ENG PR,2015-02-22 01:30,Manchester City,5-0,Newcastle United,7,1,14(13),1,39,6,1,19,0
+ENG PR,2015-02-12 03:45,Stoke City,1-4,Manchester City,11,2,0,46%,14(8),450(350),78%,0.78,0,ENG PR,2015-02-12 03:45,Stoke City,1-4,Manchester City,2,4,34(14),4,45,3,3,17,0
+ENG PR,2015-02-07 23:00,Manchester City,1-1,Hull City,9,2,0,70%,18(5),687(592),86%,0.86,0,ENG PR,2015-02-07 23:00,Manchester City,1-1,Hull City,13,3,37(25),2,15,5,8,33,0
+ENG PR,2015-02-01 01:30,Chelsea,1-1,Manchester City,14,2,0,56%,10(5),543(436),80%,0.8,0,ENG PR,2015-02-01 01:30,Chelsea,1-1,Manchester City,8,3,43(17),1,45,4,1,32,0
+ENG PR,2015-01-18 23:59,Manchester City,0-2,Arsenal,12,3,0,62%,12(4),638(535),84%,0.84,0,ENG PR,2015-01-18 23:59,Manchester City,0-2,Arsenal,16,2,41(16),1,61,3,5,26,0
+ENG PR,2015-01-10 23:00,Everton,1-1,Manchester City,10,2,0,59%,18(2),538(432),80%,0.8,0,ENG PR,2015-01-10 23:00,Everton,1-1,Manchester City,9,1,32(17),3,38,10,6,22,0
+ENG PR,2015-01-01 23:00,Manchester City,3-2,Sunderland A.F.C,14,2,0,58%,32(12),657(592),90%,0.9,0,ENG PR,2015-01-01 23:00,Manchester City,3-2,Sunderland A.F.C,10,1,26(13),2,21,11,9,13,0
+ENG PR,2014-12-28 23:00,Manchester City,2-2,Burnley,18,4,0,57%,17(6),571(468),82%,0.82,0,ENG PR,2014-12-28 23:00,Manchester City,2-2,Burnley,10,3,51(21),1,31,5,6,27,0
+ENG PR,2014-12-26 23:00,West Bromwich(WBA),1-3,Manchester City,9,1,0,48%,9(5),513(415),81%,0.81,0,ENG PR,2014-12-26 23:00,West Bromwich(WBA),1-3,Manchester City,6,4,20(7),5,31,2,2,20,0
+ENG PR,2014-12-20 20:45,Manchester City,3-0,Crystal Palace,17,2,0,68%,15(3),738(658),89%,0.89,0,ENG PR,2014-12-20 20:45,Manchester City,3-0,Crystal Palace,8,3,34(17),1,33,8,4,11,0
+ENG PR,2014-12-13 23:00,Leicester City,0-1,Manchester City,13,2,0,52%,9(4),514(410),80%,0.8,0,ENG PR,2014-12-13 23:00,Leicester City,0-1,Manchester City,2,9,41(26),1,25,4,1,22,0
+ENG PR,2014-12-07 01:30,Manchester City,1-0,Everton,8,3,0,52%,19(3),484(415),86%,0.86,0,ENG PR,2014-12-07 01:30,Manchester City,1-0,Everton,11,2,28(14),2,37,4,12,15,0
+ENG PR,2014-12-04 03:45,Sunderland A.F.C,1-4,Manchester City,8,1,0,58%,15(4),761(682),90%,0.9,0,ENG PR,2014-12-04 03:45,Sunderland A.F.C,1-4,Manchester City,0,1,20(7),1,32,10,1,14,0
+ENG PR,2014-11-30 21:30,Southampton,0-3,Manchester City,13,4,1,46%,15(6),441(350),79%,0.79,0,ENG PR,2014-11-30 21:30,Southampton,0-3,Manchester City,6,0,24(14),4,28,8,1,18,0
+ENG PR,2014-11-22 23:00,Manchester City,2-1,Swansea City,13,2,0,58%,23(10),663(580),87%,0.87,0,ENG PR,2014-11-22 23:00,Manchester City,2-1,Swansea City,7,0,16(7),2,27,6,7,23,0
+ENG PR,2014-11-09 01:30,Queens Park Rangers (QPR),2-2,Manchester City,10,2,0,58%,23(6),513(402),78%,0.78,0,ENG PR,2014-11-09 01:30,Queens Park Rangers (QPR),2-2,Manchester City,0,0,56(28),3,27,9,8,26,0
+ENG PR,2014-11-02 21:30,Manchester City,1-0,Manchester United,15,3,0,51%,16(6),480(400),83%,0.83,0,ENG PR,2014-11-02 21:30,Manchester City,1-0,Manchester United,7,3,25(15),2,34,6,4,18,0
+ENG PR,2014-10-25 19:45,West Ham United,2-1,Manchester City,14,1,0,66%,21(5),560(456),81%,0.81,0,ENG PR,2014-10-25 19:45,West Ham United,2-1,Manchester City,8,2,40(25),2,24,11,5,18,0
+ENG PR,2014-10-18 19:45,Manchester City,4-1,Tottenham Hotspur,11,1,0,57%,20(12),616(527),86%,0.86,0,ENG PR,2014-10-18 19:45,Manchester City,4-1,Tottenham Hotspur,3,3,12(6),6,39,4,4,17,0
+ENG PR,2014-10-05 00:30,Aston Villa,0-2,Manchester City,6,1,0,68%,27(7),776(690),89%,0.89,0,ENG PR,2014-10-05 00:30,Aston Villa,0-2,Manchester City,7,3,24(15),1,16,8,12,24,0
+ENG PR,2014-09-27 22:00,Hull City,2-4,Manchester City,6,2,0,60%,20(6),665(590),89%,0.89,0,ENG PR,2014-09-27 22:00,Hull City,2-4,Manchester City,8,0,23(10),4,10,9,5,20,0
+ENG PR,2014-09-21 23:00,Manchester City,1-1,Chelsea,16,4,1,58%,16(4),562(504),90%,0.9,0,ENG PR,2014-09-21 23:00,Manchester City,1-1,Chelsea,14,1,27(17),1,27,8,4,10,0
+ENG PR,2014-09-13 19:45,Arsenal,2-2,Manchester City,15,0,0,55%,0(8),559(447),80%,0.8,0,ENG PR,2014-09-13 19:45,Arsenal,2-2,Manchester City,0,2,26(13),0,36,5,2,26,0

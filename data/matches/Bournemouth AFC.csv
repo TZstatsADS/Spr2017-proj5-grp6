@@ -1,0 +1,72 @@
+League,Time,Home,Score,Away,Fouls,Yellow Card,Red Card,Possession,Shots (OT),Passes (Success),Pass Success%,Dribbles,Rating,League,Time,Home,Score,Away,Corners,Offsides,Head(Success),saves,Tackles,Off Target,Blocked,Throws,Rating
+ENG PR,2017-04-15 19:30,Tottenham Hotspur,4-0,Bournemouth AFC,10,1,0,31%,5(1),298(221),74%,0.74,6.19,ENG PR,2017-04-15 19:30,Tottenham Hotspur,4-0,Bournemouth AFC,1,2,24(9),10,28,3,1,28,6.19
+ENG PR,2017-04-09 00:30,Bournemouth AFC,1-3,Chelsea,7,2,0,51%,13(1),539(463),86%,0.86,6.48,ENG PR,2017-04-09 00:30,Bournemouth AFC,1-3,Chelsea,4,0,20(8),3,34,5,6,26,6.48
+ENG PR,2017-04-06 03:00,Liverpool,2-2,Bournemouth AFC,8,1,0,33%,7(2),290(206),71%,0.71,6.96,ENG PR,2017-04-06 03:00,Liverpool,2-2,Bournemouth AFC,2,0,39(18),6,37,2,3,19,6.96
+ENG PR,2017-04-02 00:30,Southampton,0-0,Bournemouth AFC,8,0,0,39%,13(3),345(261),76%,0.76,6.82,ENG PR,2017-04-02 00:30,Southampton,0-0,Bournemouth AFC,3,1,37(19),4,25,7,2,27,6.82
+ENG PR,2017-03-19 01:30,Bournemouth AFC,2-0,Swansea City,10,0,0,48%,12(6),448(357),80%,0.8,7.27,ENG PR,2017-03-19 01:30,Bournemouth AFC,2-0,Swansea City,2,2,24(8),1,29,4,2,21,7.27
+ENG PR,2017-03-11 23:00,Bournemouth AFC,3-2,West Ham United,20,4,0,52%,21(9),355(269),76%,0.76,7.09,ENG PR,2017-03-11 23:00,Bournemouth AFC,3-2,West Ham United,5,0,37(20),5,33,8,4,23,7.09
+ENG PR,2017-03-04 20:30,Manchester United,1-1,Bournemouth AFC,10,4,1,33%,3(1),299(222),74%,0.74,6.84,ENG PR,2017-03-04 20:30,Manchester United,1-1,Bournemouth AFC,2,0,31(12),6,23,1,1,10,6.84
+ENG PR,2017-02-25 23:00,West Bromwich(WBA),2-1,Bournemouth AFC,5,0,0,68%,11(3),649(556),86%,0.86,6.49,ENG PR,2017-02-25 23:00,West Bromwich(WBA),2-1,Bournemouth AFC,6,0,19(9),2,25,6,2,24,6.49
+ENG PR,2017-02-14 04:00,Bournemouth AFC,0-2,Manchester City,8,2,0,38%,7(1),362(282),78%,0.78,6.42,ENG PR,2017-02-14 04:00,Bournemouth AFC,0-2,Manchester City,3,2,22(11),4,31,2,4,23,6.42
+ENG PR,2017-02-04 23:00,Everton,6-3,Bournemouth AFC,4,1,0,54%,17(7),554(476),86%,0.86,6.52,ENG PR,2017-02-04 23:00,Everton,6-3,Bournemouth AFC,8,0,20(10),4,43,8,2,21,6.52
+ENG PR,2017-02-01 03:45,Bournemouth AFC,0-2,Crystal Palace,14,0,0,65%,11(2),454(380),84%,0.84,6.37,ENG PR,2017-02-01 03:45,Bournemouth AFC,0-2,Crystal Palace,2,1,37(11),2,20,5,3,31,6.37
+ENG PR,2017-01-21 23:00,Bournemouth AFC,2-2,Watford,6,1,0,63%,22(12),525(411),78%,0.78,6.77,ENG PR,2017-01-21 23:00,Bournemouth AFC,2-2,Watford,9,3,42(21),1,12,6,4,35,6.77
+ENG PR,2017-01-14 23:00,Hull City,3-1,Bournemouth AFC,11,1,0,61%,6(4),570(467),82%,0.82,6.32,ENG PR,2017-01-14 23:00,Hull City,3-1,Bournemouth AFC,5,3,27(9),0,14,1,1,24,6.32
+ENG PR,2017-01-04 03:45,Bournemouth AFC,3-3,Arsenal,10,3,1,40%,12(6),377(276),73%,0.73,6.78,ENG PR,2017-01-04 03:45,Bournemouth AFC,3-3,Arsenal,4,2,33(17),1,20,4,2,15,6.78
+ENG PR,2016-12-31 23:00,Swansea City,0-3,Bournemouth AFC,9,0,0,55%,10(5),570(483),85%,0.85,7.48,ENG PR,2016-12-31 23:00,Swansea City,0-3,Bournemouth AFC,3,2,32(14),5,24,5,0,15,7.48
+ENG PR,2016-12-26 23:00,Chelsea,3-0,Bournemouth AFC,14,1,0,56%,7(3),591(508),86%,0.86,6.07,ENG PR,2016-12-26 23:00,Chelsea,3-0,Bournemouth AFC,5,1,17(10),2,38,1,3,14,6.07
+ENG PR,2016-12-18 21:30,Bournemouth AFC,1-3,Southampton,6,0,0,47%,10(5),449(366),82%,0.82,6.78,ENG PR,2016-12-18 21:30,Bournemouth AFC,1-3,Southampton,7,0,37(18),5,30,2,3,26,6.78
+ENG PR,2016-12-14 03:45,Bournemouth AFC,1-0,Leicester City,5,0,0,63%,9(3),536(447),83%,0.83,7.19,ENG PR,2016-12-14 03:45,Bournemouth AFC,1-0,Leicester City,4,4,44(24),4,25,3,3,26,7.19
+ENG PR,2016-12-10 23:00,Burnley,3-2,Bournemouth AFC,18,2,0,69%,17(4),548(444),81%,0.81,6.79,ENG PR,2016-12-10 23:00,Burnley,3-2,Bournemouth AFC,11,0,53(36),4,13,7,6,27,6.79
+ENG PR,2016-12-04 21:30,Bournemouth AFC,4-3,Liverpool,9,2,0,40%,11(7),375(301),80%,0.8,6.86,ENG PR,2016-12-04 21:30,Bournemouth AFC,4-3,Liverpool,4,1,25(14),0,31,2,2,18,6.86
+ENG PR,2016-11-27 22:15,Arsenal,3-1,Bournemouth AFC,13,5,0,48%,8(3),428(334),78%,0.78,6.5,ENG PR,2016-11-27 22:15,Arsenal,3-1,Bournemouth AFC,10,4,28(14),0,28,5,1,27,6.5
+ENG PR,2016-11-19 23:00,Stoke City,0-1,Bournemouth AFC,10,3,0,49%,9(2),354(266),75%,0.75,7.14,ENG PR,2016-11-19 23:00,Stoke City,0-1,Bournemouth AFC,4,3,49(21),6,36,6,1,25,7.14
+ENG PR,2016-11-05 23:00,Bournemouth AFC,1-2,Sunderland A.F.C,14,3,0,70%,22(7),534(463),87%,0.87,6.7,ENG PR,2016-11-05 23:00,Bournemouth AFC,1-2,Sunderland A.F.C,12,1,22(6),2,24,10,5,17,6.7
+ENG PR,2016-10-29 22:00,Middlesbrough,2-0,Bournemouth AFC,7,1,0,60%,18(3),521(433),83%,0.83,6.68,ENG PR,2016-10-29 22:00,Middlesbrough,2-0,Bournemouth AFC,9,0,26(16),1,29,8,7,24,6.68
+ENG PR,2016-10-22 19:30,Bournemouth AFC,0-0,Tottenham Hotspur,10,2,0,38%,8(1),323(232),72%,0.72,6.91,ENG PR,2016-10-22 19:30,Bournemouth AFC,0-0,Tottenham Hotspur,7,1,11(7),4,33,3,4,19,6.91
+ENG PR,2016-10-15 22:00,Bournemouth AFC,6-1,Hull City,8,0,0,50%,22(10),459(404),88%,0.88,7.85,ENG PR,2016-10-15 22:00,Bournemouth AFC,6-1,Hull City,5,0,14(8),3,17,5,7,10,7.85
+ENG PR,2016-10-01 22:00,Watford,2-2,Bournemouth AFC,12,4,0,52%,11(2),381(299),78%,0.78,6.76,ENG PR,2016-10-01 22:00,Watford,2-2,Bournemouth AFC,5,2,28(12),5,23,6,3,21,6.76
+ENG PR,2016-09-24 22:00,Bournemouth AFC,1-0,Everton,10,2,0,53%,12(1),421(336),80%,0.8,7.05,ENG PR,2016-09-24 22:00,Bournemouth AFC,1-0,Everton,5,1,25(12),2,26,7,4,26,7.05
+ENG PR,2016-09-17 22:00,Manchester City,4-0,Bournemouth AFC,11,1,0,36%,6(2),321(250),78%,0.78,6.31,ENG PR,2016-09-17 22:00,Manchester City,4-0,Bournemouth AFC,5,2,9(3),8,28,3,1,18,6.31
+ENG PR,2016-09-10 22:00,Bournemouth AFC,1-0,West Bromwich(WBA),9,1,0,63%,12(5),472(397),84%,0.84,7.17,ENG PR,2016-09-10 22:00,Bournemouth AFC,1-0,West Bromwich(WBA),10,1,32(16),2,23,5,2,23,7.17
+ENG PR,2016-08-27 22:00,Crystal Palace,1-1,Bournemouth AFC,10,1,0,46%,10(3),328(248),76%,0.76,6.76,ENG PR,2016-08-27 22:00,Crystal Palace,1-1,Bournemouth AFC,4,2,30(8),4,30,4,3,13,6.76
+ENG PR,2016-08-21 23:00,West Ham United,1-0,Bournemouth AFC,15,3,1,50%,5(3),409(319),78%,0.78,6.47,ENG PR,2016-08-21 23:00,West Ham United,1-0,Bournemouth AFC,6,1,42(23),1,20,2,2,22,6.47
+ENG PR,2016-08-14 20:30,Bournemouth AFC,1-3,Manchester United,7,0,0,53%,7(3),483(412),85%,0.85,6.3,ENG PR,2016-08-14 20:30,Bournemouth AFC,1-3,Manchester United,4,3,16(8),2,23,4,4,26,6.3
+ENG PR,2016-05-18 03:00,Manchester United,3-1,Bournemouth AFC,8,0,0,35%,7(0),338(265),78%,0.78,6.33,ENG PR,2016-05-18 03:00,Manchester United,3-1,Bournemouth AFC,1,2,17(10),2,27,3,4,24,6.33
+ENG PR,2016-05-07 22:00,Bournemouth AFC,1-1,West Bromwich(WBA),5,2,0,59%,12(4),566(478),84%,0.84,6.6,ENG PR,2016-05-07 22:00,Bournemouth AFC,1-1,West Bromwich(WBA),5,1,18(5),3,29,6,2,38,6.6
+ENG PR,2016-04-30 22:00,Everton,2-1,Bournemouth AFC,8,0,0,44%,16(4),442(358),81%,0.81,6.64,ENG PR,2016-04-30 22:00,Everton,2-1,Bournemouth AFC,5,1,34(16),3,27,12,7,22,6.64
+ENG PR,2016-04-23 22:00,Bournemouth AFC,1-4,Chelsea,11,1,0,49%,13(4),446(362),81%,0.81,6.31,ENG PR,2016-04-23 22:00,Bournemouth AFC,1-4,Chelsea,10,0,14(10),0,37,6,3,21,6.31
+ENG PR,2016-04-17 20:30,Bournemouth AFC,1-2,Liverpool,9,0,0,54%,18(5),501(406),81%,0.81,6.74,ENG PR,2016-04-17 20:30,Bournemouth AFC,1-2,Liverpool,5,2,23(16),4,37,5,8,29,6.74
+ENG PR,2016-04-09 22:00,Aston Villa,1-2,Bournemouth AFC,11,2,0,55%,9(3),546(449),82%,0.82,6.97,ENG PR,2016-04-09 22:00,Aston Villa,1-2,Bournemouth AFC,8,1,35(20),0,32,6,3,27,6.97
+ENG PR,2016-04-02 22:00,Bournemouth AFC,0-4,Manchester City,9,0,0,49%,11(2),0(0),0%,0,6.2,ENG PR,2016-04-02 22:00,Bournemouth AFC,0-4,Manchester City,4,2,0(0),3,0,5,4,0,6.2
+ENG PR,2016-03-20 23:59,Tottenham Hotspur,3-0,Bournemouth AFC,6,1,0,45%,2(0),337(251),74%,0.74,6.38,ENG PR,2016-03-20 23:59,Tottenham Hotspur,3-0,Bournemouth AFC,5,5,26(9),4,25,2,0,36,6.38
+ENG PR,2016-03-12 23:00,Bournemouth AFC,3-2,Swansea City,12,1,0,44%,12(4),358(264),74%,0.74,7.07,ENG PR,2016-03-12 23:00,Bournemouth AFC,3-2,Swansea City,5,1,30(18),2,30,6,2,30,7.07
+ENG PR,2016-03-05 23:00,Newcastle United,1-3,Bournemouth AFC,8,3,0,51%,13(5),444(340),77%,0.77,7.24,ENG PR,2016-03-05 23:00,Newcastle United,1-3,Bournemouth AFC,4,1,33(23),2,36,4,7,28,7.24
+ENG PR,2016-03-02 03:45,Bournemouth AFC,2-0,Southampton,11,0,0,45%,10(4),325(236),73%,0.73,7.21,ENG PR,2016-03-02 03:45,Bournemouth AFC,2-0,Southampton,10,1,46(19),1,18,6,3,24,7.21
+ENG PR,2016-02-27 23:00,Watford,0-0,Bournemouth AFC,17,1,0,53%,8(4),345(257),74%,0.74,7.02,ENG PR,2016-02-27 23:00,Watford,0-0,Bournemouth AFC,5,3,36(22),1,29,4,4,28,7.02
+ENG PR,2016-02-13 23:00,Bournemouth AFC,1-3,Stoke City,7,4,0,65%,11(2),545(469),86%,0.86,6.34,ENG PR,2016-02-13 23:00,Bournemouth AFC,1-3,Stoke City,9,1,22(8),3,25,4,5,22,6.34
+ENG PR,2016-02-07 21:30,Bournemouth AFC,0-2,Arsenal,6,0,0,52%,17(4),486(392),81%,0.81,6.52,ENG PR,2016-02-07 21:30,Bournemouth AFC,0-2,Arsenal,7,3,19(8),3,29,12,6,34,6.52
+ENG PR,2016-02-03 04:00,Crystal Palace,1-2,Bournemouth AFC,15,4,0,50%,8(4),385(288),75%,0.75,6.75,ENG PR,2016-02-03 04:00,Crystal Palace,1-2,Bournemouth AFC,3,0,27(10),2,27,2,2,24,6.75
+ENG PR,2016-01-23 23:00,Sunderland A.F.C,1-1,Bournemouth AFC,9,1,0,58%,14(5),506(426),84%,0.84,7.09,ENG PR,2016-01-23 23:00,Sunderland A.F.C,1-1,Bournemouth AFC,4,1,28(13),4,33,7,3,28,7.09
+ENG PR,2016-01-16 23:00,Bournemouth AFC,3-0,Norwich City,8,1,0,46%,15(7),347(257),74%,0.74,7.65,ENG PR,2016-01-16 23:00,Bournemouth AFC,3-0,Norwich City,5,1,33(18),3,28,6,1,28,7.65
+ENG PR,2016-01-13 03:45,Bournemouth AFC,1-3,West Ham United,8,1,0,48%,11(4),407(310),76%,0.76,6.53,ENG PR,2016-01-13 03:45,Bournemouth AFC,1-3,West Ham United,4,0,30(10),2,38,3,4,31,6.53
+ENG PR,2016-01-02 23:00,Leicester City,0-0,Bournemouth AFC,5,1,1,47%,9(0),424(321),76%,0.76,7.04,ENG PR,2016-01-02 23:00,Leicester City,0-0,Bournemouth AFC,1,2,41(23),2,37,4,5,22,7.04
+ENG PR,2015-12-29 01:30,Arsenal,2-0,Bournemouth AFC,8,0,0,49%,10(3),517(439),85%,0.85,6.48,ENG PR,2015-12-29 01:30,Arsenal,2-0,Bournemouth AFC,3,1,20(8),4,30,3,4,18,6.48
+ENG PR,2015-12-26 23:00,Bournemouth AFC,0-0,Crystal Palace,10,1,0,55%,10(4),459(364),79%,0.79,7.14,ENG PR,2015-12-26 23:00,Bournemouth AFC,0-0,Crystal Palace,8,2,37(18),3,37,4,2,24,7.14
+ENG PR,2015-12-19 23:00,West Bromwich(WBA),1-2,Bournemouth AFC,9,1,0,68%,16(7),552(488),88%,0.88,7.01,ENG PR,2015-12-19 23:00,West Bromwich(WBA),1-2,Bournemouth AFC,8,3,22(11),1,20,4,5,25,7.01
+ENG PR,2015-12-13 01:30,Bournemouth AFC,2-1,Manchester United,12,2,0,43%,11(5),364(296),81%,0.81,7.12,ENG PR,2015-12-13 01:30,Bournemouth AFC,2-1,Manchester United,5,1,28(20),4,46,6,0,17,7.12
+ENG PR,2015-12-06 01:30,Chelsea,0-1,Bournemouth AFC,13,1,0,37%,14(5),319(233),73%,0.73,7.31,ENG PR,2015-12-06 01:30,Chelsea,0-1,Bournemouth AFC,4,1,22(11),6,39,4,6,23,7.31
+ENG PR,2015-11-28 23:00,Bournemouth AFC,3-3,Everton,6,2,0,57%,19(9),543(449),83%,0.83,7.06,ENG PR,2015-11-28 23:00,Bournemouth AFC,3-3,Everton,10,2,24(13),3,37,5,4,34,7.06
+ENG PR,2015-11-21 23:00,Swansea City,2-2,Bournemouth AFC,9,2,0,57%,16(4),536(433),81%,0.81,6.87,ENG PR,2015-11-21 23:00,Swansea City,2-2,Bournemouth AFC,5,5,29(16),2,16,6,6,28,6.87
+ENG PR,2015-11-07 20:45,Bournemouth AFC,0-1,Newcastle United,9,2,0,68%,20(5),581(500),86%,0.86,6.63,ENG PR,2015-11-07 20:45,Bournemouth AFC,0-1,Newcastle United,16,4,24(13),0,30,8,7,24,6.63
+ENG PR,2015-11-01 23:00,Southampton,2-0,Bournemouth AFC,5,2,0,52%,16(2),510(422),83%,0.83,6.26,ENG PR,2015-11-01 23:00,Southampton,2-0,Bournemouth AFC,6,1,32(15),0,23,9,5,33,6.26
+ENG PR,2015-10-25 22:05,Bournemouth AFC,1-5,Tottenham Hotspur,8,0,0,45%,10(2),398(299),75%,0.75,6.32,ENG PR,2015-10-25 22:05,Bournemouth AFC,1-5,Tottenham Hotspur,4,3,30(12),4,34,6,2,24,6.32
+ENG PR,2015-10-17 22:00,Manchester City,5-1,Bournemouth AFC,4,1,0,45%,4(1),383(301),79%,0.79,6.11,ENG PR,2015-10-17 22:00,Manchester City,5-1,Bournemouth AFC,6,1,31(15),6,29,3,1,21,6.11
+ENG PR,2015-10-03 22:00,Bournemouth AFC,1-1,Watford,8,1,0,54%,12(6),492(382),78%,0.78,6.88,ENG PR,2015-10-03 22:00,Bournemouth AFC,1-1,Watford,5,4,46(27),1,23,4,2,38,6.88
+ENG PR,2015-09-26 22:00,Stoke City,2-1,Bournemouth AFC,11,0,0,56%,11(6),493(396),80%,0.8,6.57,ENG PR,2015-09-26 22:00,Stoke City,2-1,Bournemouth AFC,7,4,27(15),3,24,1,4,31,6.57
+ENG PR,2015-09-19 22:00,Bournemouth AFC,2-0,Sunderland A.F.C,14,2,0,53%,15(5),458(361),79%,0.79,7.24,ENG PR,2015-09-19 22:00,Bournemouth AFC,2-0,Sunderland A.F.C,7,2,38(17),2,36,4,6,18,7.24
+ENG PR,2015-09-12 22:00,Norwich City,3-1,Bournemouth AFC,11,3,0,52%,7(2),466(364),78%,0.78,6.12,ENG PR,2015-09-12 22:00,Norwich City,3-1,Bournemouth AFC,4,2,28(11),1,20,3,2,35,6.12
+ENG PR,2015-08-29 22:00,Bournemouth AFC,1-1,Leicester City,9,2,0,57%,5(2),435(320),74%,0.74,6.61,ENG PR,2015-08-29 22:00,Bournemouth AFC,1-1,Leicester City,4,1,47(27),1,30,0,3,36,6.61
+ENG PR,2015-08-22 22:00,West Ham United,3-4,Bournemouth AFC,11,1,0,54%,15(7),442(323),73%,0.73,7,ENG PR,2015-08-22 22:00,West Ham United,3-4,Bournemouth AFC,4,1,36(22),1,24,6,2,33,7
+ENG PR,2015-08-18 03:00,Liverpool,1-0,Bournemouth AFC,18,4,0,44%,13(2),386(295),76%,0.76,6.54,ENG PR,2015-08-18 03:00,Liverpool,1-0,Bournemouth AFC,8,0,40(18),1,34,6,5,31,6.54
+ENG PR,2015-08-08 22:00,Bournemouth AFC,0-1,Aston Villa,13,3,0,59%,11(2),542(456),84%,0.84,6.43,ENG PR,2015-08-08 22:00,Bournemouth AFC,0-1,Aston Villa,6,0,34(17),2,27,7,2,30,6.43

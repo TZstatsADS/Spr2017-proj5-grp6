@@ -1,0 +1,72 @@
+League,Time,Home,Score,Away,Fouls,Yellow Card,Red Card,Possession,Shots (OT),Passes (Success),Pass Success%,Dribbles,Rating,League,Time,Home,Score,Away,Corners,Offsides,Head(Success),saves,Tackles,Off Target,Blocked,Throws,Rating
+ENG PR,2017-04-15 22:00,Everton,3-1,Burnley,14,0,0,37%,13(6),300(197),66%,0.66,6.68,ENG PR,2017-04-15 22:00,Everton,3-1,Burnley,7,0,40(24),5,30,4,3,21,6.68
+ENG PR,2017-04-08 22:00,Middlesbrough,0-0,Burnley,12,3,0,44%,8(2),355(269),76%,0.76,6.97,ENG PR,2017-04-08 22:00,Middlesbrough,0-0,Burnley,3,2,49(18),5,24,5,0,17,6.97
+ENG PR,2017-04-05 02:45,Burnley,1-0,Stoke City,9,3,0,48%,7(3),369(244),66%,0.66,7.12,ENG PR,2017-04-05 02:45,Burnley,1-0,Stoke City,3,4,75(35),2,25,1,3,21,7.12
+ENG PR,2017-04-01 22:00,Burnley,0-2,Tottenham Hotspur,9,2,0,38%,13(2),347(246),71%,0.71,6.49,ENG PR,2017-04-01 22:00,Burnley,0-2,Tottenham Hotspur,3,5,43(23),5,34,6,5,23,6.49
+ENG PR,2017-03-18 23:00,Sunderland A.F.C,0-0,Burnley,7,1,0,56%,17(3),380(271),71%,0.71,7,ENG PR,2017-03-18 23:00,Sunderland A.F.C,0-0,Burnley,5,1,57(29),5,14,8,6,28,7
+ENG PR,2017-03-12 23:59,Liverpool,2-1,Burnley,16,2,0,35%,11(1),304(191),63%,0.63,6.79,ENG PR,2017-03-12 23:59,Liverpool,2-1,Burnley,1,3,59(34),1,31,8,2,17,6.79
+ENG PR,2017-03-04 23:00,Swansea City,3-2,Burnley,13,2,0,30%,6(4),248(162),65%,0.65,7,ENG PR,2017-03-04 23:00,Swansea City,3-2,Burnley,2,1,47(26),7,48,2,0,20,7
+ENG PR,2017-02-25 23:00,Hull City,1-1,Burnley,13,3,1,34%,10(3),236(134),57%,0.57,6.41,ENG PR,2017-02-25 23:00,Hull City,1-1,Burnley,3,6,48(20),0,14,3,4,20,6.41
+ENG PR,2017-02-12 21:30,Burnley,1-1,Chelsea,12,3,0,28%,6(4),297(182),61%,0.61,6.62,ENG PR,2017-02-12 21:30,Burnley,1-1,Chelsea,1,3,28(16),1,33,1,1,22,6.62
+ENG PR,2017-02-04 23:00,Watford,2-1,Burnley,10,0,1,40%,10(6),338(202),60%,0.6,6.6,ENG PR,2017-02-04 23:00,Watford,2-1,Burnley,6,4,59(31),5,33,1,3,22,6.6
+ENG PR,2017-02-01 03:45,Burnley,1-0,Leicester City,4,1,0,59%,25(4),415(274),66%,0.66,7.19,ENG PR,2017-02-01 03:45,Burnley,1-0,Leicester City,10,1,76(48),5,24,12,9,40,7.19
+ENG PR,2017-01-22 22:15,Arsenal,2-1,Burnley,11,3,0,30%,11(5),238(160),67%,0.67,6.75,ENG PR,2017-01-22 22:15,Arsenal,2-1,Burnley,4,0,28(12),6,42,3,3,10,6.75
+ENG PR,2017-01-14 23:00,Burnley,1-0,Southampton,14,1,0,41%,9(3),294(182),62%,0.62,7.03,ENG PR,2017-01-14 23:00,Burnley,1-0,Southampton,2,1,49(21),1,23,4,2,27,7.03
+ENG PR,2017-01-02 23:00,Manchester City,2-1,Burnley,11,3,0,45%,13(5),353(242),69%,0.69,6.45,ENG PR,2017-01-02 23:00,Manchester City,2-1,Burnley,8,3,62(30),1,24,6,2,24,6.45
+ENG PR,2016-12-31 23:00,Burnley,4-1,Sunderland A.F.C,10,1,0,46%,16(6),340(228),67%,0.67,7.12,ENG PR,2016-12-31 23:00,Burnley,4-1,Sunderland A.F.C,6,3,30(10),2,36,8,2,25,7.12
+ENG PR,2016-12-26 23:00,Burnley,1-0,Middlesbrough,17,6,0,44%,8(5),301(182),60%,0.6,6.84,ENG PR,2016-12-26 23:00,Burnley,1-0,Middlesbrough,7,3,49(25),2,22,2,1,26,6.84
+ENG PR,2016-12-18 23:59,Tottenham Hotspur,2-1,Burnley,11,2,0,40%,6(3),328(206),63%,0.63,6.62,ENG PR,2016-12-18 23:59,Tottenham Hotspur,2-1,Burnley,2,2,42(18),7,39,1,2,16,6.62
+ENG PR,2016-12-15 03:45,West Ham United,1-0,Burnley,15,2,0,41%,7(1),307(192),63%,0.63,6.54,ENG PR,2016-12-15 03:45,West Ham United,1-0,Burnley,1,3,61(31),6,19,4,2,22,6.54
+ENG PR,2016-12-10 23:00,Burnley,3-2,Bournemouth AFC,14,2,0,31%,15(6),243(141),58%,0.58,7.07,ENG PR,2016-12-10 23:00,Burnley,3-2,Bournemouth AFC,4,5,53(17),2,18,7,2,20,7.07
+ENG PR,2016-12-03 23:00,Stoke City,2-0,Burnley,13,2,0,44%,13(3),328(241),73%,0.73,6.55,ENG PR,2016-12-03 23:00,Stoke City,2-0,Burnley,9,5,51(26),2,27,5,5,27,6.55
+ENG PR,2016-11-26 20:30,Burnley,1-2,Manchester City,8,2,0,33%,10(5),267(145),54%,0.54,6.61,ENG PR,2016-11-26 20:30,Burnley,1-2,Manchester City,5,4,55(23),3,14,0,5,19,6.61
+ENG PR,2016-11-22 04:00,West Bromwich(WBA),4-0,Burnley,12,0,0,55%,5(2),482(389),81%,0.81,6.02,ENG PR,2016-11-22 04:00,West Bromwich(WBA),4-0,Burnley,3,3,54(28),2,18,2,1,15,6.02
+ENG PR,2016-11-05 23:00,Burnley,3-2,Crystal Palace,11,1,0,38%,14(7),324(212),65%,0.65,7.06,ENG PR,2016-11-05 23:00,Burnley,3-2,Crystal Palace,4,3,46(20),3,39,6,1,15,7.06
+ENG PR,2016-10-29 22:00,Manchester United,0-0,Burnley,9,3,0,36%,7(1),238(160),67%,0.67,7.22,ENG PR,2016-10-29 22:00,Manchester United,0-0,Burnley,1,2,41(22),11,31,5,1,10,7.22
+ENG PR,2016-10-22 22:00,Burnley,2-1,Everton,16,2,0,34%,9(3),286(191),67%,0.67,6.92,ENG PR,2016-10-22 22:00,Burnley,2-1,Everton,2,1,41(17),7,26,4,2,19,6.92
+ENG PR,2016-10-16 23:00,Southampton,3-1,Burnley,10,2,0,36%,6(1),306(210),69%,0.69,6.47,ENG PR,2016-10-16 23:00,Southampton,3-1,Burnley,4,1,49(27),11,22,4,1,17,6.47
+ENG PR,2016-10-02 23:30,Burnley,0-1,Arsenal,2,0,0,33%,10(1),349(246),70%,0.7,6.83,ENG PR,2016-10-02 23:30,Burnley,0-1,Arsenal,2,4,35(20),2,39,6,3,24,6.83
+ENG PR,2016-09-27 03:00,Burnley,2-0,Watford,11,1,0,44%,13(4),359(242),67%,0.67,7.38,ENG PR,2016-09-27 03:00,Burnley,2-0,Watford,7,5,66(33),3,28,3,6,18,7.38
+ENG PR,2016-09-17 22:00,Leicester City,3-0,Burnley,9,1,0,41%,7(2),361(248),69%,0.69,6.31,ENG PR,2016-09-17 22:00,Leicester City,3-0,Burnley,1,4,43(25),4,23,4,1,25,6.31
+ENG PR,2016-09-10 22:00,Burnley,1-1,Hull City,13,2,0,39%,13(2),394(314),80%,0.8,6.75,ENG PR,2016-09-10 22:00,Burnley,1-1,Hull City,5,0,26(16),2,15,6,5,27,6.75
+ENG PR,2016-08-27 22:00,Chelsea,3-0,Burnley,9,2,0,38%,6(0),402(309),77%,0.77,6.4,ENG PR,2016-08-27 22:00,Chelsea,3-0,Burnley,5,2,24(9),7,28,4,2,15,6.4
+ENG PR,2016-08-20 22:00,Burnley,2-0,Liverpool,14,0,0,26%,3(2),207(128),62%,0.62,7.3,ENG PR,2016-08-20 22:00,Burnley,2-0,Liverpool,1,3,22(12),2,20,1,0,11,7.3
+ENG PR,2016-08-13 22:00,Burnley,0-1,Swansea City,10,3,0,52%,5(3),336(237),71%,0.71,6.63,ENG PR,2016-08-13 22:00,Burnley,0-1,Swansea City,7,3,51(21),0,22,2,2,40,6.63
+ENG PR,2015-05-24 22:00,Aston Villa,0-1,Burnley,6,2,0,36%,6(3),314(209),67%,0.67,0,ENG PR,2015-05-24 22:00,Aston Villa,0-1,Burnley,2,1,40(21),5,26,1,2,25,0
+ENG PR,2015-05-16 22:00,Burnley,0-0,Stoke City,14,1,0,45%,11(4),368(243),66%,0.66,0,ENG PR,2015-05-16 22:00,Burnley,0-0,Stoke City,7,1,46(16),3,18,0,7,29,0
+ENG PR,2015-05-09 22:00,Hull City,0-1,Burnley,12,1,0,45%,8(2),373(267),72%,0.72,0,ENG PR,2015-05-09 22:00,Hull City,0-1,Burnley,3,1,57(32),3,20,5,1,20,0
+ENG PR,2015-05-02 22:00,West Ham United,1-0,Burnley,6,2,1,40%,5(2),305(212),70%,0.7,0,ENG PR,2015-05-02 22:00,West Ham United,1-0,Burnley,3,2,38(18),6,15,5,1,22,0
+ENG PR,2015-04-25 22:00,Burnley,0-1,Leicester City,16,3,0,60%,12(4),398(284),71%,0.71,0,ENG PR,2015-04-25 22:00,Burnley,0-1,Leicester City,6,1,88(52),3,12,2,6,38,0
+ENG PR,2015-04-18 22:00,Everton,1-0,Burnley,15,4,1,39%,10(1),257(161),63%,0.63,0,ENG PR,2015-04-18 22:00,Everton,1-0,Burnley,6,0,49(29),7,18,3,1,13,0
+ENG PR,2015-04-12 00:30,Burnley,0-1,Arsenal,15,2,0,32%,8(4),303(201),66%,0.66,0,ENG PR,2015-04-12 00:30,Burnley,0-1,Arsenal,1,3,63(32),4,33,1,3,25,0
+ENG PR,2015-04-05 20:30,Burnley,0-0,Tottenham Hotspur,9,2,0,40%,15(4),330(213),65%,0.65,0,ENG PR,2015-04-05 20:30,Burnley,0-0,Tottenham Hotspur,5,4,58(33),2,30,6,5,36,0
+ENG PR,2015-03-21 23:00,Southampton,2-0,Burnley,7,0,0,39%,15(3),358(270),75%,0.75,0,ENG PR,2015-03-21 23:00,Southampton,2-0,Burnley,5,0,32(16),2,23,7,5,14,0
+ENG PR,2015-03-15 01:30,Burnley,1-0,Manchester City,6,2,0,36%,10(4),291(190),65%,0.65,0,ENG PR,2015-03-15 01:30,Burnley,1-0,Manchester City,2,2,64(33),5,31,5,1,22,0
+ENG PR,2015-03-05 04:00,Liverpool,2-0,Burnley,14,1,0,39%,9(1),384(282),73%,0.73,0,ENG PR,2015-03-05 04:00,Liverpool,2-0,Burnley,5,1,38(19),6,41,4,4,27,0
+ENG PR,2015-02-28 23:00,Burnley,0-1,Swansea City,14,0,0,49%,13(6),349(236),68%,0.68,0,ENG PR,2015-02-28 23:00,Burnley,0-1,Swansea City,6,2,46(27),2,25,5,2,32,0
+ENG PR,2015-02-21 23:00,Chelsea,1-1,Burnley,9,2,0,45%,10(5),374(260),70%,0.7,0,ENG PR,2015-02-21 23:00,Chelsea,1-1,Burnley,7,2,44(18),4,38,4,1,28,0
+ENG PR,2015-02-12 03:45,Manchester United,3-1,Burnley,8,3,0,46%,13(3),367(273),74%,0.74,0,ENG PR,2015-02-12 03:45,Manchester United,3-1,Burnley,8,0,52(29),4,38,6,4,19,0
+ENG PR,2015-02-08 20:00,Burnley,2-2,West Bromwich(WBA),10,0,0,52%,12(5),457(362),79%,0.79,0,ENG PR,2015-02-08 20:00,Burnley,2-2,West Bromwich(WBA),5,3,51(21),3,22,2,5,27,0
+ENG PR,2015-01-31 23:00,Sunderland A.F.C,2-0,Burnley,12,1,0,49%,13(4),415(317),76%,0.76,0,ENG PR,2015-01-31 23:00,Sunderland A.F.C,2-0,Burnley,3,3,42(18),1,34,7,2,21,0
+ENG PR,2015-01-17 23:00,Burnley,2-3,Crystal Palace,10,1,0,50%,7(4),370(227),61%,0.61,0,ENG PR,2015-01-17 23:00,Burnley,2-3,Crystal Palace,5,0,62(28),1,29,1,2,25,0
+ENG PR,2015-01-10 23:00,Burnley,2-1,Queens Park Rangers (QPR),14,2,0,44%,18(7),311(195),63%,0.63,0,ENG PR,2015-01-10 23:00,Burnley,2-1,Queens Park Rangers (QPR),10,1,36(26),6,21,5,6,25,0
+ENG PR,2015-01-01 23:00,Newcastle United,3-3,Burnley,13,4,0,51%,15(4),390(283),73%,0.73,0,ENG PR,2015-01-01 23:00,Newcastle United,3-3,Burnley,5,0,53(28),1,32,8,3,24,0
+ENG PR,2014-12-28 23:00,Manchester City,2-2,Burnley,9,1,0,43%,12(3),345(266),77%,0.77,0,ENG PR,2014-12-28 23:00,Manchester City,2-2,Burnley,3,3,51(30),4,18,5,4,19,0
+ENG PR,2014-12-26 23:00,Burnley,0-1,Liverpool,7,0,0,50%,16(0),455(334),73%,0.73,0,ENG PR,2014-12-26 23:00,Burnley,0-1,Liverpool,8,0,55(30),2,24,12,4,36,0
+ENG PR,2014-12-20 23:00,Tottenham Hotspur,2-1,Burnley,8,0,0,41%,9(5),313(211),67%,0.67,0,ENG PR,2014-12-20 23:00,Tottenham Hotspur,2-1,Burnley,6,6,41(13),4,24,4,0,22,0
+ENG PR,2014-12-13 23:00,Burnley,1-0,Southampton,15,1,0,41%,7(2),325(216),66%,0.66,0,ENG PR,2014-12-13 23:00,Burnley,1-0,Southampton,2,2,43(21),4,18,3,2,40,0
+ENG PR,2014-12-06 23:00,Queens Park Rangers (QPR),2-0,Burnley,12,1,0,55%,15(3),375(250),67%,0.67,0,ENG PR,2014-12-06 23:00,Queens Park Rangers (QPR),2-0,Burnley,11,2,60(28),4,25,7,5,25,0
+ENG PR,2014-12-03 03:45,Burnley,1-1,Newcastle United,12,2,0,45%,12(2),323(209),65%,0.65,0,ENG PR,2014-12-03 03:45,Burnley,1-1,Newcastle United,2,2,54(28),3,25,7,3,35,0
+ENG PR,2014-11-29 23:00,Burnley,1-1,Aston Villa,8,3,0,50%,11(4),432(329),76%,0.76,0,ENG PR,2014-11-29 23:00,Burnley,1-1,Aston Villa,1,1,35(16),6,24,4,3,33,0
+ENG PR,2014-11-22 23:00,Stoke City,1-2,Burnley,9,2,0,28%,5(4),229(117),51%,0.51,0,ENG PR,2014-11-22 23:00,Stoke City,1-2,Burnley,0,0,74(34),3,32,1,0,24,0
+ENG PR,2014-11-08 23:00,Burnley,1-0,Hull City,17,6,0,49%,14(3),333(241),72%,0.72,0,ENG PR,2014-11-08 23:00,Burnley,1-0,Hull City,7,2,61(22),1,19,3,8,29,0
+ENG PR,2014-11-01 23:00,Arsenal,3-0,Burnley,5,1,0,33%,3(0),158(101),64%,0.64,0,ENG PR,2014-11-01 23:00,Arsenal,3-0,Burnley,1,2,16(8),10,26,2,1,12,0
+ENG PR,2014-10-26 21:30,Burnley,1-3,Everton,12,4,0,43%,14(3),355(259),73%,0.73,0,ENG PR,2014-10-26 21:30,Burnley,1-3,Everton,5,2,30(14),3,32,6,5,24,0
+ENG PR,2014-10-18 22:00,Burnley,1-3,West Ham United,3,0,0,49%,17(3),364(254),70%,0.7,0,ENG PR,2014-10-18 22:00,Burnley,1-3,West Ham United,5,2,38(13),3,21,10,4,36,0
+ENG PR,2014-10-04 22:00,Leicester City,2-2,Burnley,12,2,0,46%,10(4),364(256),70%,0.7,0,ENG PR,2014-10-04 22:00,Leicester City,2-2,Burnley,3,1,61(35),4,21,4,2,25,0
+ENG PR,2014-09-28 23:00,West Bromwich(WBA),4-0,Burnley,9,2,0,37%,10(2),360(277),77%,0.77,0,ENG PR,2014-09-28 23:00,West Bromwich(WBA),4-0,Burnley,2,2,39(20),2,8,4,4,16,0
+ENG PR,2014-09-20 22:00,Burnley,0-0,Sunderland A.F.C,14,1,0,44%,16(6),370(271),73%,0.73,0,ENG PR,2014-09-20 22:00,Burnley,0-0,Sunderland A.F.C,4,2,41(22),6,19,8,2,26,0
+ENG PR,2014-09-13 22:00,Crystal Palace,0-0,Burnley,10,0,0,55%,0(3),372(276),74%,0.74,0,ENG PR,2014-09-13 22:00,Crystal Palace,0-0,Burnley,0,1,45(22),0,7,4,4,24,0
+ENG PR,2014-08-30 19:45,Burnley,0-0,Manchester United,10,2,0,36%,9(3),0(0),0%,0,0,ENG PR,2014-08-30 19:45,Burnley,0-0,Manchester United,3,2,0(0),2,0,0,0,0,0
+ENG PR,2014-08-23 22:00,Swansea City,1-0,Burnley,13,1,0,45%,12(1),0(0),0%,0,0,ENG PR,2014-08-23 22:00,Swansea City,1-0,Burnley,3,1,0(0),4,0,0,0,0,0
+ENG PR,2014-08-19 03:00,Burnley,1-3,Chelsea,6,1,0,39%,9(2),0(0),0%,0,0,ENG PR,2014-08-19 03:00,Burnley,1-3,Chelsea,4,3,0(0),0,0,0,0,0,0

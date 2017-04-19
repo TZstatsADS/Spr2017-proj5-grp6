@@ -1,0 +1,107 @@
+League,Time,Home,Score,Away,Fouls,Yellow Card,Red Card,Possession,Shots (OT),Passes (Success),Pass Success%,Dribbles,Rating,League,Time,Home,Score,Away,Corners,Offsides,Head(Success),saves,Tackles,Off Target,Blocked,Throws,Rating
+ENG PR,2017-04-15 22:00,Everton,3-1,Burnley,15,2,0,63%,30(7),518(434),84%,0.84,7.34,ENG PR,2017-04-15 22:00,Everton,3-1,Burnley,6,3,40(16),5,26,9,13,17,7.34
+ENG PR,2017-04-09 23:00,Everton,4-2,Leicester City,8,2,0,60%,12(7),594(479),81%,0.81,7.36,ENG PR,2017-04-09 23:00,Everton,4-2,Leicester City,4,0,34(17),2,29,1,4,32,7.36
+ENG PR,2017-04-05 03:00,Manchester United,1-1,Everton,18,4,1,39%,11(4),376(287),76%,0.76,6.91,ENG PR,2017-04-05 03:00,Manchester United,1-1,Everton,5,3,24(12),2,30,2,5,14,6.91
+ENG PR,2017-04-01 19:30,Liverpool,3-1,Everton,10,3,0,49%,9(4),426(311),73%,0.73,6.64,ENG PR,2017-04-01 19:30,Liverpool,3-1,Everton,3,1,55(27),3,43,3,2,34,6.64
+ENG PR,2017-03-18 23:00,Everton,4-0,Hull City,9,2,0,51%,14(8),454(367),81%,0.81,7.48,ENG PR,2017-03-18 23:00,Everton,4-0,Hull City,5,4,23(8),0,20,4,2,30,7.48
+ENG PR,2017-03-11 23:00,Everton,3-0,West Bromwich(WBA),8,1,0,63%,16(4),599(489),82%,0.82,7.24,ENG PR,2017-03-11 23:00,Everton,3-0,West Bromwich(WBA),4,0,36(14),2,22,6,5,20,7.24
+ENG PR,2017-03-05 21:30,Tottenham Hotspur,3-2,Everton,13,2,0,49%,8(4),442(331),75%,0.75,6.48,ENG PR,2017-03-05 21:30,Tottenham Hotspur,3-2,Everton,2,4,30(11),4,33,1,3,22,6.48
+ENG PR,2017-02-25 23:00,Everton,2-0,Sunderland A.F.C,10,0,0,63%,21(8),507(423),83%,0.83,7.43,ENG PR,2017-02-25 23:00,Everton,2-0,Sunderland A.F.C,10,1,30(12),1,25,9,3,15,7.43
+ENG PR,2017-02-11 23:00,Middlesbrough,0-0,Everton,9,0,0,54%,7(3),563(456),81%,0.81,6.99,ENG PR,2017-02-11 23:00,Middlesbrough,0-0,Everton,2,2,46(22),3,39,3,1,23,6.99
+ENG PR,2017-02-04 23:00,Everton,6-3,Bournemouth AFC,14,3,0,46%,15(10),478(391),82%,0.82,7.52,ENG PR,2017-02-04 23:00,Everton,6-3,Bournemouth AFC,4,4,20(10),5,30,2,3,15,7.52
+ENG PR,2017-02-02 04:00,Stoke City,1-1,Everton,12,0,0,53%,14(5),484(380),79%,0.79,6.74,ENG PR,2017-02-02 04:00,Stoke City,1-1,Everton,5,3,33(13),6,26,6,3,20,6.74
+ENG PR,2017-01-21 23:00,Crystal Palace,0-1,Everton,15,1,0,56%,19(10),468(373),80%,0.8,7.21,ENG PR,2017-01-21 23:00,Crystal Palace,0-1,Everton,7,1,31(7),2,22,6,2,22,7.21
+ENG PR,2017-01-15 21:30,Everton,4-0,Manchester City,17,2,0,28%,6(4),274(185),68%,0.68,7.52,ENG PR,2017-01-15 21:30,Everton,4-0,Manchester City,3,4,23(8),5,35,1,1,15,7.52
+ENG PR,2017-01-02 23:00,Everton,3-0,Southampton,5,0,0,54%,17(6),482(362),75%,0.75,7.51,ENG PR,2017-01-02 23:00,Everton,3-0,Southampton,10,4,34(20),3,31,5,6,23,7.51
+ENG PR,2016-12-31 04:00,Hull City,2-2,Everton,13,2,0,57%,22(8),526(426),81%,0.81,7.07,ENG PR,2016-12-31 04:00,Hull City,2-2,Everton,5,0,43(20),2,33,7,6,15,7.07
+ENG PR,2016-12-26 23:00,Leicester City,0-2,Everton,7,0,0,57%,8(3),544(402),74%,0.74,7.2,ENG PR,2016-12-26 23:00,Leicester City,0-2,Everton,4,3,54(31),2,25,5,0,24,7.2
+ENG PR,2016-12-20 04:00,Everton,0-1,Liverpool,13,3,0,32%,6(1),286(182),64%,0.64,6.77,ENG PR,2016-12-20 04:00,Everton,0-1,Liverpool,1,1,49(30),3,23,3,2,23,6.77
+ENG PR,2016-12-14 03:45,Everton,2-1,Arsenal,10,3,1,42%,14(4),357(251),70%,0.7,7,ENG PR,2016-12-14 03:45,Everton,2-1,Arsenal,8,1,43(22),2,32,5,5,28,7
+ENG PR,2016-12-10 20:30,Watford,3-2,Everton,16,2,0,53%,11(4),398(286),72%,0.72,6.74,ENG PR,2016-12-10 20:30,Watford,3-2,Everton,4,3,44(21),3,36,4,3,25,6.74
+ENG PR,2016-12-04 23:59,Everton,1-1,Manchester United,13,2,0,45%,13(6),379(258),68%,0.68,6.64,ENG PR,2016-12-04 23:59,Everton,1-1,Manchester United,6,3,48(21),1,31,4,3,24,6.64
+ENG PR,2016-11-28 00:30,Southampton,1-0,Everton,15,2,0,47%,10(0),416(323),78%,0.78,6.73,ENG PR,2016-11-28 00:30,Southampton,1-0,Everton,2,0,42(23),6,36,10,1,31,6.73
+ENG PR,2016-11-19 23:00,Everton,1-1,Swansea City,13,5,0,62%,14(6),490(381),78%,0.78,6.46,ENG PR,2016-11-19 23:00,Everton,1-1,Swansea City,10,1,29(21),2,19,6,2,30,6.46
+ENG PR,2016-11-06 01:30,Chelsea,5-0,Everton,16,3,0,40%,1(0),460(376),82%,0.82,5.97,ENG PR,2016-11-06 01:30,Chelsea,5-0,Everton,2,1,25(16),4,41,1,0,15,5.97
+ENG PR,2016-10-30 21:30,Everton,2-0,West Ham United,15,2,0,47%,17(6),407(332),82%,0.82,7.34,ENG PR,2016-10-30 21:30,Everton,2-0,West Ham United,8,2,22(13),3,25,4,7,8,7.34
+ENG PR,2016-10-22 22:00,Burnley,2-1,Everton,15,3,0,66%,20(8),564(457),81%,0.81,6.66,ENG PR,2016-10-22 22:00,Burnley,2-1,Everton,8,1,41(24),1,8,2,10,22,6.66
+ENG PR,2016-10-15 22:00,Manchester City,1-1,Everton,9,2,0,28%,3(2),258(160),62%,0.62,7.08,ENG PR,2016-10-15 22:00,Manchester City,1-1,Everton,1,6,30(18),7,40,1,0,16,7.08
+ENG PR,2016-10-01 03:00,Everton,1-1,Crystal Palace,16,5,0,56%,13(3),401(301),75%,0.75,6.91,ENG PR,2016-10-01 03:00,Everton,1-1,Crystal Palace,10,3,45(23),1,32,6,4,28,6.91
+ENG PR,2016-09-24 22:00,Bournemouth AFC,1-0,Everton,14,2,0,47%,13(2),359(271),75%,0.75,6.39,ENG PR,2016-09-24 22:00,Bournemouth AFC,1-0,Everton,3,2,25(13),0,32,6,5,31,6.39
+ENG PR,2016-09-18 00:30,Everton,3-1,Middlesbrough,5,2,0,52%,11(6),541(455),84%,0.84,7.17,ENG PR,2016-09-18 00:30,Everton,3-1,Middlesbrough,6,4,38(17),0,27,4,1,16,7.17
+ENG PR,2016-09-13 03:00,Sunderland A.F.C,0-3,Everton,8,1,0,67%,20(9),571(507),89%,0.89,7.63,ENG PR,2016-09-13 03:00,Sunderland A.F.C,0-3,Everton,5,1,15(5),2,39,8,3,13,7.63
+ENG PR,2016-08-27 22:00,Everton,1-0,Stoke City,14,2,0,60%,21(9),485(401),83%,0.83,7.18,ENG PR,2016-08-27 22:00,Everton,1-0,Stoke City,9,3,34(15),1,34,7,5,14,7.18
+ENG PR,2016-08-20 22:00,West Bromwich(WBA),1-2,Everton,10,0,0,65%,10(5),570(476),84%,0.84,7.02,ENG PR,2016-08-20 22:00,West Bromwich(WBA),1-2,Everton,4,1,27(13),1,29,5,1,13,7.02
+ENG PR,2016-08-13 22:00,Everton,1-1,Tottenham Hotspur,10,0,0,41%,9(7),357(261),73%,0.73,6.9,ENG PR,2016-08-13 22:00,Everton,1-1,Tottenham Hotspur,5,5,27(16),3,38,2,2,20,6.9
+ENG PR,2016-05-15 22:00,Everton,3-0,Norwich City,7,0,0,50%,15(8),382(301),79%,0.79,7.4,ENG PR,2016-05-15 22:00,Everton,3-0,Norwich City,4,1,22(12),2,26,4,3,21,7.4
+ENG PR,2016-05-12 02:45,Sunderland A.F.C,3-0,Everton,7,0,0,54%,17(6),590(489),83%,0.83,6.42,ENG PR,2016-05-12 02:45,Sunderland A.F.C,3-0,Everton,5,1,29(14),5,25,5,6,20,6.42
+ENG PR,2016-05-08 00:30,Leicester City,3-1,Everton,12,3,0,52%,9(5),499(409),82%,0.82,6.46,ENG PR,2016-05-08 00:30,Leicester City,3-1,Everton,4,1,38(12),5,37,3,1,22,6.46
+ENG PR,2016-04-30 22:00,Everton,2-1,Bournemouth AFC,4,1,0,56%,8(5),606(497),82%,0.82,6.93,ENG PR,2016-04-30 22:00,Everton,2-1,Bournemouth AFC,3,1,35(18),1,31,3,3,23,6.93
+ENG PR,2016-04-21 03:00,Liverpool,4-0,Everton,11,1,1,36%,3(0),308(199),65%,0.65,6.15,ENG PR,2016-04-21 03:00,Liverpool,4-0,Everton,1,1,22(9),9,30,2,1,18,6.15
+ENG PR,2016-04-16 22:00,Everton,1-1,Southampton,8,1,0,45%,7(2),389(304),78%,0.78,6.87,ENG PR,2016-04-16 22:00,Everton,1-1,Southampton,3,0,32(10),3,20,2,3,15,6.87
+ENG PR,2016-04-14 03:00,Crystal Palace,0-0,Everton,9,3,1,41%,9(5),393(301),77%,0.77,6.87,ENG PR,2016-04-14 03:00,Crystal Palace,0-0,Everton,7,0,36(13),6,24,2,2,20,6.87
+ENG PR,2016-04-09 22:00,Watford,1-1,Everton,10,1,0,54%,12(9),455(358),79%,0.79,6.7,ENG PR,2016-04-09 22:00,Watford,1-1,Everton,6,3,47(20),4,22,3,2,18,6.7
+ENG PR,2016-04-03 23:00,Manchester United,1-0,Everton,6,0,0,51%,7(1),428(325),76%,0.76,0,ENG PR,2016-04-03 23:00,Manchester United,1-0,Everton,5,3,19(9),1,38,1,5,20,0
+ENG PR,2016-03-19 20:45,Everton,0-2,Arsenal,7,0,0,56%,3(2),500(394),79%,0.79,6.42,ENG PR,2016-03-19 20:45,Everton,0-2,Arsenal,7,1,22(9),1,42,5,1,27,6.42
+ENG PR,2016-03-05 23:00,Everton,2-3,West Ham United,12,4,1,42%,11(8),343(274),80%,0.8,6.67,ENG PR,2016-03-05 23:00,Everton,2-3,West Ham United,9,1,20(8),2,27,2,5,13,6.67
+ENG PR,2016-03-02 03:45,Aston Villa,1-3,Everton,7,1,0,54%,9(6),540(443),82%,0.82,7.31,ENG PR,2016-03-02 03:45,Aston Villa,1-3,Everton,8,1,29(14),4,29,3,2,16,7.31
+ENG PR,2016-02-13 23:00,Everton,0-1,West Bromwich(WBA),9,1,0,76%,36(5),639(553),87%,0.87,6.89,ENG PR,2016-02-13 23:00,Everton,0-1,West Bromwich(WBA),14,1,35(16),0,19,27,15,23,6.89
+ENG PR,2016-02-06 23:00,Stoke City,0-3,Everton,8,0,0,34%,2(6),326(239),73%,0.73,7.64,ENG PR,2016-02-06 23:00,Stoke City,0-3,Everton,4,1,27(18),3,38,3,5,23,7.64
+ENG PR,2016-02-04 03:45,Everton,3-0,Newcastle United,8,1,0,57%,18(7),477(385),81%,0.81,7.54,ENG PR,2016-02-04 03:45,Everton,3-0,Newcastle United,3,0,24(14),3,42,9,3,30,7.54
+ENG PR,2016-01-24 21:30,Everton,1-2,Swansea City,5,0,0,60%,18(2),592(494),83%,0.83,6.63,ENG PR,2016-01-24 21:30,Everton,1-2,Swansea City,7,2,29(21),3,23,11,7,25,6.63
+ENG PR,2016-01-16 23:00,Chelsea,3-3,Everton,5,1,0,45%,9(4),476(390),82%,0.82,6.83,ENG PR,2016-01-16 23:00,Chelsea,3-3,Everton,4,1,31(15),4,31,3,2,15,6.83
+ENG PR,2016-01-14 03:45,Manchester City,0-0,Everton,6,1,0,45%,7(2),462(406),88%,0.88,6.95,ENG PR,2016-01-14 03:45,Manchester City,0-0,Everton,5,4,15(6),5,31,3,2,6,6.95
+ENG PR,2016-01-03 23:59,Everton,1-1,Tottenham Hotspur,8,1,0,41%,12(3),406(310),76%,0.76,7.09,ENG PR,2016-01-03 23:59,Everton,1-1,Tottenham Hotspur,4,3,24(15),3,29,4,5,16,7.09
+ENG PR,2015-12-28 23:00,Everton,3-4,Stoke City,10,2,0,51%,15(3),479(407),85%,0.85,6.9,ENG PR,2015-12-28 23:00,Everton,3-4,Stoke City,6,2,15(8),1,32,6,6,20,6.9
+ENG PR,2015-12-27 01:30,Newcastle United,0-1,Everton,12,2,0,59%,20(7),518(458),88%,0.88,7.3,ENG PR,2015-12-27 01:30,Newcastle United,0-1,Everton,7,3,28(18),1,26,5,8,11,7.3
+ENG PR,2015-12-19 23:00,Everton,2-3,Leicester City,6,2,0,67%,13(4),538(416),77%,0.77,6.63,ENG PR,2015-12-19 23:00,Everton,2-3,Leicester City,10,2,43(24),2,20,5,3,27,6.63
+ENG PR,2015-12-12 20:45,Norwich City,1-1,Everton,6,0,0,59%,15(3),570(477),84%,0.84,6.77,ENG PR,2015-12-12 20:45,Norwich City,1-1,Everton,4,1,21(14),1,12,10,2,26,6.77
+ENG PR,2015-12-08 04:00,Everton,1-1,Crystal Palace,4,1,0,62%,19(4),525(438),83%,0.83,7.11,ENG PR,2015-12-08 04:00,Everton,1-1,Crystal Palace,13,0,17(5),4,39,8,7,18,7.11
+ENG PR,2015-11-28 23:00,Bournemouth AFC,3-3,Everton,6,0,0,43%,11(6),407(306),75%,0.75,7.22,ENG PR,2015-11-28 23:00,Bournemouth AFC,3-3,Everton,5,0,24(11),6,35,1,4,15,7.22
+ENG PR,2015-11-21 23:00,Everton,4-0,Aston Villa,6,0,0,60%,16(9),605(532),88%,0.88,7.6,ENG PR,2015-11-21 23:00,Everton,4-0,Aston Villa,2,1,11(6),3,30,4,3,16,7.6
+ENG PR,2015-11-07 23:00,West Ham United,1-1,Everton,12,2,0,49%,10(4),429(360),84%,0.84,6.78,ENG PR,2015-11-07 23:00,West Ham United,1-1,Everton,5,1,18(5),4,24,6,3,13,6.78
+ENG PR,2015-11-01 21:30,Everton,6-2,Sunderland A.F.C,6,3,0,68%,14(8),686(618),90%,0.9,7.32,ENG PR,2015-11-01 21:30,Everton,6-2,Sunderland A.F.C,6,3,21(10),7,19,5,2,17,7.32
+ENG PR,2015-10-25 00:30,Arsenal,2-1,Everton,14,2,1,43%,10(5),403(322),80%,0.8,6.73,ENG PR,2015-10-25 00:30,Arsenal,2-1,Everton,5,2,21(9),3,53,3,2,21,6.73
+ENG PR,2015-10-17 22:00,Everton,0-3,Manchester United,12,2,0,47%,12(3),457(368),81%,0.81,6.38,ENG PR,2015-10-17 22:00,Everton,0-3,Manchester United,5,0,25(14),4,37,5,3,22,6.38
+ENG PR,2015-10-04 20:30,Everton,1-1,Liverpool,10,3,0,50%,14(4),387(296),76%,0.76,6.91,ENG PR,2015-10-04 20:30,Everton,1-1,Liverpool,5,1,31(14),3,37,2,8,24,6.91
+ENG PR,2015-09-29 03:00,West Bromwich(WBA),2-3,Everton,8,3,0,54%,12(4),467(373),80%,0.8,6.84,ENG PR,2015-09-29 03:00,West Bromwich(WBA),2-3,Everton,4,2,35(15),2,26,5,3,20,6.84
+ENG PR,2015-09-19 22:00,Swansea City,0-0,Everton,11,2,1,52%,17(2),451(362),80%,0.8,7,ENG PR,2015-09-19 22:00,Swansea City,0-0,Everton,4,1,22(11),3,31,7,8,18,7
+ENG PR,2015-09-12 19:45,Everton,3-1,Chelsea,12,2,0,38%,14(9),351(288),82%,0.82,7.18,ENG PR,2015-09-12 19:45,Everton,3-1,Chelsea,7,0,17(12),1,31,5,0,12,7.18
+ENG PR,2015-08-30 00:30,Tottenham Hotspur,0-0,Everton,9,1,0,50%,8(3),445(371),83%,0.83,6.85,ENG PR,2015-08-30 00:30,Tottenham Hotspur,0-0,Everton,2,1,26(11),6,25,4,1,17,6.85
+ENG PR,2015-08-23 23:00,Everton,0-2,Manchester City,5,0,0,46%,10(1),405(335),83%,0.83,6.7,ENG PR,2015-08-23 23:00,Everton,0-2,Manchester City,8,3,25(11),7,32,5,4,18,6.7
+ENG PR,2015-08-15 19:45,Southampton,0-3,Everton,10,2,0,45%,10(4),396(313),79%,0.79,7.41,ENG PR,2015-08-15 19:45,Southampton,0-3,Everton,9,2,31(15),4,19,2,4,14,7.41
+ENG PR,2015-08-08 22:00,Everton,2-2,Watford,7,1,0,68%,10(5),557(449),81%,0.81,6.77,ENG PR,2015-08-08 22:00,Everton,2-2,Watford,8,4,48(20),3,25,3,2,30,6.77
+ENG PR,2015-05-24 22:00,Everton,0-1,Tottenham Hotspur,12,1,0,41%,9(1),411(303),74%,0.74,0,ENG PR,2015-05-24 22:00,Everton,0-1,Tottenham Hotspur,3,2,34(15),2,26,6,2,19,0
+ENG PR,2015-05-16 22:00,West Ham United,1-2,Everton,14,4,0,55%,21(3),439(350),80%,0.8,0,ENG PR,2015-05-16 22:00,West Ham United,1-2,Everton,8,2,34(18),2,26,8,6,17,0
+ENG PR,2015-05-09 19:45,Everton,0-2,Sunderland A.F.C,10,2,0,73%,22(4),592(508),86%,0.86,0,ENG PR,2015-05-09 19:45,Everton,0-2,Sunderland A.F.C,16,2,20(8),1,23,9,9,14,0
+ENG PR,2015-05-02 22:00,Aston Villa,3-2,Everton,12,1,0,50%,9(5),427(324),76%,0.76,0,ENG PR,2015-05-02 22:00,Aston Villa,3-2,Everton,3,3,19(5),3,18,1,3,32,0
+ENG PR,2015-04-26 20:30,Everton,3-0,Manchester United,6,0,0,34%,9(7),307(215),70%,0.7,0,ENG PR,2015-04-26 20:30,Everton,3-0,Manchester United,7,1,16(7),4,32,1,1,17,0
+ENG PR,2015-04-18 22:00,Everton,1-0,Burnley,12,1,0,61%,21(8),506(422),83%,0.83,0,ENG PR,2015-04-18 22:00,Everton,1-0,Burnley,5,1,49(20),1,21,3,3,11,0
+ENG PR,2015-04-11 19:45,Swansea City,1-1,Everton,12,3,0,49%,12(8),439(354),81%,0.81,0,ENG PR,2015-04-11 19:45,Swansea City,1-1,Everton,6,1,34(13),2,22,2,2,16,0
+ENG PR,2015-04-04 22:00,Everton,1-0,Southampton,12,0,0,45%,11(1),378(285),75%,0.75,0,ENG PR,2015-04-04 22:00,Everton,1-0,Southampton,4,0,41(18),2,25,5,5,27,0
+ENG PR,2015-03-22 23:59,Queens Park Rangers (QPR),1-2,Everton,12,1,0,47%,8(3),387(262),68%,0.68,0,ENG PR,2015-03-22 23:59,Queens Park Rangers (QPR),1-2,Everton,3,5,57(28),0,27,2,3,31,0
+ENG PR,2015-03-15 23:59,Everton,3-0,Newcastle United,11,1,0,54%,15(9),485(405),84%,0.84,0,ENG PR,2015-03-15 23:59,Everton,3-0,Newcastle United,3,0,36(23),4,28,4,2,20,0
+ENG PR,2015-03-05 03:45,Stoke City,2-0,Everton,14,2,0,56%,10(5),467(376),81%,0.81,0,ENG PR,2015-03-05 03:45,Stoke City,2-0,Everton,6,1,43(21),1,26,1,4,39,0
+ENG PR,2015-03-01 22:05,Arsenal,2-0,Everton,5,0,0,54%,8(2),446(356),80%,0.8,0,ENG PR,2015-03-01 22:05,Arsenal,2-0,Everton,9,1,32(15),2,30,4,2,28,0
+ENG PR,2015-02-22 22:05,Everton,2-2,Leicester City,7,0,0,54%,18(3),543(450),83%,0.83,0,ENG PR,2015-02-22 22:05,Everton,2-2,Leicester City,4,1,38(24),2,32,11,4,26,0
+ENG PR,2015-02-12 03:45,Chelsea,1-0,Everton,13,5,1,42%,7(4),419(331),79%,0.79,0,ENG PR,2015-02-12 03:45,Chelsea,1-0,Everton,2,1,30(7),6,36,2,1,20,0
+ENG PR,2015-02-08 01:30,Everton,0-0,Liverpool,11,4,0,45%,6(1),455(380),84%,0.84,0,ENG PR,2015-02-08 01:30,Everton,0-0,Liverpool,3,5,22(11),6,39,4,1,28,0
+ENG PR,2015-01-31 23:00,Crystal Palace,0-1,Everton,14,3,0,44%,14(2),385(297),77%,0.77,0,ENG PR,2015-01-31 23:00,Crystal Palace,0-1,Everton,1,0,48(17),3,34,6,6,24,0
+ENG PR,2015-01-20 04:00,Everton,0-0,West Bromwich(WBA),11,3,0,65%,17(4),641(575),90%,0.9,0,ENG PR,2015-01-20 04:00,Everton,0-0,West Bromwich(WBA),8,4,29(12),0,19,4,9,21,0
+ENG PR,2015-01-10 23:00,Everton,1-1,Manchester City,9,1,0,41%,10(4),326(245),75%,0.75,0,ENG PR,2015-01-10 23:00,Everton,1-1,Manchester City,4,3,32(15),1,30,3,3,21,0
+ENG PR,2015-01-01 23:00,Hull City,2-0,Everton,15,4,1,56%,9(3),421(327),78%,0.78,0,ENG PR,2015-01-01 23:00,Hull City,2-0,Everton,8,1,39(16),3,25,5,1,21,0
+ENG PR,2014-12-29 00:15,Newcastle United,3-2,Everton,8,2,0,47%,9(2),409(345),84%,0.84,0,ENG PR,2014-12-29 00:15,Newcastle United,3-2,Everton,3,2,28(14),3,25,6,1,19,0
+ENG PR,2014-12-26 23:00,Everton,0-1,Stoke City,9,2,0,60%,16(5),543(443),82%,0.82,0,ENG PR,2014-12-26 23:00,Everton,0-1,Stoke City,9,3,30(12),1,21,5,6,23,0
+ENG PR,2014-12-20 23:00,Southampton,3-0,Everton,10,1,0,53%,13(4),485(400),82%,0.82,0,ENG PR,2014-12-20 23:00,Southampton,3-0,Everton,6,2,21(8),1,15,7,2,36,0
+ENG PR,2014-12-16 04:00,Everton,3-1,Queens Park Rangers (QPR),11,1,0,50%,13(5),461(372),81%,0.81,0,ENG PR,2014-12-16 04:00,Everton,3-1,Queens Park Rangers (QPR),1,4,30(15),3,41,4,4,12,0
+ENG PR,2014-12-07 01:30,Manchester City,1-0,Everton,11,3,0,48%,9(2),466(384),82%,0.82,0,ENG PR,2014-12-07 01:30,Manchester City,1-0,Everton,7,4,28(14),2,24,2,5,19,0
+ENG PR,2014-12-04 03:45,Everton,1-1,Hull City,8,1,0,56%,13(5),519(441),85%,0.85,0,ENG PR,2014-12-04 03:45,Everton,1-1,Hull City,6,1,45(28),0,20,4,4,30,0
+ENG PR,2014-11-30 23:59,Tottenham Hotspur,2-1,Everton,5,1,0,60%,10(5),602(531),88%,0.88,0,ENG PR,2014-11-30 23:59,Tottenham Hotspur,2-1,Everton,4,4,22(9),4,32,3,2,20,0
+ENG PR,2014-11-22 23:00,Everton,2-1,West Ham United,7,2,0,55%,9(2),389(328),84%,0.84,0,ENG PR,2014-11-22 23:00,Everton,2-1,West Ham United,1,3,27(9),2,27,4,3,10,0
+ENG PR,2014-11-09 21:30,Sunderland A.F.C,1-1,Everton,13,2,0,55%,16(7),529(455),86%,0.86,0,ENG PR,2014-11-09 21:30,Sunderland A.F.C,1-1,Everton,4,1,45(27),2,18,6,3,15,0
+ENG PR,2014-11-01 23:00,Everton,0-0,Swansea City,3,2,0,70%,11(3),334(295),88%,0.88,0,ENG PR,2014-11-01 23:00,Everton,0-0,Swansea City,11,0,10(6),1,15,4,4,7,0
+ENG PR,2014-10-26 21:30,Burnley,1-3,Everton,7,2,0,57%,15(6),628(519),83%,0.83,0,ENG PR,2014-10-26 21:30,Burnley,1-3,Everton,4,2,30(16),2,26,4,5,17,0
+ENG PR,2014-10-18 22:00,Everton,3-0,Aston Villa,11,2,0,58%,15(6),643(567),88%,0.88,0,ENG PR,2014-10-18 22:00,Everton,3-0,Aston Villa,3,2,28(15),2,19,2,7,27,0
+ENG PR,2014-10-05 19:00,Manchester United,2-1,Everton,11,3,0,51%,10(6),473(400),85%,0.85,0,ENG PR,2014-10-05 19:00,Manchester United,2-1,Everton,6,3,20(13),2,13,2,2,17,0
+ENG PR,2014-09-27 19:45,Liverpool,1-1,Everton,9,1,0,53%,11(5),494(428),87%,0.87,0,ENG PR,2014-09-27 19:45,Liverpool,1-1,Everton,2,2,14(7),7,19,5,1,22,0
+ENG PR,2014-09-21 23:00,Everton,2-3,Crystal Palace,8,2,0,76%,17(6),750(669),89%,0.89,0,ENG PR,2014-09-21 23:00,Everton,2-3,Crystal Palace,7,2,21(11),0,18,6,5,25,0
+ENG PR,2014-09-13 22:00,West Bromwich(WBA),0-2,Everton,8,0,0,54%,0(4),481(402),84%,0.84,0,ENG PR,2014-09-13 22:00,West Bromwich(WBA),0-2,Everton,0,3,32(13),0,11,5,2,24,0
