@@ -7,6 +7,8 @@ output: pdf_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(plotly)
+library()
 ```
 ## Step 0: Load the packages, specify directories
 
@@ -39,16 +41,126 @@ file_names <- list.files(pattern = "*.csv")
 file <- lapply(file_names,read.csv)
 matches <- lapply(file,clean_data)
 ```
+
 ```{r}
-setwd("../data/score_pass_defense")
+setwd("../data")
 file_names <- list.files(pattern = "*.csv")
 players <- lapply(file_names,read.csv)
 
+#preferred position
+get3 <- function(line){
+  line <- unlist(strsplit(line,"/"))
+  line <- c(line,rep("NA",3-length(line)))
+  return(line)
+}
+#change col type
+Fulldata<-read.csv("Fulldata.csv",header = T)
+Fulldata[,c(2:4,6)]<-apply(Fulldata[,c(2:4,6)],2, as.character)
+
+#apply get2 to split position
+s<- t(apply(data.frame(Fulldata$Preffered_Position),1,get3))
+#copy position into Fulldata
+Fulldata$Pos1 <- s[,1]
+Fulldata$Pos2 <- s[,2]
+Fulldata$Pos3 <- s[,3]
+Fulldata$Pos1 <- gsub("LWB","WING",Fulldata$Pos1)
+Fulldata$Pos1 <- gsub("RWB","WING",Fulldata$Pos1)
+Fulldata$Pos2 <- gsub("LWB","WING",Fulldata$Pos2)
+Fulldata$Pos2 <- gsub("RWB","WING",Fulldata$Pos2)
+Fulldata$Pos3 <- gsub("LWB","WING",Fulldata$Pos3)
+Fulldata$Pos3 <- gsub("RWB","WING",Fulldata$Pos3)
+Fulldata$Pos1 <- gsub("LW","WING",Fulldata$Pos1)
+Fulldata$Pos1 <- gsub("RW","WING",Fulldata$Pos1)
+Fulldata$Pos2 <- gsub("LW","WING",Fulldata$Pos2)
+Fulldata$Pos2 <- gsub("RW","WING",Fulldata$Pos2)
+Fulldata$Pos3 <- gsub("LW","WING",Fulldata$Pos3)
+Fulldata$Pos3 <- gsub("RW","WING",Fulldata$Pos3)
+#read in player data in PR
+defenser<-read.csv("defence_2015-17.csv",header = T)[,-c(1)]
+passer<-read.csv("passing_2015-17.csv",header = T)[,-c(1,3:5)]
+scorer<-read.csv("scorer_2015-17.csv",header = T)[,-c(1,3:5)]
+names(defenser)[13]<-"defR"
+names(passer)[10:11]<-c("passR","Year")
+names(scorer)[10]<-"scoreR"
+Prem_player<-merge(defenser,passer,by=c("Player","Year"))
+Prem_player<-merge(scorer,Prem_player,by=c("Player","Year"))
+# generate a list of players named Prem
+Prem <- Fulldata[which(Fulldata$Club%in%defenser$Team),]
+#get cluster results
+
+
+
+FIFAFull<-Fulldata
+Player_stats<-Prem_player
+setwd("/Users/apple/Documents/R/Spr2017-proj5-grp6/output")
+save(Prem,file = "FIFAPrem.RData")
+save(FIFAFull,file="FIFAFull.RData")
+save(Player_stats,file="Player_stats.RData")
+
 ```
 ## Step2: Clustering
-```{r}
-set.seed(20)
-che <- matches[[4]]
-che<-na.omit(che)
-KCluster <- kmeans(che[, c(6:9,13:16,18:22,28:29,31,33:34)], 3, nstart = 20)
+```{r players cluster}
+setwd("../data")
+defenser<-read.csv("defence_2015-17.csv",header = T)[,-c(1)]
+passer<-read.csv("passing_2015-17.csv",header = T)
+#[,-c(1,3:5)]
+scorer<-read.csv("scorer_2015-17.csv",header = T)
+#[,-c(1,3:5)]
+defenser<-rename(defenser,c("Rating"="defR"))
+passer<-rename(passer,c("Rating"="passR","X2015"="Year"))
+scorer<-rename(scorer,c("Rating"="scoreR"))
+scorer<-scorer[,1:11]
+Prem_player<-merge(defenser,passer,by=c("Player","Year"))
+Prem_player<-merge(scorer,Prem_player,by=c("Player","Year"))
+Player_stats<-Prem_player
+FIFAFull<-Fulldata
+FIFAPrem<-Prem
+setwd("/Users/apple/Documents/R/Spr2017-proj5-grp6/output")
+save(Prem,file = "FIFAPrem.RData")
+save(FIFAFull,file="FIFAFull.RData")
+save(Player_stats,file="Player_stats.RData")
+
+
+#match names
+name1<-as.character(Fulldata$Name)
+name2<-as.character(Prem_player$Player)
+
+#create a distance matrix
+dist.name<-adist(name1,name2, costs = 2, partial = TRUE)
+min.name<-apply(dist.name, 1, min)
+
+match.n1.n2<-NULL
+for(i in 1:nrow(dist.name)){
+  n2.i<-match(min.name[i],dist.name[i,])
+  n1.i<-i
+  match.n1.n2<-rbind(data.frame(n1.i=n1.i,n1.i=n1.i,s2name=name2[n2.i],s1name=name1[n1.i],adist=min.name[i]),match.n1.n2)
+  }
+View(match.n1.n2)
+```
+
+
+
+```{r }
+cluster_player <- function(Position){
+  select <- Prem[(Prem$Pos1==Position)|(Prem$Pos2==Position)|(Prem$Pos3==Position),]
+# k means cluster
+  KCluster <- kmeans(select[, 19:49], 3, nstart = 20)
+
+# choose the numeric variables to do pca
+dat <- select[, 19:49]
+#prepare dat1 for 3-dimensional visualization
+dat1 <- data.frame(cbind(pc$scores[,1:3],KCluster$cluster))
+dat2<-data.frame(cbind(select[,2],select[,6]))
+dat1<-data.frame(cbind(dat1,dat2))
+Prem1 <- merge(Prem,dat1,by.x = "Name",by.y = "X1",all.y = T)
+save(Prem1)
+#clusplot(dat,KCluster_CAM$cluster,color = T,shade = T)
+
+}
+#input a position (CAM for example)
+
+
+
+
+
 ```
