@@ -101,11 +101,16 @@ save(Player_stats,file="Player_stats.RData")
 ## Step2: Clustering
 ```{r players cluster}
 setwd("../data")
+pos_table<-read.csv("pos_table.csv",header = T)
 defenser<-read.csv("defence_2015-17.csv",header = T)[,-c(1)]
 passer<-read.csv("passing_2015-17.csv",header = T)
 #[,-c(1,3:5)]
 scorer<-read.csv("scorer_2015-17.csv",header = T)
 #[,-c(1,3:5)]
+setwd("../output")
+save(pos_table,file="pos_table.RData")
+
+
 defenser<-rename(defenser,c("Rating"="defR"))
 passer<-rename(passer,c("Rating"="passR","X2015"="Year"))
 scorer<-rename(scorer,c("Rating"="scoreR"))
@@ -143,22 +148,36 @@ View(match.n1.n2)
 ```{r }
 cluster_player <- function(Position){
   select <- Prem[(Prem$Pos1==Position)|(Prem$Pos2==Position)|(Prem$Pos3==Position),]
+  select$Height<-as.numeric(gsub("cm","",select$Height))
+  select$Weight<-as.numeric(gsub("kg","",select$Weight))
+  select <- t(apply(select[,19:49],1,function(line){line/max(line)}))
+  
 # k means cluster
-  KCluster <- kmeans(select[, 19:49], 3, nstart = 20)
-
+  set.seed(1)
+  KCluster <- kmeans(select, 3, nstart = 20)
+  par(mfrow=c(1,3))
+  #hist(KCluster)
+  print(KCluster$centers)
 # choose the numeric variables to do pca
-dat <- select[, 19:49]
-#prepare dat1 for 3-dimensional visualization
-dat1 <- data.frame(cbind(pc$scores[,1:3],KCluster$cluster))
-dat2<-data.frame(cbind(select[,2],select[,6]))
-dat1<-data.frame(cbind(dat1,dat2))
-Prem1 <- merge(Prem,dat1,by.x = "Name",by.y = "X1",all.y = T)
-save(Prem1)
+#Prem1 <- merge(Prem,dat1,by.x = "Name",by.y = "X1",all.y = T)
+#save(Prem1)
 #clusplot(dat,KCluster_CAM$cluster,color = T,shade = T)
-
 }
-#input a position (CAM for example)
 
+cluster_player("GK")
+cluster_player("RB")
+cluster_player("LB")
+cluster_player("CB")
+cluster_player("LM")
+cluster_player("RM")
+cluster_player("CAM")
+cluster_player("CDM")
+cluster_player("WING")
+cluster_player("ST")
+
+
+#input a position (CAM for example)
+# barplot(KCluster$centers)
 
 
 

@@ -1,6 +1,7 @@
 library(shinythemes)
 library(shiny)
 library(DT)
+library(plotly)
 
 load("/Users/apple/Documents/R/Spr2017-proj5-grp6/output/FIFAFull.RData")
 load("/Users/apple/Documents/R/Spr2017-proj5-grp6/output/FIFAPrem.RData")
@@ -26,6 +27,9 @@ shinyApp(
                fluidRow(
                  column(6,offset = 0,
                         plotlyOutput("barPlot")),
+                 column(6,offset = 0.6,
+                        DT::dataTableOutput("table1")),
+                 
                  column(6,
                         verbatimTextOutput("selection")
                         ),
@@ -54,11 +58,15 @@ shinyApp(
       output$barPlot <- renderPlotly({
         selected <- Prem[(Prem$Pos1==input$Position)|(Prem$Pos2==input$Position)|(Prem$Pos3==input$Position),]
         # k means cluster
+        set.seed(1)
         KCluster <- kmeans(selected[, 19:49], 3, nstart = 20)
         
         # choose the numeric variables to do pca
-        dat <- selected[, 19:49]
-        if(input$Position=="GK") {dat<-dat[,-2]}
+
+        
+        if(input$Position=="GK") {
+          dat <- selected[, 50:54]}
+        else{dat <- selected[, 19:49]}
         pc <- princomp(dat, cor = TRUE, scores=TRUE)
         
         #prepare dat1 for 3-dimensional visualization
@@ -81,15 +89,25 @@ shinyApp(
           
       })
       
+      output$table1 <- renderDataTable({
+        #rows of a position
+        load("/Users/apple/Documents/R/Spr2017-proj5-grp6/output/pos_table.RData")
+        table1<-pos_table[pos_table$Position==input$Position,c(3,4)]
+        datatable(table1, options=list(searching = F,lengthChange=F,paging=T), rownames=F)
+      })
+      
+      
       output$table <- renderDataTable({
         #rows of a position
         selected <- Prem[(Prem$Pos1==input$Position)|(Prem$Pos2==input$Position)|(Prem$Pos3==input$Position),]
         # k means cluster
+        set.seed(1)
         KCluster <- kmeans(selected[, 19:49], 3, nstart = 20)
         dat3<-data.frame(cbind(selected,t=KCluster$cluster))
         table1<-dat3[which(input$tag==dat3$t),c(2,3,6,9:15)]
         datatable(table1, options=list(searching = T,lengthChange=F,paging=T), rownames=F)
       })
+      
       
       output$selection <- renderPrint({
         # click to select a row
@@ -104,9 +122,9 @@ shinyApp(
           cat('These rows were selected:\n\n')
           cat(table1[s1,1], sep = ', ')
         }
-        if(length(s2)){
-          dat3[s2[[x]],]
-        }
+        # if(length(s2)){
+        #   dat3[s2[[x]],]
+        # }
 
       })
       
