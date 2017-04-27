@@ -36,7 +36,7 @@ shinyServer(function(input, output) {
   })
 
 #second chart: playertime  
-  output$palyertime<-renderPlotly({
+  output$playertime<-renderPlotly({
     temp <- subset(mins, 
                    (year == year1())
                    #add one more cluster filter
@@ -64,16 +64,16 @@ shinyServer(function(input, output) {
     temp_radar <- select(Prem, Name, #Ball_Control, 
                          Aggression, Acceleration,
                          Finishing, Jumping, Heading)
-    
-    temp_name <- subset(temp_radar, (Name == Pname()))
-    temp_show <- select(temp_name, #Ball_Control, 
-                        Aggression, Acceleration,
-                        Finishing, Jumping, Heading)
-    tdshow <- gather(temp_show)
+    #change temp_name when merge
+    temp_name <- subset(temp_radar, (Name %in% Pname()))
+    # temp_show <- select(temp_name,  #Ball_Control, 
+    #                     Aggression, Acceleration,
+    #                     Finishing, Jumping, Heading)
+    tdshow <- gather(temp_name, Ability, Score ,-Name)
     
     tdshow %>%
-      plot_ly(r = ~value, t = ~key) %>%
-      add_area() %>%
+      plot_ly(r = ~Score, t = ~Ability) %>%
+      add_area(color = ~Name) %>%
       layout(
         radialaxis = list(ticksuffix = "%", range = c(0, 100), showticklabels = TRUE),
         angularaxis = list(showticklabels = TRUE,
@@ -90,7 +90,8 @@ shinyServer(function(input, output) {
           showticklabels = FALSE, 
           zeroline = FALSE
         ),
-        showlegend = FALSE)
+        showlegend = TRUE,
+        legend = list(orientation = 'h'))
         
 })
  
