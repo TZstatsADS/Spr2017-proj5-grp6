@@ -1,12 +1,13 @@
 library(fmsb)
 spider <- function(home,oppo,dat){
   #find the avd for both team
-  home_game <- dat[dat$Team=="Manchester United",]
-  oppo_game <- dat[dat$Team=="Arsena"]
-  home_avg <- aggregate(home_game[,c(6,19,9,33,15,31)],by=list(home_game$Team),FUN="mean")
-  oppo_avg <- aggregate(oppo_game[,c(6,19,9,33,15,31)],by=list(oppo_game$Team),FUN="mean")
-  home_win <- aggregate(home_game[,c(6,19,9,33,15,31)],by=list(home_game$Result),FUN="mean")
-  oppo_win <- aggregate(oppo_game[,c(6,19,9,33,15,31)],by=list(oppo_game$Result),FUN="mean")
+  dat <- na.omit(dat)
+  home_game <- dat[dat$Team==home,]
+  oppo_game <- dat[dat$Team==oppo,]
+  home_avg <- aggregate(home_game[,c(7,20,10,34,16,32)],by=list(home_game$Team),FUN="mean")
+  oppo_avg <- aggregate(oppo_game[,c(7,20,10,34,16,32)],by=list(oppo_game$Team),FUN="mean")
+  home_win <- aggregate(home_game[,c(7,20,10,34,16,32)],by=list(home_game$Result),FUN="mean")
+  oppo_win <- aggregate(oppo_game[,c(7,20,10,34,16,32)],by=list(oppo_game$Result),FUN="mean")
   home_dat <- rbind(home_avg,home_win)
   home_max <- apply(home_dat,2,max)
   home_min <- apply(home_dat,2,min)
