@@ -18,10 +18,10 @@ library(readr)
 source("plot_radar.R")
 
 score <- read.csv("scorer2_2015-17.csv")
-#goal <- select(score, Player, Team, Goals, Year)
-#names(goal) <- c("player", "team", "goals", "year")
-#mins <- select(score, Player, Team, Play, Mins, Avg_mins, Year)
-#names(mins) <- c("player", "team", "play", "mins", "avg_mins", "year")
+goal <- select(score, Player, Team, Goals, Year)
+names(goal) <- c("player", "team", "goals", "year")
+mins <- select(score, Player, Team, Play, Mins, Avg_mins, Year)
+names(mins) <- c("player", "team", "play", "mins", "avg_mins", "year")
 
 
 ### data
@@ -187,29 +187,53 @@ ui<- navbarPage(
 
                                        ### radar for player
                                        tabPanel("Comprehensive Abilities",
-
+                                                
                                                 sidebarLayout(
                                                   sidebarPanel(
-                                          
+                                                    # selectizeInput('year_player', 'Year',choices = goal$year, selected=""),
+                                                    # selectizeInput('name', 'Player Name',choices = Prem$Name, selected=""),
+                                                    
                                                     #check box of the polar chart
                                                     checkboxGroupInput('name', label = h3("Player Name"), 
-                                                                       choices = Prem$Name,
-                                                                       selected =""),
-                                           
-                                                    width = 3
-                                                    
+                                                                       choices = Prem$Name[((Prem$Pos1=="ST")|(Prem$Pos2=="ST")|(Prem$Pos3=="ST"))],
+                                                                       selected ="")
                                                   ),
                                                   
+                                                  
+                                                  # Show a plot of the generated distribution
                                                   mainPanel(
-                                                            plotOutput("spider", width = "100%", height = "800px")
-                                                  ),
 
-                                                  position = "right"
-                                                )
+                                                    plotlyOutput("spider"),
+                                                    p(
+                                                      class = "text-muted",
+                                                      paste("Note: Please select your players for display of radar charts."
+                                                      )
+                                                    )
+              
+                                                  )
+
+                                                # sidebarLayout(
+                                                #   sidebarPanel(
+                                                # 
+                                                #     #check box of the polar chart
+                                                #     checkboxGroupInput('name', label = h3("Player Name"), 
+                                                #                        choices = Prem$Name,
+                                                #                        selected =""),
+                                                # 
+                                                #     width = 3
+                                                #     
+                                                #   ),
+                                                #   
+                                                #   mainPanel(
+                                                #             plotOutput("spider", width = "100%", height = "800px")
+                                                #   ),
+                                                # 
+                                                  # position = "right"
+                                                # )
                                          )
                                          ### end radar for player
                                    
-                                   
+                                       )
                                    
                                     )### end tabset
                        

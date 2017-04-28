@@ -18,10 +18,10 @@ library(readr)
 source("plot_radar.R")
 
 score <- read.csv("scorer2_2015-17.csv")
-#goal <- select(score, Player, Team, Goals, Year)
-#names(goal) <- c("player", "team", "goals", "year")
-#mins <- select(score, Player, Team, Play, Mins, Avg_mins, Year)
-#names(mins) <- c("player", "team", "play", "mins", "avg_mins", "year")
+goal <- select(score, Player, Team, Goals, Year)
+names(goal) <- c("player", "team", "goals", "year")
+mins <- select(score, Player, Team, Play, Mins, Avg_mins, Year)
+names(mins) <- c("player", "team", "play", "mins", "avg_mins", "year")
 
 
 ### data
@@ -270,7 +270,10 @@ server = function(input, output) {
     
     
     ## comparison - third chart: radar chart
-    
+
+
+
+    #third chart: polar chart
     #year1 <- reactive({
     #  input$year_player
     #})
@@ -280,18 +283,14 @@ server = function(input, output) {
     # input$cluster
     #})
     
-    #Pname <- reactive({
-    #  input$name
-    #})
+    Pname <- reactive({
+      input$name
+    })
+  
     
-
-      #namelist <- dataInput()$Name[dataInput1()$cluster==input$tag]
-      #temp <- Prem_player[Prem_player$n1name%in%namelist,]
-
-
-
+    
+    #third chart: polar chart      
     output$spider<-renderPlotly({
-      
       temp_radar <- select(Prem, Name, #Ball_Control, 
                            Aggression, Acceleration,
                            Finishing, Jumping, Heading)
@@ -326,12 +325,68 @@ server = function(input, output) {
       
     })
     
-    output$Spider <- renderPlot({
-      
-      spider(input$Home,input$Oppo,matches)[1]
-      
-             
-    })
+    # #year1 <- reactive({
+    # #  input$year_player
+    # #})
+    # 
+    # # similar
+    # # Pcluster <- reactive({
+    # # input$cluster
+    # #})
+    # 
+    # #Pname <- reactive({
+    #   input$name
+    # })
+    # 
+    # 
+    #   #namelist <- dataInput()$Name[dataInput1()$cluster==input$tag]
+    #   #temp <- Prem_player[Prem_player$n1name%in%namelist,]
+    #   temp <- Prem_player[Prem_player$n1name%in%Pname(),]
+    # 
+    # 
+    # 
+    # output$spider<-renderPlotly({
+    #   
+    #   temp_radar <- select(Prem, Name, #Ball_Control, 
+    #                        Aggression, Acceleration,
+    #                        Finishing, Jumping, Heading)
+    #   #change temp_name when merge
+    #   temp_name <- subset(temp_radar, (Name %in% Pname()))
+    #   # temp_show <- select(temp_name,  #Ball_Control, 
+    #   #                     Aggression, Acceleration,
+    #   #                     Finishing, Jumping, Heading)
+    #   tdshow <- gather(temp_name, Ability, Score ,-Name)
+    #   
+    #   tdshow %>%
+    #     plot_ly(r = ~Score, t = ~Ability) %>%
+    #     add_area(color = ~Name) %>%
+    #     layout(
+    #       radialaxis = list(ticksuffix = "%", range = c(0, 100), showticklabels = TRUE),
+    #       angularaxis = list(showticklabels = TRUE,
+    #                          tickorientation = 'horizontal', ticklen = 6, visible = TRUE),
+    #       xaxis = list(
+    #         showgrid = FALSE, 
+    #         showline = FALSE, 
+    #         showticklabels = FALSE, 
+    #         zeroline = FALSE
+    #       ),
+    #       yaxis = list(
+    #         showgrid = FALSE, 
+    #         showline = FALSE, 
+    #         showticklabels = FALSE, 
+    #         zeroline = FALSE
+    #       ),
+    #       showlegend = TRUE,
+    #       legend = list(orientation = 'h'))
+    #   
+    # })
+    # 
+     output$Spider <- renderPlot({
+       
+       spider(input$Home,input$Oppo,matches)[1]
+       
+              
+     })
     
     ## end comparison - third chart: polar chart
     
