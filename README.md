@@ -1,4 +1,4 @@
-# ADS Project 5: 
+# ADS Project 5
 
 Term: Spring 2017
 
@@ -7,8 +7,8 @@ Term: Spring 2017
 + Team members
 	+ Guo, Zhengyuan
 	+ Sun, Xiaowo
-	+ Wang Zhishan
-	+ Zhang Jiahao
+	+ Wang, Zhishan
+	+ Zhang, Jiahao
 
 + Project summary: We used data of Premier League matches from owscore.com and FIFA 2017 Player dataset on kaggle to build an R shiny-App which can help soccer managers and coaches find players they need on transfer market. Football fans can also use the App to explore soccer strategies and players. We developed a page to characterize Premier League athlets' style of play by clustering them based on their positions and technical strength. It also visualizes selected players' performance in various methods, which helps the managers easily find the names they want. In addition, coaches and managers can also use stats of historical games to design their strategies against their opponents before each game.
 
