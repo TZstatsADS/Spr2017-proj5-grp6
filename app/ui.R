@@ -9,9 +9,9 @@ library(dplyr)
 library(tidyr)
 library(readr)
 
-source("../lib/plot_radar.R")
+source("plot_radar.R")
 
-score <- read.csv("../data/scorer2_2015-17.csv")
+score <- read.csv("scorer2_2015-17.csv")
 goal <- select(score, Player, Team, Goals, Year)
 names(goal) <- c("player", "team", "goals", "year")
 mins <- select(score, Player, Team, Play, Mins, Avg_mins, Year)
@@ -19,14 +19,14 @@ names(mins) <- c("player", "team", "play", "mins", "avg_mins", "year")
 
 
 ### data
-load("../output/FIFAFull.RData")
-load("../output/FIFAPrem.RData")
-load("../output/Player_stats.RData")
-load("../output/Fulldata15.RData")
-load("../output/Fulldata16.RData")
-load("../output/Fulldata.RData")
-load("../output/Prem_player.RData")
-load("../output/matches.RData")
+load("FIFAFull.RData")
+load("FIFAPrem.RData")
+load("Player_stats.RData")
+load("Fulldata15.RData")
+load("Fulldata16.RData")
+load("Fulldata.RData")
+load("Prem_player.RData")
+load("matches.RData")
 #matches <- read.csv("../data/matches.csv")
 
 ## UI Function
@@ -127,7 +127,8 @@ ui<- navbarPage(
                                                 fluidRow( 
                                                     column(9,plotlyOutput("plotlydef")
                                                     )),
-                                                
+                                                br(),
+                                                br(),
                                                 fluidRow(    
                                                     column(3,  selectInput(
                                                           "stats3",label="y axis stats", choices=colnames(Prem_player)[c(3,4:10,15:31)],selected = "Tackles")  #choose player position
@@ -139,7 +140,8 @@ ui<- navbarPage(
                                                 fluidRow(
                                                     column(9,plotlyOutput("plotlypass")
                                                     )),
-                                                
+                                                br(),
+                                                br(),
                                                 fluidRow(
                                                     column(3,  selectInput(
                                                           "stats5",label="y axis stats", choices=colnames(Prem_player)[c(3,4:10,15:31)],selected = "Pass.Success")  #choose player position
@@ -148,7 +150,7 @@ ui<- navbarPage(
                                                           "stats6",label="x axis stats", choices=colnames(Prem_player)[c(24:32)],selected = "Passes")  #choose player position
                                                     )),
                                                 fluidRow(    
-                                                    column(11,offset=0.6,plotlyOutput("plotlyscore")
+                                                    column(9,offset=0.6,plotlyOutput("plotlyscore")
                                                     ))
                                                 
                                                 
@@ -163,7 +165,7 @@ ui<- navbarPage(
                                                 br(),
                                                 br(),
 
-                                                plotlyOutput("playergoal")
+                                                plotlyOutput("playergoal", height = "500px")
                                                 
                                        ),
                                        
@@ -172,7 +174,7 @@ ui<- navbarPage(
                                                 br(),
                                                 br(),
 
-                                                plotlyOutput("playertime")
+                                                plotlyOutput("playertime",height = "500px")
                                        ),
                                                 
                                        ### radar
@@ -195,7 +197,7 @@ ui<- navbarPage(
                                                   
                                                   mainPanel(
 
-                                                plotOutput("spider", width = "100%", height = "400px")
+                                                plotOutput("spider", width = "100%", height = "800px")
                                                 
                                        ),
                                        position = "right"
@@ -223,29 +225,45 @@ ui<- navbarPage(
   tabPanel("Team",
            titlePanel("  h2h Stats between Teams"),
            
-           sidebarLayout(
-             sidebarPanel(
+           fluidRow(
+             column(4,
                selectInput("Home",
                            label=" Select Home Team", 
                            choices=matches$Team,
                            selected = "Arsenal"
-                          ),
-             
+                          )),
+           column(4,
                selectInput("Oppo",
                          label=" Select Opponent Team", 
                          choices=matches$Opponent,
                          selected = "Swansea City"
-                         )
+                         ))
+          
+           
                ),
            
-           
-           mainPanel(
-             plotOutput("Spider", width = "700px")
-           ),
-           position = "right"
-               
+           p(
+             class = "text-muted",
+             paste("Note: Please select your home team and opponent team for display of radar charts."
              )
+           ),
+           
+           fluidRow(
+             
+             plotOutput("Spider"),
+             tags$style(type="text/css",  ".shiny-output-error { visibility: hidden; }",  ".shiny-output-error:before { visibility: hidden; }")
+             )
+           
+           
+           
+             #plotOutput("Spider")
+             #plotOutput("spider2", width = "700px"),
+             #plotOutput("spider3", width = "700px")
            )
+           
+               
+             
+           
 
   
   ## end team tab

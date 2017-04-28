@@ -1,0 +1,982 @@
+R,Player,Team,Play ,Mins,Avg_mins,Goals,Min/Goal,Shots,Shots OT,Conversion,Fouled,Offsides,Best,Rating,Year
+1,Romelu Lukaku,Everton,33,2907,88.09090909,23,126.4,94,39,24.50%,25,24,6,250.54,2016
+2,Harry Kane,Tottenham Hotspur,24,2010,83.75,20,125.6,76,28,21.10%,28,9,5,180.79,2016
+3,Alexis Alejandro Sanchez,Arsenal,31,2628,84.77419355,19,154.6,104,27,16.30%,43,19,8,240.58,2016
+4,Zlatan Ibrahimovic,Manchester United,28,2437,87.03571429,17,162.5,116,33,12.90%,14,27,4,207.97,2016
+5,Sergio Leonel Kun Aguero,Manchester City,26,2052,78.92307692,17,146.6,114,35,12.30%,25,16,5,188.99,2016
+6,Diego Da Silva Costa,Chelsea,31,2758,88.96774194,17,162.2,99,32,17.20%,64,18,4,231.39,2016
+7,Bamidele Alli,Tottenham Hotspur,31,2522,81.35483871,16,168.1,78,22,19.20%,54,9,3,226.78,2016
+8,Jermaine Defoe,Sunderland A.F.C,32,2873,89.78125,14,319.2,80,19,11.20%,20,20,0,210.76,2016
+9,Eden Hazard,Chelsea,31,2604,84,14,217,67,29,17.90%,66,3,12,245.43,2016
+10,Joshua King,Bournemouth AFC,32,2367,73.96875,13,215.2,54,23,20.40%,30,3,2,224.46,2016
+11,Sadio Mane,Liverpool,27,2247,83.22222222,13,172.8,57,15,22.80%,39,10,3,202.15,2016
+12,Christian Benteke,Crystal Palace,30,2628,87.6,12,262.8,88,25,11.40%,34,24,3,220.91,2016
+13,Son Heung Min,Tottenham Hotspur,26,1614,62.07692308,12,134.5,65,21,18.50%,20,17,3,185.41,2016
+14,Fernando Llorente Torres,Swansea City,29,2108,72.68965517,11,191.6,43,12,25.60%,21,9,2,198.34,2016
+15,Jamie Vardy,Leicester City,29,2343,80.79310345,11,213,43,12,25.60%,18,13,3,196.81,2016
+16,Roberto Firmino Barbosa de Oliveira,Liverpool,32,2809,87.78125,11,255.4,96,33,11.50%,24,17,5,242.56,2016
+17,Troy Deeney,Watford,33,2797,84.75757576,10,399.6,42,18,16.70%,20,14,2,231.29,2016
+18,Michail Antonio,West Ham United,30,2534,84.46666667,10,253.4,80,15,12.50%,40,16,3,215.21,2016
+19,Theo Walcott,Arsenal,24,1830,76.25,10,183,58,21,17.20%,21,13,1,169.65,2016
+20,Olivier Giroud,Arsenal,23,913,39.69565217,9,101.4,30,8,30%,6,7,1,155.17,2016
+21,Philippe Coutinho Correia,Liverpool,26,1872,72,9,208,85,29,10.60%,32,4,7,194.81,2016
+22,Alvaro Negredo Sanchez,Middlesbrough,31,2542,82,8,423.7,65,18,9.20%,22,12,2,215.94,2016
+23,Andre Gray,Burnley,27,2033,75.2962963,8,338.8,42,10,14.30%,12,18,1,175.17,2016
+24,Gylfi Sigurdsson,Swansea City,35,3058,87.37142857,8,611.6,110,38,4.50%,23,2,3,251.77,2016
+25,Mesut Ozil,Arsenal,27,2316,85.77777778,7,330.9,37,13,18.90%,17,14,4,197.69,2016
+26,Manuel Lanzini,West Ham United,30,2265,75.5,7,453,58,14,8.60%,28,5,4,213.36,2016
+27,Islam Slimani,Leicester City,23,1188,51.65217391,7,198,32,10,18.80%,6,3,0,154.35,2016
+28,James Milner,Liverpool,31,2722,87.80645161,7,0,30,12,0%,18,1,1,224.24,2016
+29,Robert Snodgrass,West Ham United,32,2500,78.125,7,500,51,13,9.80%,39,3,4,221.16,2016
+30,Adam Lallana,Liverpool,28,2146,76.64285714,7,306.6,43,9,16.30%,22,6,1,199.37,2016
+31,Jose Salomon Rondon Gimenez,West Bromwich(WBA),33,2465,74.6969697,7,352.1,71,13,9.90%,38,19,2,218.82,2016
+32,Christian Eriksen,Tottenham Hotspur,32,2786,87.0625,7,398,121,25,5.80%,16,2,4,238.67,2016
+33,Pedro Rodriguez Ledesma Pedrito,Chelsea,29,1874,64.62068966,7,267.7,48,12,14.60%,24,5,0,207.19,2016
+34,Andrew Carroll,West Ham United,18,1314,73,7,187.7,38,10,18.40%,21,4,3,132.94,2016
+35,Divock Origi,Liverpool,26,1116,42.92307692,6,186,29,6,20.70%,12,7,0,170.93,2016
+36,Willian Borges da Silva,Chelsea,28,1310,46.78571429,6,218.3,36,6,16.70%,17,2,1,191.85,2016
+37,Marko Arnautovic,Stoke City,28,2447,87.39285714,6,407.8,53,17,11.30%,23,18,1,193.38,2016
+38,Callum Wilson,Bournemouth AFC,20,1366,68.3,6,455.3,31,7,9.70%,13,10,0,130.01,2016
+39,Gareth McAuley,West Bromwich(WBA),35,3011,86.02857143,6,501.8,17,5,35.30%,10,0,1,246.2,2016
+40,Wilfried Zaha,Crystal Palace,29,2508,86.48275862,6,418,45,13,13.30%,64,3,5,215.32,2016
+41,Leroy Fer,Swansea City,30,2326,77.53333333,6,387.7,34,7,17.60%,42,1,2,207.5,2016
+42,Sam Vokes,Burnley,33,1695,51.36363636,6,423.8,43,15,9.30%,21,18,2,222.43,2016
+43,Joe Allen,Stoke City,31,2536,81.80645161,6,422.7,34,11,17.60%,43,0,3,216.73,2016
+44,Charlie Austin,Southampton,13,871,67,6,217.8,36,10,11.10%,15,5,1,91.59,2016
+45,Nathan Redmond,Southampton,32,2672,83.5,6,445.3,76,24,7.90%,37,11,4,226.62,2016
+46,Etienne Capoue,Watford,33,2902,87.93939394,6,483.7,43,14,14%,40,1,2,229.77,2016
+47,Raheem Sterling,Manchester City,29,2223,76.65517241,6,370.5,53,18,11.30%,31,11,3,206.68,2016
+48,Juan Manuel Mata Garcia,Manchester United,22,1394,63.36363636,6,232.3,36,15,16.70%,11,5,1,155.59,2016
+49,Leroy Sane,Manchester City,20,1340,67,5,268,20,8,25%,10,8,0,139.41,2016
+50,Marcus Rashford,Manchester United,26,1443,55.5,5,288.6,41,14,12.20%,22,4,0,173.63,2016
+51,Riyad Mahrez,Leicester City,30,2318,77.26666667,5,1159,61,17,3.30%,35,3,1,207.54,2016
+52,James McArthur,Crystal Palace,24,1695,70.625,5,339,21,4,23.80%,18,4,0,161.41,2016
+53,James Morrison,West Bromwich(WBA),26,1514,58.23076923,5,302.8,21,5,23.80%,12,1,0,170.65,2016
+54,Nacer Chadli,West Bromwich(WBA),28,1938,69.21428571,5,484.5,43,16,9.30%,11,2,0,188.31,2016
+55,Leroy Sane,Manchester City,20,1340,67,5,268,20,8,25%,10,8,0,139.41,2016
+56,Marcus Rashford,Manchester United,26,1443,55.5,5,288.6,41,14,12.20%,22,4,0,173.63,2016
+57,Peter Crouch,Stoke City,22,1104,50.18181818,5,220.8,30,8,16.70%,13,5,2,153.69,2016
+58,Ashley Barnes,Burnley,23,1487,64.65217391,5,495.7,41,11,7.30%,48,13,0,151.61,2016
+59,Andre Ayew,West Ham United,20,1030,51.5,5,206,24,8,20.80%,14,2,0,130.95,2016
+60,Benik Afobe,Bournemouth AFC,28,1444,51.57142857,5,288.8,36,9,13.90%,9,8,0,182.12,2016
+61,Paul Pogba,Manchester United,28,2474,88.35714286,4,618.5,87,18,4.60%,45,2,6,218.28,2016
+62,Gary Cahill,Chelsea,33,2958,89.63636364,4,739.5,16,3,25%,12,2,0,231.96,2016
+63,Ross Barkley,Everton,32,2630,82.1875,4,657.5,77,22,5.20%,28,7,1,230.49,2016
+64,Kevin De Bruyne,Manchester City,30,2354,78.46666667,4,588.5,70,12,5.70%,20,1,5,222.74,2016
+65,Gneri Yaya Toure,Manchester City,20,1532,76.6,4,766,28,8,7.10%,4,0,1,141.76,2016
+66,Emre Can,Liverpool,27,1918,71.03703704,4,479.5,35,5,11.40%,20,2,2,189.49,2016
+67,Alfie Mawson,Swansea City,23,2070,90,4,517.5,21,5,19%,11,0,3,161.63,2016
+68,Seamus Coleman,Everton,27,2407,89.14814815,4,601.8,18,6,22.20%,17,2,2,190.96,2016
+69,Yohan Cabaye,Crystal Palace,29,1960,67.5862069,4,490,38,7,10.50%,18,2,0,197.27,2016
+70,Cesc Fabregas,Chelsea,23,962,41.82608696,4,240.5,20,5,20%,8,0,2,157.71,2016
+71,Patrick Van Aanholt,Crystal Palace,28,2314,82.64285714,4,578.5,29,7,13.80%,6,4,1,193.21,2016
+72,James Ward Prowse,Southampton,27,1582,58.59259259,4,395.5,38,13,10.50%,7,1,0,183.22,2016
+73,Henrik Mkhitaryan,Manchester United,18,1064,59.11111111,4,266,29,11,13.80%,7,4,1,127.87,2016
+74,Kevin Mirallas,Everton,31,1778,57.35483871,4,444.5,54,16,7.40%,17,4,1,214.37,2016
+75,Matthew Phillips,West Bromwich(WBA),27,2193,81.22222222,4,548.2,47,7,8.50%,6,1,4,190.81,2016
+76,Junior Stanislas,Bournemouth AFC,16,1176,73.5,4,588,31,11,6.50%,3,3,1,110.64,2016
+77,Xherdan Shaqiri,Stoke City,16,1259,78.6875,4,314.8,34,8,11.80%,12,2,1,112.15,2016
+78,"Manuel Agudo Duran, Nolito",Manchester City,16,779,48.6875,4,194.8,32,6,12.50%,7,4,0,106.94,2016
+79,Jonathan Walters,Stoke City,21,1263,60.14285714,4,421,23,4,13%,11,6,0,140.84,2016
+80,Christian Ricardo Stuani,Middlesbrough,19,1197,63,4,299.2,21,9,19%,23,4,1,126.62,2016
+81,Abel Hernandez,Hull City,23,1302,56.60869565,4,325.5,34,15,11.80%,10,11,1,146.49,2016
+82,Jay Rodriguez,Southampton,18,748,41.55555556,4,187,29,8,13.80%,2,5,1,117.72,2016
+83,Kelechi Iheanacho,Manchester City,17,500,29.41176471,4,125,22,5,18.20%,1,3,0,109.51,2016
+84,Oumar Niasse,Hull City,12,710,59.16666667,4,177.5,17,8,23.50%,11,8,0,77.2,2016
+85,Manolo Gabbiadini,Southampton,5,340,68,4,85,17,6,23.50%,6,4,1,36.34,2016
+86,Charlie Daniels,Bournemouth AFC,30,2700,90,3,900,16,3,18.80%,20,0,1,207.61,2016
+87,Mark Noble,West Ham United,28,2288,81.71428571,3,1144,22,3,9.10%,34,0,0,185.67,2016
+88,Marten de Roon,Middlesbrough,28,2379,84.96428571,3,793,21,3,14.30%,8,1,0,186.29,2016
+89,Phil Jagielka,Everton,21,1800,85.71428571,3,600,11,4,27.30%,19,0,1,149.22,2016
+90,Dusan Tadic,Southampton,30,2168,72.26666667,3,1084,62,18,3.20%,27,5,0,205.96,2016
+91,Victor Moses,Chelsea,30,2146,71.53333333,3,715.3,38,9,7.90%,18,2,0,217.75,2016
+92,Alex Iwobi,Arsenal,24,1419,59.125,3,473,35,3,8.60%,8,2,0,162.09,2016
+93,Craig Dawson,West Bromwich(WBA),32,2828,88.375,3,942.7,19,7,15.80%,27,2,2,225.16,2016
+94,Chris Brunt,West Bromwich(WBA),26,2027,77.96153846,3,675.7,27,5,11.10%,4,1,2,179.51,2016
+95,James Tomkins,Crystal Palace,21,1711,81.47619048,3,570.3,13,2,23.10%,7,0,1,143.1,2016
+96,Michael Dawson,Hull City,19,1629,85.73684211,3,543,13,3,23.10%,4,1,0,130.57,2016
+97,Scott Dann,Crystal Palace,23,1779,77.34782609,3,593,22,8,13.60%,4,0,0,155.43,2016
+98,Andros Townsend,Crystal Palace,31,2126,68.58064516,3,708.7,54,12,5.60%,24,3,3,219.29,2016
+99,Wayne Routledge,Swansea City,28,2020,72.14285714,3,673.3,19,8,15.80%,11,6,0,180.44,2016
+100,Ryan Fraser,Bournemouth AFC,24,1505,62.70833333,3,501.7,18,5,16.70%,38,1,1,160.17,2016
+101,Ilkay Gundogan,Manchester City,10,710,71,3,236.7,16,4,18.80%,4,0,0,70.52,2016
+102,Anthony Martial,Manchester United,18,994,55.22222222,3,331.3,31,6,9.70%,10,1,2,123.35,2016
+103,Nathan Ake,Chelsea,10,733,73.3,3,244.3,6,0,50%,0,0,1,72.16,2016
+104,Shane Long,Southampton,28,1267,45.25,3,422.3,47,13,6.40%,25,10,0,179.51,2016
+105,Victor Anichebe,Sunderland A.F.C,14,910,65,3,303.3,27,4,11.10%,15,3,3,95.35,2016
+106,Enner Valencia,Everton,19,693,36.47368421,3,231,24,7,12.50%,7,5,0,124.02,2016
+107,Stefano Okaka Chuka,Watford,12,643,53.58333333,3,214.3,15,5,20%,12,5,1,80.78,2016
+108,David Jimenez Silva,Manchester City,30,2457,81.9,2,1228.5,43,11,4.70%,40,5,0,216.99,2016
+109,Victor Wanyama,Tottenham Hotspur,31,2627,84.74193548,2,1313.5,35,5,5.70%,20,0,1,221.84,2016
+110,Eric Dier,Tottenham Hotspur,30,2521,84.03333333,2,1260.5,17,3,11.80%,9,2,1,208.1,2016
+111,Dejan Lovren,Liverpool,24,2116,88.16666667,2,1058,14,4,14.30%,14,1,0,169.84,2016
+112,Steve Cook,Bournemouth AFC,33,2970,90,2,1485,23,5,8.70%,10,0,2,236.06,2016
+113,Laurent Koscielny,Arsenal,28,2450,87.5,2,1225,8,3,25%,14,1,1,204.42,2016
+114,Shkodran Mustafi,Arsenal,23,2005,87.17391304,2,1002.5,18,3,11.10%,13,0,2,167.54,2016
+115,Gareth Barry,Everton,30,2013,67.1,2,1006.5,15,6,13.30%,17,0,1,205.29,2016
+116,Darren Fletcher,West Bromwich(WBA),33,2854,86.48484848,2,1427,19,7,10.50%,15,0,0,216.85,2016
+117,Christian Fuchs,Leicester City,31,2608,84.12903226,2,1304,18,6,11.10%,6,0,2,216.69,2016
+118,Michael Vincent Keane,Burnley,33,2970,90,2,1485,21,5,9.50%,7,0,2,233.7,2016
+119,Jose Cholevas Holebas,Watford,31,2733,88.16129032,2,1366.5,29,7,6.90%,16,0,1,218.34,2016
+120,Harry Maguire,Hull City,26,2061,79.26923077,2,1030.5,32,6,6.20%,24,0,3,182.73,2016
+121,Leighton Baines,Everton,27,2371,87.81481481,2,0,12,2,0%,20,0,2,191.6,2016
+122,Winston Reid,West Ham United,27,2320,85.92592593,2,1160,10,1,20%,21,1,2,193.58,2016
+123,Danny Rose,Tottenham Hotspur,18,1533,85.16666667,2,766.5,23,4,8.70%,23,1,1,133.16,2016
+124,Jeff Hendrick,Burnley,27,2329,86.25925926,2,1164.5,27,4,7.40%,21,2,1,174.97,2016
+125,Daniel Gosling,Bournemouth AFC,24,1213,50.54166667,2,606.5,15,3,13.30%,17,1,0,156.52,2016
+126,Younes Kaboul,Watford,23,1915,83.26086957,2,957.5,12,2,16.70%,4,0,1,158.47,2016
+127,Alex Oxlade-Chamberlain,Arsenal,26,1364,52.46153846,2,682,26,3,7.70%,11,0,1,183.1,2016
+128,Robert Huth,Leicester City,30,2659,88.63333333,2,1329.5,24,5,8.30%,13,0,0,203.69,2016
+129,Tom Davies,Everton,20,1226,61.3,2,613,12,3,16.70%,26,2,1,135.24,2016
+130,Gaston Ramirez,Middlesbrough,23,1530,66.52173913,2,765,32,6,6.20%,18,1,3,158.26,2016
+131,Santigo Cazorla Gonzalez,Arsenal,8,619,77.375,2,0,8,4,0%,2,1,1,56.36,2016
+132,Wayne Rooney,Manchester United,19,1010,53.15789474,2,505,30,8,6.70%,5,5,0,128.05,2016
+133,George Boyd,Burnley,32,2555,79.84375,2,1277.5,29,4,6.90%,19,6,0,212.4,2016
+134,Andrea Ranocchia,Hull City,13,1104,84.92307692,2,552,5,3,40%,12,0,1,91.04,2016
+135,James Collins,West Ham United,16,1203,75.1875,2,601.5,9,3,22.20%,2,1,1,108.31,2016
+136,Martin Olsson,Swansea City,12,1055,87.91666667,2,527.5,8,5,25%,20,0,0,82.53,2016
+137,Roberto Maximiliano Pereyra,Watford,12,1001,83.41666667,2,500.5,8,1,25%,8,0,0,78.46,2016
+138,Fabio Borini,Sunderland A.F.C,19,1356,71.36842105,2,678,27,9,7.40%,16,0,0,122.77,2016
+139,Sofiane Feghouli,West Ham United,19,1077,56.68421053,2,538.5,16,5,12.50%,16,2,0,125.78,2016
+140,Shinji Okazaki,Leicester City,25,1306,52.24,2,653,26,6,7.70%,25,2,0,161.47,2016
+141,M Baye Niang,Watford,12,998,83.16666667,2,499,29,11,6.90%,26,4,3,86.58,2016
+142,Adama Diomande,Hull City,22,1169,53.13636364,2,584.5,23,2,8.70%,8,4,0,140.74,2016
+143,Ahmed Musa,Leicester City,21,808,38.47619048,2,404,17,6,11.80%,13,2,0,133.78,2016
+144,Daniel Sturridge,Liverpool,16,573,35.8125,2,286.5,28,10,7.10%,5,3,0,104.92,2016
+145,Wilfried Bony,Stoke City,10,690,69,2,345,21,4,9.50%,10,1,0,66.72,2016
+146,Vincent Janssen,Tottenham Hotspur,22,796,36.18181818,2,796,28,14,3.60%,22,5,0,140.45,2016
+147,Christian Kabasele,Watford,12,586,48.83333333,2,293,6,1,33.30%,1,0,0,76.63,2016
+148,Hal Robson-Kanu,West Bromwich(WBA),25,656,26.24,2,328,15,4,13.30%,18,3,0,155.67,2016
+149,Connor Wickham,Crystal Palace,8,411,51.375,2,205.5,10,2,20%,4,0,0,52.12,2016
+150,Jodan Henderson,Liverpool,25,2208,88.32,1,2208,18,3,5.60%,11,0,2,182.88,2016
+151,Ngolo Kante,Chelsea,32,2869,89.65625,1,2869,27,2,3.70%,10,0,1,231.24,2016
+152,Ander Herrera Aguera,Manchester United,25,2110,84.4,1,2110,36,4,2.80%,27,0,4,188.07,2016
+153,Granit Xhaka,Arsenal,25,1968,78.72,1,1968,24,4,4.20%,9,1,0,172.52,2016
+154,"Fernando Luis Roza, Fernandinho",Manchester City,26,2273,87.42307692,1,2273,28,8,3.60%,26,0,1,184.86,2016
+155,Harry Arter,Bournemouth AFC,31,2621,84.5483871,1,2621,47,7,2.10%,29,0,1,206.02,2016
+156,Aleksandar Kolarov,Manchester City,26,2263,87.03846154,1,2263,25,5,4%,20,0,2,190.86,2016
+157,Ben Gibson,Middlesbrough,34,3060,90,1,3060,15,6,6.70%,12,0,0,233.95,2016
+158,Idrissa Gana Gueye,Everton,28,2326,83.07142857,1,2326,22,4,4.50%,32,0,2,204.81,2016
+159,Daniel Drinkwater,Leicester City,26,2219,85.34615385,1,2219,29,3,3.40%,9,1,0,178.26,2016
+160,Ashley Williams,Everton,32,2799,87.46875,1,2799,15,4,6.70%,7,3,1,224.28,2016
+161,Jake Livermore,West Bromwich(WBA),33,2702,81.87878788,1,2702,30,1,3.30%,11,0,1,221.43,2016
+162,David Luiz Moreira Marinho,Chelsea,29,2610,90,1,2610,27,8,3.70%,19,2,1,206.41,2016
+163,Moussa Dembele,Tottenham Hotspur,25,1942,77.68,1,1942,15,3,6.70%,14,0,3,182.5,2016
+164,Joel Matip,Liverpool,23,2005,87.17391304,1,2005,21,3,4.80%,8,0,0,161.48,2016
+165,Samuel Clucas,Hull City,33,2830,85.75757576,1,2830,31,2,3.20%,20,1,0,218.96,2016
+166,Luis Antonio Valencia Mosquera,Manchester United,26,2312,88.92307692,1,2312,8,2,12.50%,16,3,0,189.05,2016
+167,Gael Clichy,Manchester City,21,1805,85.95238095,1,1805,1,0,100%,7,1,0,146.89,2016
+168,Adam Smith,Bournemouth AFC,31,2649,85.4516129,1,2649,24,4,4.20%,51,1,0,210.75,2016
+169,Tom Huddlestone,Hull City,28,1927,68.82142857,1,0,21,5,0%,13,1,0,184.61,2016
+170,Ben Mee,Burnley,33,2970,90,1,2970,17,3,5.90%,15,0,2,236.72,2016
+171,Ryan Bertrand,Southampton,23,2058,89.47826087,1,2058,14,2,7.10%,25,1,0,157.93,2016
+172,Andrew Robertson,Hull City,27,2403,89,1,2403,7,1,14.30%,8,1,0,182.52,2016
+173,Virgil van Dijk,Southampton,22,1945,88.40909091,1,1945,19,3,5.30%,11,0,4,162.97,2016
+174,Miguel Angel Britos,Watford,27,2381,88.18518519,1,2381,18,3,5.60%,11,1,1,183.48,2016
+175,Cheikhou Kouyate,West Ham United,28,2469,88.17857143,1,2469,16,2,6.20%,26,1,0,196.97,2016
+176,Stephen Ward,Burnley,32,2827,88.34375,1,2827,7,0,14.30%,31,0,0,221.75,2016
+177,Marcos Faustino Rojo,Manchester United,21,1661,79.0952381,1,1661,14,4,7.10%,8,0,0,150.53,2016
+178,Maya Yoshida,Southampton,18,1620,90,1,1620,11,5,9.10%,9,1,0,127.54,2016
+179,Calum Chambers,Middlesbrough,19,1710,90,1,1710,4,1,25%,4,0,1,135.75,2016
+180,Bruno Martins Indi,Stoke City,30,2697,89.9,1,2697,14,4,7.10%,4,1,2,205.62,2016
+181,Marouane Fellaini,Manchester United,24,1350,56.25,1,1350,21,4,4.80%,17,3,0,166.64,2016
+182,Charlie Adam,Stoke City,24,1584,66,1,0,46,11,0%,17,0,0,162.62,2016
+183,"Pedro Mba Obiang Avomo, Perico",West Ham United,22,1767,80.31818182,1,1767,9,1,11.10%,23,0,2,150.92,2016
+184,Ryan Shawcross,Stoke City,30,2700,90,1,2700,18,6,5.60%,19,1,1,207.29,2016
+185,Daley Blind,Manchester United,19,1469,77.31578947,1,1469,9,1,11.10%,10,0,0,137.34,2016
+186,Sebastian Prodl,Watford,28,2322,82.92857143,1,2322,17,2,5.90%,19,0,0,185.94,2016
+187,Jonny Evans,West Bromwich(WBA),27,2317,85.81481481,1,2317,7,2,14.30%,19,0,1,185.38,2016
+188,Didier Ibrahim Ndong,Sunderland A.F.C,26,2071,79.65384615,1,2071,11,3,9.10%,21,2,0,171.7,2016
+189,Stewart Downing,Middlesbrough,24,1702,70.91666667,1,1702,23,3,4.30%,10,2,0,159.62,2016
+190,Marc Albrighton,Leicester City,28,1938,69.21428571,1,1938,16,3,6.20%,14,1,1,192.91,2016
+191,Dean Marney,Burnley,21,1770,84.28571429,1,1770,12,2,8.30%,9,0,0,137.47,2016
+192,Daniel Amartey,Leicester City,22,1543,70.13636364,1,1543,12,2,8.30%,5,0,0,144.63,2016
+193,Wes Morgan,Leicester City,28,2520,90,1,2520,14,1,7.10%,1,1,0,186.34,2016
+194,Lamine Kone,Sunderland A.F.C,26,2185,84.03846154,1,2185,16,4,6.20%,7,2,2,176.89,2016
+195,Morgan Schneiderlin,Everton,14,800,57.14285714,1,800,5,3,20%,8,0,0,95.97,2016
+196,Andy King,Leicester City,20,1343,67.15,1,1343,16,4,6.20%,12,1,1,131.73,2016
+197,Jesse Lingard,Manchester United,19,1062,55.89473684,1,1062,32,8,3.10%,12,3,1,128.94,2016
+198,Jordy Clasie,Southampton,15,937,62.46666667,1,937,11,3,9.10%,2,0,0,95.66,2016
+199,Joe Ledley,Crystal Palace,18,1163,64.61111111,1,1163,3,1,33.30%,7,0,0,115.24,2016
+200,Wilfred Onyinye Ndidi,Leicester City,12,1072,89.33333333,1,1072,23,4,4.30%,5,0,1,87.74,2016
+201,Angel Rangel,Swansea City,18,822,45.66666667,1,822,5,2,20%,5,0,0,118.09,2016
+202,David Meyler,Hull City,20,955,47.75,1,955,8,3,12.50%,13,1,0,129.07,2016
+203,Scott Arfield,Burnley,27,1769,65.51851852,1,1769,35,2,2.90%,7,1,0,176.86,2016
+204,Steven Defour,Burnley,20,1066,53.3,1,1066,8,6,12.50%,4,0,2,137.02,2016
+205,Pablo Javier Zabaleta,Manchester City,15,911,60.73333333,1,911,6,0,16.70%,11,4,1,102.8,2016
+206,Joey Barton,Burnley,13,1014,78,1,1014,12,3,8.30%,14,0,0,90.89,2016
+207,Abdoulaye Doucoure,Watford,14,836,59.71428571,1,836,19,6,5.30%,3,0,0,90.5,2016
+208,Daryl Janmaat,Watford,23,1222,53.13043478,1,1222,18,4,5.60%,5,0,0,151.37,2016
+209,Ryan Mason,Hull City,17,1017,59.82352941,1,1017,17,3,5.90%,8,0,0,106.94,2016
+210,Sofiane Boufal,Southampton,18,836,46.44444444,1,836,18,1,5.60%,7,0,0,124.21,2016
+211,Harry Winks,Tottenham Hotspur,21,498,23.71428571,1,498,6,0,16.70%,4,0,0,133.85,2016
+212,Chris Smalling,Manchester United,13,943,72.53846154,1,943,7,1,14.30%,6,0,0,89.05,2016
+213,Alfred NDiaye,Hull City,10,840,84,1,840,7,3,14.30%,6,1,0,67.36,2016
+214,Daniel Ayala,Middlesbrough,11,756,68.72727273,1,756,9,5,11.10%,3,1,1,76.31,2016
+215,Demarai Gray,Leicester City,26,1062,40.84615385,1,1062,27,8,3.70%,13,1,0,171.31,2016
+216,Mike van der Hoorn,Swansea City,7,630,90,1,630,4,1,25%,4,0,1,46.54,2016
+217,Marc Pugh,Bournemouth AFC,16,929,58.0625,1,929,11,1,9.10%,11,0,1,105.66,2016
+218,Juan Camilo Mosquera Zuniga,Watford,17,744,43.76470588,1,744,5,1,20%,8,0,0,109.02,2016
+219,Erik Lamela,Tottenham Hotspur,9,593,65.88888889,1,593,18,7,5.60%,11,1,1,63.08,2016
+220,Yannick Bolasie,Everton,15,1112,74.13333333,1,1112,26,4,3.80%,12,3,0,105.65,2016
+221,Luka Milivojevic,Crystal Palace,8,710,88.75,1,0,6,1,0%,9,0,0,57.04,2016
+222,James McClean,West Bromwich(WBA),30,1282,42.73333333,1,1282,20,12,5%,12,4,0,196.07,2016
+223,Lazar Markovic,Hull City,9,775,86.11111111,1,775,7,3,14.30%,14,2,0,60.41,2016
+224,Johann Berg Gudmundsson,Burnley,16,922,57.625,1,922,16,3,6.20%,6,0,0,106.81,2016
+225,Grant Leadbitter,Middlesbrough,10,553,55.3,1,553,11,1,9.10%,3,0,0,65,2016
+226,Jamie McCarthy,Everton,12,613,51.08333333,1,613,6,3,16.70%,4,0,0,79.34,2016
+227,Wahbi Khazri,Sunderland A.F.C,17,618,36.35294118,1,618,15,6,6.70%,15,5,1,106.51,2016
+228,Marc Muniesa,Stoke City,7,467,66.71428571,1,467,2,0,50%,1,0,1,49.95,2016
+229,Fabian Delph,Manchester City,6,219,36.5,1,219,6,2,16.70%,5,0,0,39.83,2016
+230,Vincent Kompany,Manchester City,4,295,73.75,1,295,2,1,50%,2,0,0,27.58,2016
+231,Jose Leonardo Ulloa,Leicester City,14,342,24.42857143,1,342,11,1,9.10%,3,2,0,88.6,2016
+232,Borja Gonzalez Tomas,Swansea City,16,540,33.75,1,540,15,2,6.70%,7,4,0,97.74,2016
+233,Robert Brady,Burnley,10,517,51.7,1,517,15,3,6.70%,9,0,0,67.6,2016
+234,Rudy Gestede,Middlesbrough,11,412,37.45454545,1,412,12,4,8.30%,6,3,0,72.52,2016
+235,Success Isaac,Watford,17,474,27.88235294,1,474,13,8,7.70%,22,1,0,110.35,2016
+236,Lucas Perez Martinez,Arsenal,11,265,24.09090909,1,265,9,2,11.10%,1,0,0,70.22,2016
+237,Danny Welbeck,Arsenal,9,417,46.33333333,1,417,8,4,12.50%,5,1,0,58.03,2016
+238,Shaun Richard Maloney,Hull City,8,234,29.25,1,234,3,1,33.30%,7,0,0,53.09,2016
+239,Matthew Pennington,Everton,3,180,60,1,180,1,1,100%,0,0,0,19.29,2016
+240,Ademola Lookman,Everton,5,243,48.6,1,243,13,5,7.70%,7,1,0,33.2,2016
+241,Jonathan Calleri,West Ham United,9,246,27.33333333,1,246,10,2,10%,3,3,0,56.87,2016
+242,Dominic Calvert-Lewin,Everton,8,210,26.25,1,210,4,1,25%,4,1,0,50.01,2016
+243,Michy Batshuayi,Chelsea,14,110,7.857142857,1,110,6,2,16.70%,0,1,0,85.87,2016
+244,Fraizer Campbell,Crystal Palace,8,112,14,1,112,2,0,50%,1,0,0,49.23,2016
+245,Diafra Sakho,West Ham United,3,153,51,1,153,2,0,50%,0,1,0,19.56,2016
+246,Caesar Azpilicueta,Chelsea,33,2970,90,0,0,10,3,0%,14,2,2,236.12,2016
+247,Oriol Romeu Vidal,Southampton,31,2712,87.48387097,0,0,24,4,0%,24,1,2,218.74,2016
+248,Jan Vertonghen,Tottenham Hotspur,28,2470,88.21428571,0,0,12,2,0%,11,0,2,205.77,2016
+249,Nemanja Matic,Chelsea,32,2426,75.8125,0,0,13,5,0%,16,1,1,223.67,2016
+250,Nathaniel Clyne,Liverpool,34,3060,90,0,0,25,6,0%,19,1,0,231.07,2016
+251,Jose Miguel da Rocha Fonte,West Ham United,31,2790,90,0,0,16,3,0%,14,0,0,208.76,2016
+252,Nicolas Hernan Gonzalo Otamendi,Manchester City,24,2052,85.5,0,0,9,1,0%,18,0,3,180.02,2016
+253,John Stones,Manchester City,26,2000,76.92307692,0,0,13,2,0%,9,0,1,176.37,2016
+254,Steven Davis,Southampton,26,2174,83.61538462,0,0,25,7,0%,9,1,0,176.26,2016
+255,Simon Francis,Bournemouth AFC,29,2498,86.13793103,0,0,5,0,0%,11,0,1,199.44,2016
+256,Nacho Monreal Eraso,Arsenal,29,2523,87,0,0,9,1,0%,27,4,0,201.97,2016
+257,Kyle Walker,Tottenham Hotspur,29,2525,87.06896552,0,0,17,2,0%,18,3,0,210.69,2016
+258,Jack Cork,Swansea City,29,2293,79.06896552,0,0,18,3,0%,21,1,0,194.85,2016
+259,Ahmed El Mohammadi,Hull City,31,2477,79.90322581,0,0,9,0,0%,10,0,0,205.77,2016
+260,Andrew Surman,Bournemouth AFC,21,1758,83.71428571,0,0,7,2,0%,15,0,0,137.09,2016
+261,Toby Alderweireld,Tottenham Hotspur,25,2154,86.16,0,0,21,7,0%,4,0,1,174.2,2016
+262,Jason Puncheon,Crystal Palace,30,2556,85.2,0,0,40,9,0%,22,1,1,208.49,2016
+263,Erik Pieters,Stoke City,32,2880,90,0,0,8,0,0%,38,1,0,222.7,2016
+264,Glenn Whelan,Stoke City,26,1928,74.15384615,0,0,5,0,0%,18,0,0,171.51,2016
+265,Adam Clayton,Middlesbrough,28,2266,80.92857143,0,0,10,1,0%,25,0,0,190.34,2016
+266,Kyle Naughton,Swansea City,27,2340,86.66666667,0,0,20,3,0%,15,0,0,184.44,2016
+267,Adam Forshaw,Middlesbrough,28,2247,80.25,0,0,23,2,0%,16,1,0,186.68,2016
+268,Hector Bellerin,Arsenal,25,2063,82.52,0,0,17,3,0%,9,0,0,169.8,2016
+269,Joel Ward,Crystal Palace,32,2878,89.9375,0,0,14,1,0%,38,0,1,220.17,2016
+270,Jack Wilshere,Bournemouth AFC,29,1950,67.24137931,0,0,27,8,0%,35,0,0,197.72,2016
+271,Antonio Barragan Fernandez,Middlesbrough,25,2173,86.92,0,0,3,0,0%,13,1,1,174.33,2016
+272,Cedric Ricardo Alves Soares,Southampton,24,2001,83.375,0,0,18,5,0%,10,1,1,168.63,2016
+273,Danny Simpson,Leicester City,30,2520,84,0,0,2,0,0%,8,1,0,201.05,2016
+274,Ben Foster,West Bromwich(WBA),34,3060,90,0,0,1,0,0%,3,0,1,226.94,2016
+275,Michael Carrick,Manchester United,16,1169,73.0625,0,0,7,0,0%,9,0,0,109.35,2016
+276,Francis Coquelin,Arsenal,23,1577,68.56521739,0,0,12,2,0%,25,0,1,159.08,2016
+277,Federico Fernandez,Swansea City,23,2070,90,0,0,10,1,0%,10,0,0,155.51,2016
+278,Pierre Emile Hojbjerg,Southampton,22,1227,55.77272727,0,0,27,2,0%,24,0,0,148.42,2016
+279,Tom Heaton,Burnley,30,2700,90,0,0,0,0,0%,0,0,2,207.79,2016
+280,Matthew Lowton,Burnley,31,2790,90,0,0,6,2,0%,12,0,1,218.72,2016
+281,Ragnar Klavan,Liverpool,17,1402,82.47058824,0,0,4,1,0%,7,0,0,115.05,2016
+282,Victor Valdes Arribas,Middlesbrough,29,2610,90,0,0,0,0,0%,3,0,1,191.77,2016
+283,Heurelho da Silva Gomes,Watford,34,2922,85.94117647,0,0,0,0,0%,2,0,0,230.23,2016
+284,Lee Grant,Stoke City,28,2520,90,0,0,0,0,0%,2,0,1,193.4,2016
+285,Hugo Lloris,Tottenham Hotspur,28,2465,88.03571429,0,0,0,0,0%,2,0,1,188.64,2016
+286,Lukasz Fabianski,Swansea City,34,3060,90,0,0,0,0,0%,3,0,2,225.9,2016
+287,Jose Ramiro Funes Mori,Everton,22,1627,73.95454545,0,0,12,2,0%,12,1,0,150.47,2016
+288,Curtis Davies,Hull City,25,2143,85.72,0,0,9,1,0%,13,0,2,174.11,2016
+289,Damien Delaney,Crystal Palace,25,1860,74.4,0,0,2,0,0%,9,0,0,165.64,2016
+290,Claudio Ariel Yacob,West Bromwich(WBA),28,2128,76,0,0,8,0,0%,16,0,0,189.73,2016
+291,Bacary Sagna,Manchester City,16,1317,82.3125,0,0,4,1,0%,4,0,0,111.35,2016
+292,Artur Boruc,Bournemouth AFC,31,2790,90,0,0,0,0,0%,3,0,1,206.3,2016
+293,Ben Davies,Tottenham Hotspur,18,1274,70.77777778,0,0,12,3,0%,18,1,0,124.64,2016
+294,Tom Cleverley,Watford,24,1664,69.33333333,0,0,8,1,0%,13,0,0,157.33,2016
+295,Lucas Pezzini Leiva,Liverpool,20,1102,55.1,0,0,12,3,0%,11,0,0,135.64,2016
+296,Angelo Obinze Ogbonna,West Ham United,19,1666,87.68421053,0,0,3,0,0%,1,0,0,128.09,2016
+297,Jordan Pickford,Sunderland A.F.C,23,2070,90,0,0,0,0,0%,4,0,2,163.42,2016
+298,Gabriel Armando de Abreu,Arsenal,16,1297,81.0625,0,0,7,2,0%,5,0,0,110.74,2016
+299,Fraser Forster,Southampton,32,2880,90,0,0,0,0,0%,0,0,1,200.51,2016
+300,Simon Mignolet,Liverpool,24,2160,90,0,0,0,0,0%,5,0,0,157.14,2016
+301,Eric Bertrand Bailly,Manchester United,19,1549,81.52631579,0,0,5,0,0%,12,0,0,139.11,2016
+302,Thibaut Courtois,Chelsea,32,2880,90,0,0,0,0,0%,2,0,0,214.61,2016
+303,Papy Mison Djilobodji,Sunderland A.F.C,18,1578,87.66666667,0,0,7,1,0%,12,1,1,125.03,2016
+304,David De Gea Quintana,Manchester United,30,2700,90,0,0,0,0,0%,1,0,0,196.62,2016
+305,Kasper Schmeichel,Leicester City,24,2127,88.625,0,0,0,0,0%,2,0,0,163.37,2016
+306,Wayne Hennessey,Crystal Palace,24,2160,90,0,0,0,0,0%,3,0,1,163.88,2016
+307,Allan-Romeo Nyom,West Bromwich(WBA),29,2448,84.4137931,0,0,11,3,0%,14,2,0,199.5,2016
+308,Jordi Amat Mass,Swansea City,16,1407,87.9375,0,0,7,3,0%,2,0,0,106.52,2016
+309,Aaron Cresswell,West Ham United,21,1807,86.04761905,0,0,10,1,0%,4,1,1,136.66,2016
+310,Petr Cech,Arsenal,28,2468,88.14285714,0,0,0,0,0%,1,0,0,190.08,2016
+311,Claudio Andres Bravo Munoz,Manchester City,21,1890,90,0,0,0,0,0%,3,0,0,133.98,2016
+312,Valon Behrami,Watford,25,1876,75.04,0,0,5,0,0%,32,0,0,164.67,2016
+313,Mohamed El-Nenny,Arsenal,15,775,51.66666667,0,0,19,3,0%,5,0,0,98.67,2016
+314,Darren Randolph,West Ham United,22,1980,90,0,0,0,0,0%,1,0,0,145.75,2016
+315,Phil Jones,Manchester United,14,1225,87.5,0,0,4,0,0%,0,0,0,101.53,2016
+316,George Friend,Middlesbrough,18,1420,78.88888889,0,0,11,0,0%,18,0,0,128.1,2016
+317,Glen Johnson,Stoke City,19,1595,83.94736842,0,0,8,3,0%,13,0,0,131.19,2016
+318,Thomas Carroll,Swansea City,14,1120,80,0,0,5,1,0%,10,0,0,93.5,2016
+319,Aaron Ramsey,Arsenal,16,772,48.25,0,0,29,3,0%,13,0,0,104.71,2016
+320,Fabio Pereira da Silva,Middlesbrough,18,1418,78.77777778,0,0,5,1,0%,11,1,0,125.36,2016
+321,Geoff Cameron,Stoke City,14,1178,84.14285714,0,0,7,4,0%,16,1,0,97.8,2016
+322,Billy Jones,Sunderland A.F.C,22,1821,82.77272727,0,0,10,3,0%,9,0,0,152.31,2016
+323,Jack Rodwell,Sunderland A.F.C,19,1477,77.73684211,0,0,21,2,0%,12,0,0,126.01,2016
+324,Leon Britton,Swansea City,11,810,73.63636364,0,0,0,0,0%,4,0,0,69.37,2016
+325,Sung-Yueng Ki,Swansea City,19,1023,53.84210526,0,0,6,1,0%,16,1,0,119.26,2016
+326,Eldin Jakupovic,Hull City,18,1620,90,0,0,0,0,0%,2,0,1,120.55,2016
+327,Nordin Amrabat,Watford,24,1760,73.33333333,0,0,25,3,0%,22,0,2,162.07,2016
+328,Joel Robles Blazquez,Everton,18,1556,86.44444444,0,0,0,0,0%,4,0,0,125.83,2016
+329,Bernardo Espinosa Zuniga,Middlesbrough,11,975,88.63636364,0,0,2,1,0%,7,1,0,75.68,2016
+330,John OShea,Sunderland A.F.C,22,1621,73.68181818,0,0,1,1,0%,6,0,0,145.04,2016
+331,Martin Kelly,Crystal Palace,22,1603,72.86363636,0,0,2,0,0%,4,0,0,141.92,2016
+332,Jesus Navas Gonzalez,Manchester City,19,924,48.63157895,0,0,7,1,0%,6,2,0,125.89,2016
+333,Sebastian Larsson,Sunderland A.F.C,17,1237,72.76470588,0,0,13,2,0%,6,0,0,109.49,2016
+334,Jason Denayer,Sunderland A.F.C,20,1590,79.5,0,0,6,0,0%,7,0,0,130.73,2016
+335,Jack Stephens,Southampton,11,929,84.45454545,0,0,2,0,0%,3,1,0,74.93,2016
+336,Matteo Darmian,Manchester United,13,1034,79.53846154,0,0,3,0,0%,5,0,0,93.47,2016
+337,Bryan Oviedo Jimenez,Sunderland A.F.C,15,1182,78.8,0,0,3,1,0%,12,1,0,101.74,2016
+338,Mason Holgate,Everton,13,979,75.30769231,0,0,6,2,0%,11,0,0,90.26,2016
+339,David Marshall,Hull City,16,1440,90,0,0,0,0,0%,0,0,0,103.54,2016
+340,Adlene Guedioura,Watford,17,902,53.05882353,0,0,19,2,0%,1,1,0,109.77,2016
+341,Fuka Arthur Masuaku,West Ham United,11,836,76,0,0,2,0,0%,9,0,1,78.47,2016
+342,Phil Bardsley,Stoke City,14,1170,83.57142857,0,0,11,2,0%,15,0,0,92.41,2016
+343,Craig Cathcart,Watford,16,1251,78.1875,0,0,3,1,0%,2,0,0,106.71,2016
+344,Gilbert Gianelli Imbula Wanga,Stoke City,12,796,66.33333333,0,0,9,0,0%,5,0,0,77.29,2016
+345,Maarten Stekelenburg,Everton,16,1414,88.375,0,0,0,0,0%,1,0,1,104.88,2016
+346,Luke Shaw,Manchester United,9,682,75.77777778,0,0,6,1,0%,6,0,0,63.93,2016
+347,Fernando Francisco Reges,Manchester City,13,550,42.30769231,0,0,2,0,0%,4,0,0,86.03,2016
+348,Stephen Kingsley,Swansea City,10,856,85.6,0,0,4,1,0%,4,0,0,64.17,2016
+349,Moussa Sissoko,Tottenham Hotspur,21,750,35.71428571,0,0,14,1,0%,6,2,0,134.9,2016
+350,Steven Pienaar,Sunderland A.F.C,14,782,55.85714286,0,0,4,1,0%,16,0,0,87.71,2016
+351,Adama Traore Diarra,Middlesbrough,25,1463,58.52,0,0,11,2,0%,30,1,2,177.31,2016
+352,Jordon Ashley F Ibe,Bournemouth AFC,21,1014,48.28571429,0,0,15,1,0%,11,1,0,135.72,2016
+353,Adnan Januzaj,Sunderland A.F.C,22,1547,70.31818182,0,0,25,5,0%,29,3,0,142.87,2016
+354,Sam Byram,West Ham United,15,976,65.06666667,0,0,5,0,0%,10,1,0,98.55,2016
+355,Edimilson Fernandes,West Ham United,22,624,28.36363636,0,0,13,1,0%,3,1,0,137.83,2016
+356,Jay Fulton,Swansea City,10,693,69.3,0,0,3,0,0%,3,0,0,65.84,2016
+357,Mame Biram Diouf,Stoke City,23,1168,50.7826087,0,0,13,1,0%,11,4,0,151.95,2016
+358,Benjamin Chilwell,Leicester City,11,560,50.90909091,0,0,4,0,0%,5,0,0,72.76,2016
+359,Wilfredo Caballero,Manchester City,11,990,90,0,0,0,0,0%,1,0,0,73.77,2016
+360,Ashley Young,Manchester United,9,577,64.11111111,0,0,4,0,0%,12,1,0,61.49,2016
+361,Cuco Martina,Southampton,9,591,65.66666667,0,0,2,0,0%,2,1,0,59,2016
+362,Tyrone Mings,Bournemouth AFC,6,506,84.33333333,0,0,1,1,0%,4,0,0,38.13,2016
+363,Havard Nordtveit,West Ham United,12,685,57.08333333,0,0,4,0,0%,3,0,0,77.44,2016
+364,Sam McQueen,Southampton,13,608,46.76923077,0,0,1,0,0%,2,0,0,84.78,2016
+365,Modou Barrow,Swansea City,18,1149,63.83333333,0,0,16,2,0%,15,1,0,117.81,2016
+366,Adrian San Miguel del Castillo,West Ham United,11,990,90,0,0,0,0,0%,2,0,0,72.53,2016
+367,Darron Gibson,Sunderland A.F.C,8,502,62.75,0,0,5,0,0%,0,0,0,51.08,2016
+368,Ron Robert Zieler,Leicester City,9,753,83.66666667,0,0,0,0,0%,0,0,0,56.05,2016
+369,Loris Karius,Liverpool,10,900,90,0,0,0,0,0%,1,0,0,63.24,2016
+370,Steve Mandanda,Crystal Palace,9,810,90,0,0,0,0,0%,1,0,0,56.22,2016
+371,Ramadan Sobhi,Stoke City,13,736,56.61538462,0,0,4,1,0%,9,3,0,85.03,2016
+372,John Terry,Chelsea,5,366,73.2,0,0,4,1,0%,2,0,0,32.72,2016
+373,Vito Mannone,Sunderland A.F.C,9,810,90,0,0,0,0,0%,0,0,1,59.03,2016
+374,Javier Manquillo Gaitan,Sunderland A.F.C,12,890,74.16666667,0,0,2,0,0%,10,0,0,76.87,2016
+375,Jeffrey Schlupp,Crystal Palace,14,686,49,0,0,3,0,0%,7,0,0,92.06,2016
+376,Jesus Navas Gonzalez,Manchester City,19,924,48.63157895,0,0,7,1,0%,6,2,0,125.89,2016
+377,Wilfredo Caballero,Manchester City,11,990,90,0,0,0,0,0%,1,0,0,73.77,2016
+378,Damien Delaney,Crystal Palace,25,1860,74.4,0,0,2,0,0%,9,0,0,165.64,2016
+379,Nathan Dyer,Swansea City,8,211,26.375,0,0,3,0,0%,5,0,0,43.62,2016
+380,Jack Cork,Swansea City,29,2293,79.06896552,0,0,18,3,0%,21,1,0,194.85,2016
+381,Mame Biram Diouf,Stoke City,23,1168,50.7826087,0,0,13,1,0%,11,4,0,151.95,2016
+382,Mohamed El-Nenny,Arsenal,15,775,51.66666667,0,0,19,3,0%,5,0,0,98.67,2016
+383,Heurelho da Silva Gomes,Watford,34,2922,85.94117647,0,0,0,0,0%,2,0,0,230.23,2016
+384,Curtis Davies,Hull City,25,2143,85.72,0,0,9,1,0%,13,0,2,174.11,2016
+385,Aaron Lennon,Everton,12,540,45,0,0,5,0,0%,0,0,0,76.81,2016
+386,Artur Boruc,Bournemouth AFC,31,2790,90,0,0,0,0,0%,3,0,1,206.3,2016
+387,Gilbert Gianelli Imbula Wanga,Stoke City,12,796,66.33333333,0,0,9,0,0%,5,0,0,77.29,2016
+388,Luke Shaw,Manchester United,9,682,75.77777778,0,0,6,1,0%,6,0,0,63.93,2016
+389,Nacho Monreal Eraso,Arsenal,29,2523,87,0,0,9,1,0%,27,4,0,201.97,2016
+390,Pierre Emile Hojbjerg,Southampton,22,1227,55.77272727,0,0,27,2,0%,24,0,0,148.42,2016
+391,Danny Simpson,Leicester City,30,2520,84,0,0,2,0,0%,8,1,0,201.05,2016
+392,Jeremy Pied,Southampton,1,11,11,0,0,3,0,0%,0,0,0,6.15,2016
+393,Pape NDiaye Souare,Crystal Palace,3,270,90,0,0,2,0,0%,4,0,0,20.17,2016
+394,David De Gea Quintana,Manchester United,30,2700,90,0,0,0,0,0%,1,0,0,196.62,2016
+395,Nordin Amrabat,Watford,24,1760,73.33333333,0,0,25,3,0%,22,0,2,162.07,2016
+396,Joel Asoro,Sunderland A.F.C,1,9,9,0,0,0,0,0%,0,0,0,5.94,2016
+397,Andrew Surman,Bournemouth AFC,21,1758,83.71428571,0,0,7,2,0%,15,0,0,137.09,2016
+398,Michel Vorm,Tottenham Hotspur,6,505,84.16666667,0,0,0,0,0%,2,0,0,38.86,2016
+399,Erik Pieters,Stoke City,32,2880,90,0,0,8,0,0%,38,1,0,222.7,2016
+400,Valon Behrami,Watford,25,1876,75.04,0,0,5,0,0%,32,0,0,164.67,2016
+401,Adlene Guedioura,Watford,17,902,53.05882353,0,0,19,2,0%,1,1,0,109.77,2016
+402,Thibaut Courtois,Chelsea,32,2880,90,0,0,0,0,0%,2,0,0,214.61,2016
+403,Jordan Pickford,Sunderland A.F.C,23,2070,90,0,0,0,0,0%,4,0,2,163.42,2016
+404,John Terry,Chelsea,5,366,73.2,0,0,4,1,0%,2,0,0,32.72,2016
+405,Lukasz Fabianski,Swansea City,34,3060,90,0,0,0,0,0%,3,0,2,225.9,2016
+406,Modou Barrow,Swansea City,18,1149,63.83333333,0,0,16,2,0%,15,1,0,117.81,2016
+407,Lynden Gooch,Sunderland A.F.C,7,321,45.85714286,0,0,2,0,0%,4,0,0,44.49,2016
+408,John OShea,Sunderland A.F.C,22,1621,73.68181818,0,0,1,1,0%,6,0,0,145.04,2016
+409,Shay Given,Stoke City,5,450,90,0,0,0,0,0%,1,0,1,32.24,2016
+410,Steven Pienaar,Sunderland A.F.C,14,782,55.85714286,0,0,4,1,0%,16,0,0,87.71,2016
+411,Robert Holding,Arsenal,4,360,90,0,0,0,0,0%,1,0,0,27.96,2016
+412,Patrick McNair,Sunderland A.F.C,8,354,44.25,0,0,1,0,0%,1,0,0,49.75,2016
+413,Mason Holgate,Everton,13,979,75.30769231,0,0,6,2,0%,11,0,0,90.26,2016
+414,Steven Davis,Southampton,26,2174,83.61538462,0,0,25,7,0%,9,1,0,176.26,2016
+415,Francis Coquelin,Arsenal,23,1577,68.56521739,0,0,12,2,0%,25,0,1,159.08,2016
+416,Saido Berahino,Stoke City,14,770,55,0,0,14,6,0%,6,8,0,86.94,2016
+417,Stephen Kingsley,Swansea City,10,856,85.6,0,0,4,1,0%,4,0,0,64.17,2016
+418,Cedric Ricardo Alves Soares,Southampton,24,2001,83.375,0,0,18,5,0%,10,1,1,168.63,2016
+419,Lewis Cook,Bournemouth AFC,2,115,57.5,0,0,0,0,0%,0,0,0,12.38,2016
+420,Ben Foster,West Bromwich(WBA),34,3060,90,0,0,1,0,0%,3,0,1,226.94,2016
+421,Claudio Ariel Yacob,West Bromwich(WBA),28,2128,76,0,0,8,0,0%,16,0,0,189.73,2016
+422,Eric Bertrand Bailly,Manchester United,19,1549,81.52631579,0,0,5,0,0%,12,0,0,139.11,2016
+423,Jason Denayer,Sunderland A.F.C,20,1590,79.5,0,0,6,0,0%,7,0,0,130.73,2016
+424,Lys Mousset,Bournemouth AFC,6,65,10.83333333,0,0,3,1,0%,0,0,0,35.98,2016
+425,Kieran Trippier,Tottenham Hotspur,6,293,48.83333333,0,0,3,0,0%,2,1,0,41.95,2016
+426,Kevin Wimmer,Tottenham Hotspur,5,356,71.2,0,0,0,0,0%,0,0,0,31.5,2016
+427,Costel Pantilimon,Watford,2,81,40.5,0,0,0,0,0%,0,0,0,13.57,2016
+428,Ovie Ejaria,Liverpool,2,6,3,0,0,0,0,0%,0,0,0,12.2,2016
+429,Phil Jones,Manchester United,14,1225,87.5,0,0,4,0,0%,0,0,0,101.53,2016
+430,Carl Jenkinson,Arsenal,1,83,83,0,0,0,0,0%,0,0,0,6.98,2016
+431,Bakary Sako,Crystal Palace,6,106,17.66666667,0,0,3,1,0%,3,1,0,37.27,2016
+432,Harrison Reed,Southampton,4,68,17,0,0,0,0,0%,0,0,0,25.44,2016
+433,Adam Federici,Bournemouth AFC,2,180,90,0,0,0,0,0%,0,0,0,13.01,2016
+434,Dieudonne Mbokani,Hull City,12,831,69.25,0,0,14,2,0%,12,3,0,77.86,2016
+435,Jarrod Bowen,Hull City,4,60,15,0,0,0,0,0%,0,0,0,24.03,2016
+436,Josh Tymon,Hull City,4,252,63,0,0,0,0,0%,1,0,0,26.37,2016
+437,Darren Randolph,West Ham United,22,1980,90,0,0,0,0,0%,1,0,0,145.75,2016
+438,Lucas Pezzini Leiva,Liverpool,20,1102,55.1,0,0,12,3,0%,11,0,0,135.64,2016
+439,Baily Cargill,Bournemouth AFC,1,12,12,0,0,0,0,0%,0,0,0,6.18,2016
+440,Mamadou Sakho,Crystal Palace,7,630,90,0,0,2,0,0%,3,0,0,50.24,2016
+441,Julien Ngoy,Stoke City,5,44,8.8,0,0,2,0,0%,0,0,0,30.59,2016
+442,Sebastian Larsson,Sunderland A.F.C,17,1237,72.76470588,0,0,13,2,0%,6,0,0,109.49,2016
+443,Gabriel Armando de Abreu,Arsenal,16,1297,81.0625,0,0,7,2,0%,5,0,0,110.74,2016
+444,Josh Sims,Southampton,6,174,29,0,0,5,1,0%,0,0,1,39,2016
+445,Paul Robinson,Burnley,3,270,90,0,0,0,0,0%,1,0,0,19.5,2016
+446,Mathieu Debuchy,Arsenal,1,16,16,0,0,0,0,0%,0,0,0,6.4,2016
+447,Brad Smith,Bournemouth AFC,4,270,67.5,0,0,2,0,0%,2,0,0,24.72,2016
+448,Fabio Pereira da Silva,Middlesbrough,18,1418,78.77777778,0,0,5,1,0%,11,1,0,125.36,2016
+449,Loic Remy,Crystal Palace,4,112,28,0,0,5,2,0%,1,1,0,24.35,2016
+450,Trent Arnold,Liverpool,3,152,50.66666667,0,0,3,2,0%,2,0,0,19.09,2016
+451,Thomas Carroll,Swansea City,14,1120,80,0,0,5,1,0%,10,0,0,93.5,2016
+452,Damian Martinez,Arsenal,3,270,90,0,0,0,0,0%,0,0,0,20.24,2016
+453,James Husband,Middlesbrough,1,59,59,0,0,0,0,0%,0,0,0,5.77,2016
+454,Adrian Mariappa,Watford,3,201,67,0,0,0,0,0%,2,1,0,21.22,2016
+455,Sergio German Romero,Manchester United,1,90,90,0,0,0,0,0%,0,0,0,7.12,2016
+456,Kurt Zouma,Chelsea,6,152,25.33333333,0,0,0,0,0%,2,0,0,37.13,2016
+457,Joleon Lescott,Sunderland A.F.C,1,33,33,0,0,0,0,0%,1,0,0,6.35,2016
+458,Darron Gibson,Sunderland A.F.C,8,502,62.75,0,0,5,0,0%,0,0,0,51.08,2016
+459,Kamil Grosicki,Hull City,10,748,74.8,0,0,23,5,0%,5,4,0,66.27,2016
+460,Omar Elabdellaoui,Hull City,7,526,75.14285714,0,0,0,0,0%,3,0,0,43.95,2016
+461,Ashley Westwood,Burnley,5,202,40.4,0,0,0,0,0%,0,0,0,30.94,2016
+462,Mauro Zarate,Watford,3,206,68.66666667,0,0,8,3,0%,7,0,0,20.2,2016
+463,Luciano Narsingh,Swansea City,11,384,34.90909091,0,0,2,0,0%,9,1,0,69.16,2016
+464,Jordan Ayew,Swansea City,12,468,39,0,0,5,2,0%,9,2,0,75.66,2016
+465,George Honeyman,Sunderland A.F.C,3,119,39.66666667,0,0,0,0,0%,3,0,0,18.86,2016
+466,Ben Woodburn,Liverpool,3,81,27,0,0,2,0,0%,1,0,0,18.64,2016
+467,David Ospina Ramirez,Arsenal,2,142,71,0,0,0,0,0%,1,0,0,12.34,2016
+468,Yohan Benalouane,Leicester City,5,436,87.2,0,0,2,1,0%,2,0,0,33.51,2016
+469,Daniel Kofy Agyei,Burnley,1,7,7,0,0,0,0,0%,1,0,0,6.16,2016
+470,Asmir Begovic,Chelsea,1,90,90,0,0,0,0,0%,0,0,0,5.89,2016
+1,Harry Kane,Tottenham Hotspur,38,3370,88.68421053,25,168.5,157,73,12.70%,53,30,9,286.98,2015
+2,Sergio Leonel Kun Aguero,Manchester City,30,2376,79.2,24,118.8,119,53,16.80%,36,27,5,222.14,2015
+3,Jamie Vardy,Leicester City,36,3174,88.16666667,24,167.1,114,53,16.70%,29,26,3,271.6,2015
+4,Romelu Lukaku,Everton,37,3177,85.86486486,18,186.9,119,48,14.30%,25,16,6,266.29,2015
+5,Riyad Mahrez,Leicester City,37,3056,82.59459459,17,235.1,87,40,14.90%,83,4,9,292.22,2015
+6,Olivier Giroud,Arsenal,38,2425,63.81578947,16,161.7,102,43,14.70%,33,27,2,268.35,2015
+7,Odion Jude Ighalo,Watford,37,3152,85.18918919,16,197,109,49,14.70%,56,26,6,257.98,2015
+8,Jermaine Defoe,Sunderland A.F.C,34,2641,77.67647059,15,188.6,86,41,16.30%,36,47,1,232.48,2015
+9,Alexis Alejandro Sanchez,Arsenal,30,2446,81.53333333,13,188.2,108,38,12%,65,13,6,231.94,2015
+10,Troy Deeney,Watford,38,3292,86.63157895,13,470.3,94,32,7.40%,37,18,3,275.38,2015
+11,Diego Da Silva Costa,Chelsea,28,2379,84.96428571,12,198.2,67,28,17.90%,49,33,2,198.4,2015
+12,Andre Ayew,Swansea City,35,3011,86.02857143,12,250.9,65,25,18.50%,75,9,3,242.67,2015
+13,Anthony Martial,Manchester United,31,2638,85.09677419,11,239.8,57,25,19.30%,56,17,2,224.07,2015
+14,Georginio Wijnaldum,Newcastle United,39,3241,83.1025641,11,294.6,53,28,20.80%,50,5,2,268.09,2015
+15,Graziano Pelle,Southampton,30,2173,72.43333333,11,197.5,80,25,13.80%,29,17,5,213.39,2015
+16,Sadio Mane,Southampton,37,2615,70.67567568,11,237.7,85,35,12.90%,70,27,3,264.22,2015
+17,Marko Arnautovic,Stoke City,34,2820,82.94117647,11,352.5,70,22,11.40%,24,32,1,239.56,2015
+18,Gylfi Sigurdsson,Swansea City,36,2917,81.02777778,11,364.6,90,32,8.90%,23,4,3,247.28,2015
+19,Roberto Firmino Barbosa de Oliveira,Liverpool,31,1982,63.93548387,10,198.2,62,25,16.10%,20,15,5,221.77,2015
+20,Shane Long,Southampton,28,2110,75.35714286,10,211,64,23,15.60%,40,25,1,196.23,2015
+21,Bamidele Alli,Tottenham Hotspur,33,2482,75.21212121,10,248.2,74,28,13.50%,66,7,1,241.44,2015
+22,Jose Salomon Rondon Gimenez,West Bromwich(WBA),34,2567,75.5,9,285.2,69,20,13%,34,27,0,224.54,2015
+23,Christian Benteke,Liverpool,29,1518,52.34482759,9,189.8,61,19,13.10%,26,17,1,192.17,2015
+24,Aleksandar Mitrovic,Newcastle United,34,2211,65.02941176,9,315.9,79,29,8.90%,51,16,0,220,2015
+25,Andrew Carroll,West Ham United,27,1432,53.03703704,9,179,55,25,14.50%,25,7,1,187.11,2015
+26,Dimitrie Payet,West Ham United,30,2573,85.76666667,9,285.9,69,28,13%,39,3,6,232.51,2015
+27,Daniel Sturridge,Liverpool,15,1016,67.73333333,8,127,52,26,15.40%,12,9,1,106.82,2015
+28,Philippe Coutinho Correia,Liverpool,26,2042,78.53846154,8,255.2,111,30,7.20%,29,5,5,187.94,2015
+29,Kelechi Iheanacho,Manchester City,26,752,28.92307692,8,94,28,12,28.60%,5,3,1,169.11,2015
+30,Wayne Rooney,Manchester United,28,2410,86.07142857,8,344.3,69,24,10.10%,14,15,5,197.52,2015
+31,Dusan Tadic,Southampton,34,2293,67.44117647,8,327.6,58,17,12.10%,35,8,1,241.64,2015
+32,Ross Barkley,Everton,38,3087,81.23684211,8,514.5,95,29,6.30%,71,5,2,278.33,2015
+33,Michail Antonio,West Ham United,26,2062,79.30769231,8,257.8,55,20,14.50%,34,11,3,191.06,2015
+34,Jordan Ayew,Aston Villa,30,2426,80.86666667,7,404.3,59,21,10.20%,38,10,0,206.37,2015
+35,Pedro Rodriguez Ledesma Pedrito,Chelsea,29,2044,70.48275862,7,292,57,16,12.30%,46,5,2,203.82,2015
+36,Gneri Yaya Toure,Manchester City,31,2333,75.25806452,7,388.8,77,24,7.80%,26,2,3,227.51,2015
+37,Kevin De Bruyne,Manchester City,25,2003,80.12,7,286.1,48,25,14.60%,18,8,5,186.28,2015
+38,Dieudonne Mbokani,Norwich City,29,1676,57.79310345,7,239.4,41,20,17.10%,46,30,1,197.88,2015
+39,Bojan Krkic Perez,Stoke City,27,1710,63.33333333,7,342,37,16,13.50%,29,2,2,183.83,2015
+40,Mark Noble,West Ham United,37,3217,86.94594595,7,804.2,34,12,11.80%,54,6,3,263.73,2015
+41,Mesut Ozil,Arsenal,35,3065,87.57142857,6,510.8,46,19,13%,43,15,4,267.86,2015
+42,Raheem Sterling,Manchester City,31,1927,62.16129032,6,321.2,52,22,11.50%,53,5,0,209.86,2015
+43,Juan Manuel Mata Garcia,Manchester United,38,2979,78.39473684,6,595.8,54,20,9.30%,29,9,2,256.87,2015
+44,Ayoze P??rez,Newcastle United,34,2048,60.23529412,6,341.3,50,16,12%,39,5,1,227.64,2015
+45,Christian Eriksen,Tottenham Hotspur,35,2941,84.02857143,6,490.2,99,42,6.10%,17,0,2,261.51,2015
+46,Nathan Redmond,Norwich City,36,2380,66.11111111,6,396.7,57,18,10.50%,30,6,2,243.28,2015
+47,Jose Leonardo Ulloa,Leicester City,27,966,35.77777778,6,193.2,34,10,14.70%,18,5,0,179.48,2015
+48,Manuel Lanzini,West Ham United,26,1920,73.84615385,6,320,48,11,12.50%,30,6,5,181.43,2015
+49,Patrick Van Aanholt,Sunderland A.F.C,34,3060,90,6,510,46,10,13%,12,5,1,241.46,2015
+50,Joshua King,Bournemouth AFC,31,1946,62.77419355,6,324.3,55,20,10.90%,28,16,2,208.17,2015
+51,Bafetibis Gomis,Swansea City,33,1696,51.39393939,6,339.2,55,16,9.10%,19,36,0,210.28,2015
+52,Theo Walcott,Arsenal,27,1373,50.85185185,5,274.6,45,22,11.10%,24,13,1,177.88,2015
+53,Aaron Ramsey,Arsenal,31,2623,84.61290323,5,524.6,70,21,7.10%,47,5,2,223.59,2015
+54,Rudy Gestede,Aston Villa,32,1664,52,5,332.8,60,18,8.30%,12,6,1,218.37,2015
+55,Eden Hazard,Chelsea,31,2190,70.64516129,5,438,36,15,13.90%,70,10,5,220.41,2015
+56,Willian Borges da Silva,Chelsea,35,2750,78.57142857,5,550,60,20,8.30%,67,3,3,253.62,2015
+57,Cesc Fabregas,Chelsea,37,2899,78.35135135,5,966.3,45,19,6.70%,42,4,2,262.52,2015
+58,James Milner,Liverpool,28,2444,87.28571429,5,611,39,11,10.30%,30,1,4,200.01,2015
+59,Divock Origi,Liverpool,16,666,41.625,5,133.2,22,10,22.70%,11,8,0,99.14,2015
+60,Marcus Rashford,Manchester United,11,873,79.36363636,5,174.6,16,8,31.20%,10,4,1,76.02,2015
+61,Steven Davis,Southampton,34,2613,76.85294118,5,522.6,21,10,23.80%,18,5,1,239.28,2015
+62,Arouna Kone,Everton,25,1458,58.32,5,291.6,36,14,13.90%,11,4,1,166.99,2015
+63,Aaron Lennon,Everton,25,1538,61.52,5,307.6,18,11,27.80%,21,1,0,168.54,2015
+64,Erik Lamela,Tottenham Hotspur,33,2387,72.33333333,5,477.4,59,21,8.50%,34,13,2,237.49,2015
+65,Yannick Bolasie,Crystal Palace,26,2076,79.84615385,5,415.2,57,26,8.80%,33,17,2,184.63,2015
+66,Yohan Cabaye,Crystal Palace,33,2702,81.87878788,5,1351,67,20,3%,40,0,3,238.18,2015
+67,Scott Dann,Crystal Palace,35,3150,90,5,630,30,11,16.70%,13,5,1,244.62,2015
+68,Connor Wickham,Crystal Palace,21,1324,63.04761905,5,331,33,10,12.10%,19,2,1,140.74,2015
+69,Jonathan Walters,Stoke City,26,1723,66.26923077,5,344.6,30,12,16.70%,27,24,2,173.23,2015
+70,Mame Biram Diouf,Stoke City,26,1269,48.80769231,5,253.8,31,17,16.10%,26,8,1,160.76,2015
+71,Shinji Okazaki,Leicester City,36,2073,57.58333333,5,414.6,47,12,10.60%,47,8,1,238.41,2015
+72,Diafra Sakho,West Ham United,21,1527,72.71428571,5,305.4,48,18,10.40%,28,13,0,145.51,2015
+73,Cheikhou Kouyate,West Ham United,34,3033,89.20588235,5,606.6,43,18,11.60%,40,2,0,245.91,2015
+74,Fabio Borini,Sunderland A.F.C,27,1987,73.59259259,5,496.8,51,19,7.80%,53,2,0,183.41,2015
+75,Callum Wilson,Bournemouth AFC,12,782,65.16666667,5,195.5,17,8,23.50%,19,4,1,79.33,2015
+76,Saido Berahino,West Bromwich(WBA),30,1742,58.06666667,4,435.5,34,10,11.80%,24,10,0,190.24,2015
+77,Craig Dawson,West Bromwich(WBA),38,3386,89.10526316,4,846.5,37,8,10.80%,28,3,2,268.4,2015
+78,Laurent Koscielny,Arsenal,33,2847,86.27272727,4,711.8,19,8,21.10%,26,1,4,248.34,2015
+79,Danny Welbeck,Arsenal,11,578,52.54545455,4,144.5,20,11,20%,9,0,0,77.67,2015
+80,Adam Lallana,Liverpool,30,2113,70.43333333,4,528.2,44,15,9.10%,28,14,1,211.25,2015
+81,Wilfried Bony,Manchester City,26,1221,46.96153846,4,305.2,60,17,6.70%,20,7,1,172.86,2015
+82,Jesse Lingard,Manchester United,25,1634,65.36,4,408.5,31,13,12.90%,21,5,1,167.8,2015
+83,Andros Townsend,Newcastle United,15,1150,76.66666667,4,287.5,29,16,13.80%,13,0,1,109.13,2015
+84,Jose Ramiro Funes Mori,Everton,27,2230,82.59259259,4,557.5,24,9,16.70%,11,2,3,195.68,2015
+85,Kevin Mirallas,Everton,22,1059,48.13636364,4,264.8,41,16,9.80%,17,7,0,146.25,2015
+86,Toby Alderweireld,Tottenham Hotspur,38,3420,90,4,855,39,13,10.30%,4,1,1,271.81,2015
+87,Son Heung Min,Tottenham Hotspur,26,1103,42.42307692,4,275.8,37,13,10.80%,11,9,1,170.66,2015
+88,Steven Naismith,Norwich City,23,1404,61.04347826,4,351,27,9,14.80%,42,9,1,148.92,2015
+89,Wesley Hoolahan,Norwich City,31,2037,65.70967742,4,679,29,9,10.30%,41,5,1,206.24,2015
+90,"Jose Luis Sanmartin Mato,Joselu",Stoke City,22,1089,49.5,4,272.2,28,16,14.30%,19,8,0,143.73,2015
+91,Enner Valencia,West Ham United,18,1028,57.11111111,4,257,34,11,11.80%,22,9,0,122.29,2015
+92,Steve Cook,Bournemouth AFC,36,3195,88.75,4,798.8,25,8,16%,10,1,4,251.91,2015
+93,Matt Ritchie,Bournemouth AFC,37,2979,80.51351351,4,744.8,76,17,5.30%,55,4,0,250.07,2015
+94,Benik Afobe,Bournemouth AFC,14,915,65.35714286,4,228.8,14,5,28.60%,9,8,0,91.12,2015
+95,James Morrison,West Bromwich(WBA),18,1344,74.66666667,3,448,24,12,12.50%,12,0,2,125.98,2015
+96,Craig Gardner,West Bromwich(WBA),34,2035,59.85294118,3,678.3,46,12,6.50%,28,8,1,222.05,2015
+97,Joel Campbell,Arsenal,18,886,49.22222222,3,295.3,19,7,15.80%,25,3,0,121.51,2015
+98,Joleon Lescott,Aston Villa,32,2811,87.84375,3,937,11,4,27.30%,9,0,1,218.35,2015
+99,Oscar Dos Santos Emboaba Junior,Chelsea,27,1775,65.74074074,3,887.5,52,16,3.80%,35,2,1,185.01,2015
+100,Aleksandar Kolarov,Manchester City,29,2281,78.65517241,3,760.3,39,10,7.70%,31,3,0,206.5,2015
+101,Ander Herrera Aguera,Manchester United,25,1518,60.72,3,759,23,6,8.70%,21,1,2,170.43,2015
+102,Papiss Cisse,Newcastle United,21,1071,51,3,357,22,9,13.60%,8,19,0,133.05,2015
+103,Virgil van Dijk,Southampton,34,3060,90,3,1020,29,10,10.30%,15,2,7,254.81,2015
+104,Nacer Chadli,Tottenham Hotspur,25,933,37.32,3,311,25,7,12%,7,4,0,161.33,2015
+105,Eric Dier,Tottenham Hotspur,37,3268,88.32432432,3,1089.3,31,7,9.70%,24,0,2,261.94,2015
+106,Moussa Dembele,Tottenham Hotspur,29,2295,79.13793103,3,765,22,9,13.60%,32,2,3,221.79,2015
+107,Russell Martin,Norwich City,30,2700,90,3,900,18,6,16.70%,6,0,0,198.79,2015
+108,Jonathan Howson,Norwich City,36,2953,82.02777778,3,984.3,35,9,8.60%,19,3,1,242.41,2015
+109,Cameron Jerome,Norwich City,35,1792,51.2,3,597.3,48,11,6.20%,10,23,0,219.11,2015
+110,Robert Brady,Norwich City,37,3034,82,3,1011.3,53,20,5.70%,18,4,4,263.28,2015
+111,Dwight Gayle,Crystal Palace,16,815,50.9375,3,271.7,21,8,14.30%,35,2,1,104.07,2015
+112,Xherdan Shaqiri,Stoke City,27,2030,75.18518519,3,676.7,40,11,7.50%,28,8,2,183.43,2015
+113,Robert Huth,Leicester City,35,3150,90,3,1050,29,6,10.30%,17,4,1,250.15,2015
+114,Daniel Drinkwater,Leicester City,35,3043,86.94285714,3,1014.3,41,10,7.30%,25,0,3,259.28,2015
+115,Jeremain Lens,Sunderland A.F.C,20,1328,66.4,3,442.7,21,7,14.30%,31,4,1,127.29,2015
+116,Duncan Watmore,Sunderland A.F.C,24,949,39.54166667,3,316.3,14,8,21.40%,14,9,0,151.86,2015
+117,Junior Stanislas,Bournemouth AFC,20,1417,70.85,3,472.3,44,11,6.80%,13,3,1,138.21,2015
+118,Marc Pugh,Bournemouth AFC,26,1361,52.34615385,3,453.7,22,11,13.60%,29,1,2,171.33,2015
+119,Charlie Daniels,Bournemouth AFC,37,3286,88.81081081,3,3286,20,7,5%,19,2,0,256.23,2015
+120,Daniel Gosling,Bournemouth AFC,33,2442,74,3,814,40,11,7.50%,41,1,0,222.89,2015
+121,Glenn Murray,Bournemouth AFC,20,795,39.75,3,265,25,14,12%,19,13,0,127.79,2015
+122,James McClean,West Bromwich(WBA),35,2470,70.57142857,2,1235,31,9,6.50%,38,5,1,238.75,2015
+123,Stephane Sessegnon,West Bromwich(WBA),25,1759,70.36,2,879.5,31,10,6.50%,52,2,1,170.15,2015
+124,Alex Iwobi,Arsenal,11,630,57.27272727,2,315,15,7,13.30%,5,0,0,75.98,2015
+125,Carles Gil de Pareja Vicent,Aston Villa,23,1441,62.65217391,2,720.5,17,5,11.80%,27,2,0,150.21,2015
+126,Ashley Westwood,Aston Villa,32,2719,84.96875,2,1359.5,36,9,5.60%,11,0,1,213.82,2015
+127,Scott Sinclair,Aston Villa,26,1597,61.42307692,2,1597,16,7,6.20%,21,10,0,156.63,2015
+128,Branislav Ivanovic,Chelsea,33,2918,88.42424242,2,1459,28,8,7.10%,22,1,0,227.62,2015
+129,Gary Cahill,Chelsea,23,1955,85,2,977.5,13,4,15.40%,21,1,0,156.47,2015
+130,Caesar Azpilicueta,Chelsea,36,3201,88.91666667,2,1600.5,10,5,20%,18,1,1,253.78,2015
+131,Bertrand Traore,Chelsea,10,373,37.3,2,186.5,17,6,11.80%,4,5,0,67.42,2015
+132,Nemanja Matic,Chelsea,32,2481,77.53125,2,1240.5,34,8,5.90%,17,2,0,224.76,2015
+133,Jodan Henderson,Liverpool,17,1293,76.05882353,2,646.5,26,6,7.70%,8,3,1,119.75,2015
+134,Joe Allen,Liverpool,17,729,42.88235294,2,364.5,12,4,16.70%,20,0,0,106.66,2015
+135,Danny Ings,Liverpool,6,339,56.5,2,169.5,10,5,20%,5,2,0,39.54,2015
+136,Vincent Kompany,Manchester City,14,1198,85.57142857,2,599,11,3,18.20%,3,0,0,101.71,2015
+137,Fernando Francisco Reges,Manchester City,24,1711,71.29166667,2,855.5,15,5,13.30%,10,1,0,166.55,2015
+138,Fabian Delph,Manchester City,16,751,46.9375,2,375.5,13,5,15.40%,9,0,1,108.48,2015
+139,Samir Nasri,Manchester City,12,535,44.58333333,2,267.5,14,7,14.30%,5,1,0,79.74,2015
+140,"Fernando Luis Roza, Fernandinho",Manchester City,33,2731,82.75757576,2,1365.5,29,5,6.90%,33,0,3,237.13,2015
+141,Memphis Depay,Manchester United,28,1465,52.32142857,2,732.5,55,17,3.60%,33,7,1,179.71,2015
+142,Daryl Janmaat,Newcastle United,32,2804,87.625,2,1402,19,8,10.50%,9,4,1,218.25,2015
+143,Jamaal Lascelles,Newcastle United,17,1146,67.41176471,2,573,4,4,50%,3,0,0,112.7,2015
+144,James Ward Prowse,Southampton,32,1531,47.84375,2,1531,27,7,3.70%,8,1,1,210.63,2015
+145,Jose Miguel da Rocha Fonte,Southampton,37,3180,85.94594595,2,1590,20,9,10%,11,1,0,259.88,2015
+146,Leighton Baines,Everton,18,1477,82.05555556,2,738.5,9,3,22.20%,21,4,1,123.11,2015
+147,Jamie McCarthy,Everton,29,2473,85.27586207,2,1236.5,16,7,12.50%,28,0,0,199.68,2015
+148,Gerard Deulofeu,Everton,26,1384,53.23076923,2,692,9,6,22.20%,14,2,0,177.24,2015
+149,Tom Cleverley,Everton,22,1638,74.45454545,2,819,24,7,8.30%,19,1,1,150.18,2015
+150,Alexander Tettey,Norwich City,23,1952,84.86956522,2,976,19,3,10.50%,9,0,1,153.11,2015
+151,Damien Delaney,Crystal Palace,32,2880,90,2,1440,21,6,9.50%,15,0,0,221.39,2015
+152,Joel Ward,Crystal Palace,30,2692,89.73333333,2,1346,17,6,11.80%,28,0,0,208.12,2015
+153,Jason Puncheon,Crystal Palace,32,2700,84.375,2,1350,54,14,3.70%,30,5,1,221.57,2015
+154,Wilfried Zaha,Crystal Palace,34,2495,73.38235294,2,1247.5,31,9,6.50%,90,8,2,239.41,2015
+155,James McArthur,Crystal Palace,28,2193,78.32142857,2,1096.5,16,4,12.50%,21,1,0,192.11,2015
+156,Bakary Sako,Crystal Palace,19,1089,57.31578947,2,544.5,34,14,5.90%,12,8,2,125.4,2015
+157,Almen Abdi,Watford,32,1987,62.09375,2,993.5,39,10,5.10%,22,1,1,216.33,2015
+158,Sebastian Prodl,Watford,21,1776,84.57142857,2,888,12,3,16.70%,6,0,0,143.31,2015
+159,Gilbert Gianelli Imbula Wanga,Stoke City,14,1260,90,2,630,21,5,9.50%,20,0,2,99.83,2015
+160,Ibrahim Afellay,Stoke City,31,2170,70,2,1085,39,8,5.10%,35,2,0,199.32,2015
+161,Andy King,Leicester City,24,1046,43.58333333,2,523,19,4,10.50%,7,0,0,158.29,2015
+162,Wes Morgan,Leicester City,38,3420,90,2,1710,21,6,9.50%,15,0,3,269.4,2015
+163,Marc Albrighton,Leicester City,38,2787,73.34210526,2,1393.5,42,11,4.80%,27,3,0,269.34,2015
+164,Carl Jenkinson,West Ham United,20,1235,61.75,2,617.5,7,3,28.60%,4,0,0,126.96,2015
+165,Aaron Cresswell,West Ham United,37,3315,89.59459459,2,1657.5,27,6,7.40%,31,1,0,251.67,2015
+166,Lamine Kone,Sunderland A.F.C,16,1405,87.8125,2,702.5,10,4,20%,4,1,2,118.56,2015
+167,Wahbi Khazri,Sunderland A.F.C,14,1077,76.92857143,2,538.5,24,5,8.30%,12,5,2,98.39,2015
+168,Adam Smith,Bournemouth AFC,29,2094,72.20689655,2,1047,14,4,14.30%,51,2,2,202.59,2015
+169,Ashley Williams,Swansea City,37,3330,90,2,1665,18,7,11.10%,14,2,5,265.08,2015
+170,Wayne Routledge,Swansea City,28,1683,60.10714286,2,841.5,17,9,11.80%,21,8,0,173.4,2015
+171,Alberto Paloschi,Swansea City,10,669,66.9,2,334.5,15,7,13.30%,6,6,0,64.2,2015
+172,Sung-Yueng Ki,Swansea City,28,1852,66.14285714,2,926,24,7,8.30%,25,1,0,177.84,2015
+173,Jonny Evans,West Bromwich(WBA),30,2593,86.43333333,1,2593,7,1,14.30%,20,0,2,215.93,2015
+174,Gareth McAuley,West Bromwich(WBA),34,3060,90,1,3060,6,3,16.70%,16,2,0,237.59,2015
+175,Jonas Olsson,West Bromwich(WBA),27,2015,74.62962963,1,2015,6,2,16.70%,10,2,1,179.09,2015
+176,Darren Fletcher,West Bromwich(WBA),38,3376,88.84210526,1,3376,22,4,4.50%,29,0,2,251.03,2015
+177,Rickie Lambert,West Bromwich(WBA),17,615,36.17647059,1,0,14,4,0%,8,2,0,105.36,2015
+178,Kieran Gibbs,Arsenal,14,365,26.07142857,1,365,5,1,20%,5,2,0,88.63,2015
+179,Gabriel Armando de Abreu,Arsenal,21,1806,86,1,1806,11,4,9.10%,10,0,0,152.34,2015
+180,Alex Oxlade-Chamberlain,Arsenal,22,921,41.86363636,1,921,23,5,4.30%,13,2,0,146.16,2015
+181,Hector Bellerin,Arsenal,36,3240,90,1,3240,13,3,7.70%,8,1,1,259.04,2015
+182,Gabriel Agbonlahor,Aston Villa,14,1036,74,1,1036,10,6,10%,13,3,0,90.65,2015
+183,Ciaran Clark,Aston Villa,16,1440,90,1,1440,9,2,11.10%,11,0,0,111.25,2015
+184,Leandro Bacuna,Aston Villa,31,2418,78,1,2418,31,9,3.20%,12,2,0,206.7,2015
+185,Jack Grealish,Aston Villa,16,831,51.9375,1,831,15,4,6.70%,17,0,0,103.05,2015
+186,Micah Richards,Aston Villa,24,2045,85.20833333,1,2045,11,2,9.10%,24,0,1,167.01,2015
+187,John Terry,Chelsea,24,2027,84.45833333,1,2027,10,2,10%,5,2,0,157.63,2015
+188,Kurt Zouma,Chelsea,23,1917,83.34782609,1,1917,16,2,6.20%,8,2,0,157.29,2015
+189,Radamel Falcao,Chelsea,10,228,22.8,1,228,11,5,9.10%,5,2,0,62.6,2015
+190,Alexandre Pato,Chelsea,2,131,65.5,1,0,4,2,0%,3,2,0,13.33,2015
+191,Robert Kenedy Nunes do Nascimento,Chelsea,14,548,39.14285714,1,548,14,3,7.10%,9,2,1,93.39,2015
+192,Victor Moses,Chelsea,21,982,46.76190476,1,982,22,4,4.50%,20,6,0,136.99,2015
+193,Loic Remy,Chelsea,12,283,23.58333333,1,283,13,5,7.70%,6,5,0,74.73,2015
+194,Ruben Loftus Cheek,Chelsea,10,405,40.5,1,405,12,3,8.30%,14,1,0,66.37,2015
+195,Nathan Ake,Chelsea,24,1899,79.125,1,1899,16,5,6.20%,13,0,1,172.93,2015
+196,Martin Skrtel,Liverpool,22,1885,85.68181818,1,1885,10,3,10%,6,1,2,150.18,2015
+197,Nathaniel Clyne,Liverpool,33,2970,90,1,2970,27,4,3.70%,24,1,0,221.88,2015
+198,Habib Kolo Toure,Liverpool,11,856,77.81818182,1,856,3,1,33.30%,2,0,0,75.15,2015
+199,Emre Can,Liverpool,30,2493,83.1,1,2493,29,13,3.40%,30,5,1,207.49,2015
+200,Mamadou Sakho,Liverpool,22,1855,84.31818182,1,1855,6,1,16.70%,13,1,0,153.76,2015
+201,Jordon Ashley F Ibe,Liverpool,26,1172,45.07692308,1,1172,29,6,3.40%,14,1,0,166.73,2015
+202,Alberto Moreno,Liverpool,32,2546,79.5625,1,2546,34,8,2.90%,19,6,3,224.1,2015
+203,David Jimenez Silva,Manchester City,24,1801,75.04166667,1,1801,28,3,3.60%,34,0,0,174.01,2015
+204,Nicolas Hernan Gonzalo Otamendi,Manchester City,31,2762,89.09677419,1,2762,27,8,3.70%,30,0,3,223.04,2015
+205,Bastian Schweinsteiger,Manchester United,18,1202,66.77777778,1,1202,12,3,8.30%,15,0,0,121.54,2015
+206,Ashley Young,Manchester United,17,1055,62.05882353,1,1055,6,2,16.70%,20,1,0,105.56,2015
+207,Morgan Schneiderlin,Manchester United,29,2204,76,1,2204,11,1,9.10%,14,0,0,199.44,2015
+208,Adnan Januzaj,Manchester United,5,144,28.8,1,144,4,1,25%,3,0,0,31.8,2015
+209,Marouane Fellaini,Manchester United,18,1068,59.33333333,1,1068,23,8,4.30%,13,3,0,116.06,2015
+210,Daley Blind,Manchester United,35,3117,89.05714286,1,3117,4,2,25%,15,0,3,249.68,2015
+211,Matteo Darmian,Manchester United,28,1931,68.96428571,1,1931,6,1,16.70%,22,4,2,192.94,2015
+212,Fabricio Coloccini,Newcastle United,26,2338,89.92307692,1,2338,10,3,10%,8,0,1,172.63,2015
+213,Moussa Sissoko,Newcastle United,37,3223,87.10810811,1,3223,39,12,2.60%,32,3,3,260.14,2015
+214,Vurnon Anita,Newcastle United,28,2107,75.25,1,2107,8,2,12.50%,12,0,1,187.34,2015
+215,Jonjo Shelvey,Newcastle United,31,2292,73.93548387,1,0,54,15,0%,8,0,0,211.23,2015
+216,Paul Dummett,Newcastle United,23,1897,82.47826087,1,1897,5,1,20%,9,0,0,158.51,2015
+217,Jack Colback,Newcastle United,30,2486,82.86666667,1,2486,17,5,5.90%,47,0,0,207.18,2015
+218,Rolando Aarons,Newcastle United,9,375,41.66666667,1,375,2,1,50%,7,0,0,56.67,2015
+219,Maya Yoshida,Southampton,19,1012,53.26315789,1,1012,2,2,50%,6,0,1,123.38,2015
+220,Charlie Austin,Southampton,7,208,29.71428571,1,208,8,2,12.50%,7,2,0,44.78,2015
+221,Cuco Martina,Southampton,15,1081,72.06666667,1,1081,3,2,33.30%,10,2,0,103.4,2015
+222,Victor Wanyama,Southampton,30,2564,85.46666667,1,2564,32,5,3.10%,28,1,0,210.91,2015
+223,Ryan Bertrand,Southampton,32,2880,90,1,0,10,2,0%,27,0,0,221.05,2015
+224,Oriol Romeu Vidal,Southampton,29,1605,55.34482759,1,1605,28,8,3.60%,15,0,0,197.02,2015
+225,Seamus Coleman,Everton,28,2386,85.21428571,1,2386,27,6,3.70%,28,8,0,194.84,2015
+226,Kyle Walker,Tottenham Hotspur,33,2943,89.18181818,1,2943,19,6,5.30%,30,3,1,238.25,2015
+227,Kieran Trippier,Tottenham Hotspur,6,458,76.33333333,1,458,2,1,50%,10,0,1,43.67,2015
+228,Danny Rose,Tottenham Hotspur,24,2132,88.83333333,1,2132,26,4,3.80%,43,1,0,173.69,2015
+229,Ryan Mason,Tottenham Hotspur,21,797,37.95238095,1,797,20,9,5%,11,0,0,134.41,2015
+230,Thomas Carroll,Tottenham Hotspur,17,504,29.64705882,1,504,5,3,20%,3,0,0,107.59,2015
+231,Matthew Jarvis,Norwich City,23,1153,50.13043478,1,1153,10,4,10%,7,2,0,143.62,2015
+232,Sebastien Bassong,Norwich City,32,2789,87.15625,1,2789,19,3,5.30%,24,3,0,215.61,2015
+233,Steven Whittaker,Norwich City,8,720,90,1,720,8,4,12.50%,3,0,0,51.93,2015
+234,Martin Olsson,Norwich City,24,1773,73.875,1,1773,7,6,14.30%,18,0,0,155.11,2015
+235,Timm Klose,Norwich City,10,850,85,1,850,3,1,33.30%,7,0,3,72.22,2015
+236,Lee Chung Yong,Crystal Palace,13,385,29.61538462,1,0,5,2,0%,6,0,0,83.19,2015
+237,Emmanuel Sheyi Adebayor,Crystal Palace,12,619,51.58333333,1,619,12,4,8.30%,5,11,0,75.29,2015
+238,Joe Ledley,Crystal Palace,19,1015,53.42105263,1,1015,7,2,14.30%,4,0,0,121.76,2015
+239,Ben Watson,Watford,35,2815,80.42857143,1,2815,17,3,5.90%,15,0,0,242.71,2015
+240,Craig Cathcart,Watford,35,3033,86.65714286,1,3033,5,2,20%,12,0,1,235.11,2015
+241,Jose Cholevas Holebas,Watford,11,946,86,1,946,13,2,7.70%,5,0,1,77.31,2015
+242,Charlie Adam,Stoke City,21,1100,52.38095238,1,1100,29,4,3.40%,25,0,0,130.49,2015
+243,Ritchie De Laet,Leicester City,11,655,59.54545455,1,655,2,1,50%,3,0,0,75.51,2015
+244,Jeffrey Schlupp,Leicester City,23,1383,60.13043478,1,1383,26,6,3.80%,22,0,0,159.17,2015
+245,Ngolo Kante,Leicester City,37,3020,81.62162162,1,3020,21,5,4.80%,17,0,3,282.42,2015
+246,Winston Reid,West Ham United,24,2136,89,1,2136,18,5,5.60%,27,0,2,173.17,2015
+247,Jack Rodwell,Sunderland A.F.C,21,1152,54.85714286,1,1152,25,7,4%,7,2,0,134.37,2015
+248,Billy Jones,Sunderland A.F.C,24,2033,84.70833333,1,2033,14,4,7.10%,15,3,1,162.82,2015
+249,Yann MVila,Sunderland A.F.C,37,3189,86.18918919,1,3189,27,4,3.70%,42,0,0,259.99,2015
+250,Dame N'Doye,Sunderland A.F.C,11,567,51.54545455,1,567,9,4,11.10%,20,5,0,71.44,2015
+251,Max-Alain Gradel,Bournemouth AFC,13,875,67.30769231,1,875,17,6,5.90%,25,3,0,87.87,2015
+252,Lewis Grabban,Bournemouth AFC,20,806,40.3,1,806,19,9,5.30%,4,6,0,125.05,2015
+253,Tommy Elphick,Bournemouth AFC,12,1012,84.33333333,1,1012,4,2,25%,7,1,0,78.56,2015
+254,Nathan Dyer,Swansea City,11,226,20.54545455,1,226,5,2,20%,10,0,0,68.98,2015
+255,Jack Cork,Swansea City,35,2632,75.2,1,2632,20,6,5%,48,2,1,244.96,2015
+256,Federico Fernandez,Swansea City,32,2880,90,1,2880,18,3,5.60%,21,2,1,224.08,2015
+257,Modou Barrow,Swansea City,22,812,36.90909091,1,812,12,4,8.30%,24,2,0,141.82,2015
+258,Chris Brunt,West Bromwich(WBA),22,1802,81.90909091,0,0,19,5,0%,9,2,0,148.78,2015
+259,Ben Foster,West Bromwich(WBA),15,1350,90,0,0,0,0,0%,0,0,0,100.12,2015
+260,Callum Henry McManaman,West Bromwich(WBA),10,273,27.3,0,0,8,1,0%,8,0,0,64.9,2015
+261,Claudio Ariel Yacob,West Bromwich(WBA),34,2853,83.91176471,0,0,9,0,0%,42,0,2,236.67,2015
+262,Christian Gamboa Luna,West Bromwich(WBA),1,27,27,0,0,1,0,0%,1,1,0,6.14,2015
+263,Sebastien Pocognoli,West Bromwich(WBA),1,34,34,0,0,0,0,0%,0,0,0,7.15,2015
+264,Serge Gnabry,West Bromwich(WBA),1,12,12,0,0,2,1,0%,0,0,0,6.36,2015
+265,Victor Anichebe,West Bromwich(WBA),9,363,40.33333333,0,0,12,4,0%,7,4,0,57.14,2015
+266,Boaz Myhill,West Bromwich(WBA),23,2070,90,0,0,0,0,0%,4,0,1,150.8,2015
+267,Sandro Ranieri Guimaraes Cordeiro,West Bromwich(WBA),9,378,42,0,0,3,0,0%,6,0,0,58.62,2015
+268,James Chester,West Bromwich(WBA),13,963,74.07692308,0,0,0,0,0%,6,0,0,87.23,2015
+269,Tyler Roberts,West Bromwich(WBA),1,17,17,0,0,1,0,0%,0,0,0,6.22,2015
+270,Jonathan Leko,West Bromwich(WBA),5,271,54.2,0,0,0,0,0%,4,1,0,33.1,2015
+271,Sam Field,West Bromwich(WBA),1,4,4,0,0,0,0,0%,1,0,0,5.99,2015
+272,Petr Cech,Arsenal,34,3060,90,0,0,0,0,0%,5,0,1,235.75,2015
+273,Amatriain Arteta Mikel,Arsenal,9,202,22.44444444,0,0,1,1,0%,4,0,0,57.24,2015
+274,Per Mertesacker,Arsenal,24,2121,88.375,0,0,8,2,0%,6,1,0,165.23,2015
+275,Santigo Cazorla Gonzalez,Arsenal,15,1304,86.93333333,0,0,23,8,0%,14,2,2,112.87,2015
+276,Jack Wilshere,Arsenal,3,141,47,0,0,1,0,0%,4,0,0,19.55,2015
+277,Nacho Monreal Eraso,Arsenal,37,3248,87.78378378,0,0,12,5,0%,41,1,0,267.79,2015
+278,Francis Coquelin,Arsenal,26,1682,64.69230769,0,0,8,0,0%,24,0,2,184.24,2015
+279,Matthieu Flamini,Arsenal,16,1089,68.0625,0,0,7,2,0%,3,0,0,107.36,2015
+280,David Ospina Ramirez,Arsenal,4,360,90,0,0,0,0,0%,1,0,0,28.34,2015
+281,Calum Chambers,Arsenal,11,311,28.27272727,0,0,2,1,0%,3,0,0,72.42,2015
+282,Mohamed El-Nenny,Arsenal,11,794,72.18181818,0,0,13,2,0%,11,0,0,74.91,2015
+283,Idrissa Gana Gueye,Aston Villa,35,3076,87.88571429,0,0,30,4,0%,48,0,3,252.42,2015
+284,Mark Bunn,Aston Villa,10,900,90,0,0,0,0,0%,0,0,0,64.24,2015
+285,Kieran Richardson,Aston Villa,11,723,65.72727273,0,0,8,2,0%,4,0,0,68.51,2015
+286,Brad Guzan,Aston Villa,28,2520,90,0,0,0,0,0%,1,0,0,182.52,2015
+287,Charles NZogbia,Aston Villa,2,41,20.5,0,0,0,0,0%,0,0,0,12.24,2015
+288,Jores Okore,Aston Villa,12,1080,90,0,0,0,0,0%,8,0,0,83.94,2015
+289,Libor Kozak,Aston Villa,4,258,64.5,0,0,6,2,0%,3,5,0,26.72,2015
+290,Alan Hutton,Aston Villa,28,2335,83.39285714,0,0,9,2,0%,36,3,0,175.63,2015
+291,Carlos Sanchez Moreno,Aston Villa,20,1370,68.5,0,0,13,4,0%,6,0,0,135.72,2015
+292,Andrew Greensmith,Aston Villa,2,57,28.5,0,0,1,0,0%,0,0,0,13.04,2015
+293,Jordan Amavi,Aston Villa,10,836,83.6,0,0,5,1,0%,11,0,2,74.44,2015
+294,Jordan Veretout,Aston Villa,25,1823,72.92,0,0,20,6,0%,25,1,0,165.5,2015
+295,Aly Cissokho,Aston Villa,18,1620,90,0,0,4,3,0%,4,0,0,116.8,2015
+296,Adama Traore Diarra,Aston Villa,10,185,18.5,0,0,2,0,0%,11,0,0,63.88,2015
+297,Jordan Lyden,Aston Villa,4,153,38.25,0,0,0,0,0%,2,0,0,18.22,2015
+298,Kevin Toner,Aston Villa,4,315,78.75,0,0,1,0,0%,4,0,0,27.19,2015
+299,John Obi Mikel,Chelsea,24,1781,74.20833333,0,0,7,0,0%,11,0,0,161.35,2015
+300,Asmir Begovic,Chelsea,17,1396,82.11764706,0,0,0,0,0%,4,0,0,114.68,2015
+301,Matthew Miazga,Chelsea,2,136,68,0,0,0,0,0%,2,1,0,13.85,2015
+302,Thibaut Courtois,Chelsea,23,2070,90,0,0,0,0,0%,1,0,0,153.78,2015
+303,Patrick Bamford,Chelsea,12,353,29.41666667,0,0,10,4,0%,3,3,0,74.28,2015
+304,Abdul Rahman Baba,Chelsea,15,1017,67.8,0,0,6,2,0%,4,2,0,101.51,2015
+305,Jake Clark-Salter,Chelsea,1,16,16,0,0,0,0,0%,0,0,0,6.2,2015
+306,Fikayo Tomori,Chelsea,1,30,30,0,0,0,0,0%,0,0,0,6.19,2015
+307,Tammy Abraham,Chelsea,2,53,26.5,0,0,2,0,0%,0,3,0,11.91,2015
+308,Adam Bogdan,Liverpool,2,180,90,0,0,0,0,0%,0,0,0,10.93,2015
+309,John Flanagan,Liverpool,5,421,84.2,0,0,0,0,0%,1,0,0,33.38,2015
+310,Brad Smith,Liverpool,4,299,74.75,0,0,1,0,0%,5,0,0,25.33,2015
+311,Simon Mignolet,Liverpool,34,3060,90,0,0,0,0,0%,3,0,0,219.2,2015
+312,Dejan Lovren,Liverpool,23,1897,82.47826087,0,0,22,7,0%,12,0,0,160.75,2015
+313,Cameron Brannagan,Liverpool,3,112,37.33333333,0,0,1,1,0%,0,0,0,20.02,2015
+314,Joseph Gomez,Liverpool,5,438,87.6,0,0,1,0,0%,1,0,0,34.12,2015
+315,Lucas Pezzini Leiva,Liverpool,26,1953,75.11538462,0,0,8,3,0%,19,0,1,184.52,2015
+316,Connor Randall,Liverpool,3,163,54.33333333,0,0,2,1,0%,2,0,0,18.8,2015
+317,Danny Ward,Liverpool,2,180,90,0,0,0,0,0%,0,0,0,13.48,2015
+318,andre wisdom,Liverpool,11,914,83.09090909,0,0,2,0,0%,3,0,0,70.88,2015
+319,Kevin Stewart,Liverpool,7,564,80.57142857,0,0,5,0,0%,14,0,0,42.56,2015
+320,Sheyi Ojo,Liverpool,8,397,49.625,0,0,5,1,0%,8,0,0,54.01,2015
+321,Sergi Canos,Liverpool,1,9,9,0,0,0,0,0%,0,0,0,6.16,2015
+322,Pedro Chirivella,Liverpool,1,45,45,0,0,0,0,0%,0,0,0,5.31,2015
+323,Pablo Javier Zabaleta,Manchester City,14,1152,82.28571429,0,0,3,1,0%,9,2,0,91.23,2015
+324,Gael Clichy,Manchester City,13,1087,83.61538462,0,0,2,0,0%,6,0,0,94.94,2015
+325,Eliaquim Mangala,Manchester City,23,2011,87.43478261,0,0,7,1,0%,6,0,0,159.19,2015
+326,Joe Hart,Manchester City,36,3200,88.88888889,0,0,0,0,0%,3,0,0,234.27,2015
+327,Martin Demichelis,Manchester City,18,1012,56.22222222,0,0,5,0,0%,9,0,0,120.64,2015
+328,Jesus Navas Gonzalez,Manchester City,34,2280,67.05882353,0,0,30,8,0%,24,4,0,234.32,2015
+329,Bacary Sagna,Manchester City,28,2448,87.42857143,0,0,5,2,0%,14,0,1,198.75,2015
+330,Wilfredo Caballero,Manchester City,4,310,77.5,0,0,0,0,0%,0,0,0,27.12,2015
+331,Bersant Celina,Manchester City,1,13,13,0,0,0,0,0%,0,0,0,7.11,2015
+332,Manu Garcia,Manchester City,1,10,10,0,0,0,0,0%,0,0,0,6.12,2015
+333,Michael Carrick,Manchester United,27,1974,73.11111111,0,0,7,1,0%,13,0,0,173.91,2015
+334,Chris Smalling,Manchester United,35,3150,90,0,0,18,2,0%,14,1,0,248.34,2015
+335,David De Gea Quintana,Manchester United,34,3060,90,0,0,0,0,0%,1,0,0,226.1,2015
+336,Phil Jones,Manchester United,9,528,58.66666667,0,0,1,0,0%,2,0,0,60.75,2015
+337,Luis Antonio Valencia Mosquera,Manchester United,14,853,60.92857143,0,0,6,1,0%,6,2,0,98.71,2015
+338,Sergio German Romero,Manchester United,4,360,90,0,0,0,0,0%,0,0,0,27.01,2015
+339,James Anthony Wilson,Manchester United,1,8,8,0,0,0,0,0%,0,1,0,6.16,2015
+340,Luke Shaw,Manchester United,5,450,90,0,0,1,1,0%,3,1,0,35.13,2015
+341,William Keane,Manchester United,1,4,4,0,0,0,0,0%,0,0,0,6,2015
+342,Marcos Faustino Rojo,Manchester United,16,1253,78.3125,0,0,8,1,0%,12,1,1,110.81,2015
+343,Patrick McNair,Manchester United,8,311,38.875,0,0,3,1,0%,2,0,0,50.49,2015
+344,Gullermo Varela,Manchester United,4,314,78.5,0,0,1,0,0%,7,0,0,27.55,2015
+345,Nicholas Edward Powell,Manchester United,1,16,16,0,0,0,0,0%,0,0,0,6.15,2015
+346,Andreas Hugo Hoelgebaum Pereira,Manchester United,4,80,20,0,0,0,0,0%,1,0,0,24.88,2015
+347,Cameron Borthwick Jackson,Manchester United,10,692,69.2,0,0,1,1,0%,2,0,0,66.99,2015
+348,Donald Love,Manchester United,1,53,53,0,0,0,0,0%,0,0,0,6.62,2015
+349,Timothy Fosu-Mensah,Manchester United,7,253,36.14285714,0,0,2,0,0%,2,0,0,47.89,2015
+350,Steven Taylor,Newcastle United,10,810,81,0,0,2,1,0%,4,0,0,63.52,2015
+351,Henri Saivet,Newcastle United,3,147,49,0,0,0,0,0%,1,0,0,19.67,2015
+352,Ismael Cheikh Tiote,Newcastle United,20,1227,61.35,0,0,1,0,0%,14,0,1,136.52,2015
+353,Gabriel Obertan,Newcastle United,5,279,55.8,0,0,3,2,0%,2,3,0,32.19,2015
+354,Robert Elliot,Newcastle United,22,1980,90,0,0,0,0,0%,3,0,2,138.94,2015
+355,Siem de Jong,Newcastle United,15,442,29.46666667,0,0,8,3,0%,6,0,0,93.47,2015
+356,Tim Krul,Newcastle United,8,720,90,0,0,0,0,0%,1,0,1,52.42,2015
+357,Massadio Haidara,Newcastle United,7,555,79.28571429,0,0,3,0,0%,10,0,0,46.69,2015
+358,Yoan Gouffran,Newcastle United,7,223,31.85714286,0,0,3,1,0%,1,0,0,43.67,2015
+359,Ivan Toney,Newcastle United,2,10,5,0,0,0,0,0%,0,0,0,11.88,2015
+360,Emmanuel Riviere,Newcastle United,3,64,21.33333333,0,0,3,0,0%,1,0,0,17.84,2015
+361,Karl Darlow,Newcastle United,8,720,90,0,0,0,0,0%,1,0,1,56.6,2015
+362,Chancel Mbemba Mangulu,Newcastle United,33,2924,88.60606061,0,0,13,3,0%,12,0,2,229.41,2015
+363,Kevin Mbabu,Newcastle United,2,143,71.5,0,0,1,1,0%,2,1,0,13.07,2015
+364,Jamie Sterry,Newcastle United,1,6,6,0,0,0,0,0%,0,0,0,6.2,2015
+365,Doumbia Seydou,Newcastle United,3,29,9.666666667,0,0,1,1,0%,1,0,0,18.04,2015
+366,Kelvin Davis,Southampton,1,90,90,0,0,0,0,0%,0,0,0,6.77,2015
+367,Paulo Gazzaniga,Southampton,2,180,90,0,0,0,0,0%,0,0,0,13.45,2015
+368,Jay Rodriguez,Southampton,12,346,28.83333333,0,0,17,6,0%,0,3,0,75.66,2015
+369,Juan Miguel Jimenez Lopez Juanmi,Southampton,11,152,13.81818182,0,0,5,1,0%,5,1,0,66.6,2015
+370,Matt Targett,Southampton,14,1070,76.42857143,0,0,3,2,0%,12,1,0,96.79,2015
+371,Harrison Reed,Southampton,1,10,10,0,0,0,0,0%,0,0,0,5.88,2015
+372,Fraser Forster,Southampton,18,1620,90,0,0,0,0,0%,0,0,1,121.52,2015
+373,Jordy Clasie,Southampton,22,1553,70.59090909,0,0,15,1,0%,8,0,0,148.11,2015
+374,Gaston Ramirez,Southampton,3,28,9.333333333,0,0,0,0,0%,0,0,0,19.39,2015
+375,Cedric Ricardo Alves Soares,Southampton,24,1972,82.16666667,0,0,10,2,0%,15,2,1,174.58,2015
+376,Tony Hibbert,Everton,1,44,44,0,0,1,1,0%,0,0,0,7.01,2015
+377,Leon Osman,Everton,8,217,27.125,0,0,3,0,0%,6,0,0,48.99,2015
+378,Phil Jagielka,Everton,21,1852,88.19047619,0,0,9,1,0%,15,0,0,151.06,2015
+379,Steven Pienaar,Everton,4,118,29.5,0,0,2,0,0%,3,0,0,24.88,2015
+380,John Stones,Everton,34,2842,83.58823529,0,0,8,1,0%,26,0,0,230.25,2015
+381,Joel Robles Blazquez,Everton,13,1170,90,0,0,0,0,0%,1,0,0,86.4,2015
+382,Bryan Oviedo Jimenez,Everton,14,998,71.28571429,0,0,5,3,0%,13,1,0,96.69,2015
+383,Gareth Barry,Everton,33,2837,85.96969697,0,0,15,4,0%,25,1,0,232.43,2015
+384,Oumar Niasse,Everton,5,142,28.4,0,0,2,1,0%,3,0,0,30.97,2015
+385,Tim Howard,Everton,25,2250,90,0,0,0,0,0%,2,0,2,168.42,2015
+386,Matthew Pennington,Everton,4,299,74.75,0,0,2,1,0%,0,0,0,26.87,2015
+387,Tyias Browning,Everton,5,299,59.8,0,0,2,0,0%,2,0,0,32.05,2015
+388,Muhamed Besic,Everton,12,556,46.33333333,0,0,4,2,0%,2,0,0,80.69,2015
+389,Kieran Dowell,Everton,2,72,36,0,0,0,0,0%,0,0,0,12.61,2015
+390,Brendan Galloway,Everton,15,1223,81.53333333,0,0,8,0,0%,29,0,0,103.1,2015
+391,Jonjoe Kenny,Everton,1,61,61,0,0,1,0,0%,0,0,0,6.83,2015
+392,Callum Connolly,Everton,1,36,36,0,0,0,0,0%,0,0,0,6.16,2015
+393,Tom Davies,Everton,2,97,48.5,0,0,1,0,0%,2,0,0,13.51,2015
+394,Michel Vorm,Tottenham Hotspur,1,90,90,0,0,0,0,0%,0,0,0,6.21,2015
+395,Jan Vertonghen,Tottenham Hotspur,29,2595,89.48275862,0,0,12,2,0%,22,0,0,203.1,2015
+396,Hugo Lloris,Tottenham Hotspur,37,3330,90,0,0,0,0,0%,5,0,0,249.05,2015
+397,Ben Davies,Tottenham Hotspur,17,1288,75.76470588,0,0,10,2,0%,8,0,0,116.95,2015
+398,Kevin Wimmer,Tottenham Hotspur,10,812,81.2,0,0,1,0,0%,3,0,0,68.87,2015
+399,Nabil Bentaleb,Tottenham Hotspur,5,168,33.6,0,0,3,2,0%,0,0,0,31.72,2015
+400,Joshua Onomah,Tottenham Hotspur,6,76,12.66666667,0,0,3,2,0%,0,0,0,36.96,2015
+401,Alex Pritchard,Tottenham Hotspur,3,66,22,0,0,2,0,0%,1,0,0,18.82,2015
+402,DeAndre Yedlin,Tottenham Hotspur,24,1902,79.25,0,0,3,1,0%,13,0,0,165.12,2015
+403,Clinton Mua Njie,Tottenham Hotspur,8,184,23,0,0,6,2,0%,1,1,0,50.26,2015
+404,John Ruddy,Norwich City,27,2430,90,0,0,0,0,0%,2,0,0,174.42,2015
+405,Youssuf Mulumbu,Norwich City,6,370,61.66666667,0,0,3,1,0%,3,0,0,38.52,2015
+406,Ryan Bennett,Norwich City,22,1837,83.5,0,0,8,3,0%,5,1,1,148.29,2015
+407,Declan Rudd,Norwich City,11,990,90,0,0,0,0,0%,0,0,0,71.5,2015
+408,Ivo Daniel Ferreira Mendonca Pinto,Norwich City,9,810,90,0,0,0,0,0%,6,3,0,58.45,2015
+409,Gary ONeil,Norwich City,28,1898,67.78571429,0,0,12,0,0%,18,0,0,171.62,2015
+410,Vadis Odjidja Ofoe,Norwich City,10,275,27.5,0,0,3,1,0%,3,0,0,63.27,2015
+411,Graeme Dorrans,Norwich City,21,1287,61.28571429,0,0,15,3,0%,3,1,0,134.72,2015
+412,Kyle Lafferty,Norwich City,1,13,13,0,0,0,0,0%,0,0,0,5.96,2015
+413,Julian Speroni,Crystal Palace,2,180,90,0,0,0,0,0%,0,0,0,12.46,2015
+414,Martin Kelly,Crystal Palace,13,1042,80.15384615,0,0,1,0,0%,3,0,0,85.89,2015
+415,Brede Paulsen Hangeland,Crystal Palace,7,630,90,0,0,5,3,0%,3,2,1,50.21,2015
+416,Michael John Jedinak,Crystal Palace,27,1530,56.66666667,0,0,12,1,0%,16,2,0,182.26,2015
+417,Jordan Mutch,Crystal Palace,20,794,39.7,0,0,17,2,0%,10,3,0,126.73,2015
+418,Alex McCarthy,Crystal Palace,7,630,90,0,0,0,0,0%,0,0,0,47.8,2015
+419,Pape NDiaye Souare,Crystal Palace,34,3016,88.70588235,0,0,11,1,0%,32,1,0,227.52,2015
+420,Fraizer Campbell,Crystal Palace,11,359,32.63636364,0,0,4,1,0%,2,6,0,66.4,2015
+421,Maromane Chamakh,Crystal Palace,9,249,27.66666667,0,0,2,1,0%,7,4,0,55.84,2015
+422,Adrian Mariappa,Crystal Palace,3,256,85.33333333,0,0,0,0,0%,3,0,0,19.44,2015
+423,Wayne Hennessey,Crystal Palace,29,2610,90,0,0,0,0,0%,1,0,0,187.88,2015
+424,Sullay KaiKai,Crystal Palace,1,45,45,0,0,3,1,0%,0,0,0,6.62,2015
+425,Jonathan. Williams,Crystal Palace,1,10,10,0,0,0,0,0%,0,0,0,6.01,2015
+426,Hiram Boateng,Crystal Palace,1,18,18,0,0,1,0,0%,0,0,0,6.1,2015
+427,Etienne Capoue,Watford,33,2822,85.51515152,0,0,35,8,0%,56,2,1,231.68,2015
+428,Mario Suarez Mata,Watford,15,745,49.66666667,0,0,8,1,0%,5,0,0,96.48,2015
+429,Allan-Romeo Nyom,Watford,32,2475,77.34375,0,0,7,1,0%,23,0,0,217.73,2015
+430,Valon Behrami,Watford,20,1304,65.2,0,0,1,0,0%,18,0,0,132.77,2015
+431,Steven Berghuis,Watford,9,222,24.66666667,0,0,8,4,0%,2,0,0,57.6,2015
+432,Miguel Angel Britos,Watford,24,2076,86.5,0,0,6,0,0%,18,0,0,162.43,2015
+433,Heurelho da Silva Gomes,Watford,38,3397,89.39473684,0,0,0,0,0%,6,0,4,268.81,2015
+434,Jose Manuel Jurado Marin,Watford,27,2027,75.07407407,0,0,36,10,0%,37,1,0,183.94,2015
+435,Ikechi Anya,Watford,28,1680,60,0,0,10,1,0%,17,1,0,182.53,2015
+436,Costel Pantilimon,Watford,17,1530,90,0,0,0,0,0%,2,0,1,109.73,2015
+437,Juan Carlos Paredes Reasco,Watford,17,766,45.05882353,0,0,5,1,0%,9,0,0,108.67,2015
+438,Adlene Guedioura,Watford,15,417,27.8,0,0,12,3,0%,7,0,0,97.21,2015
+439,Nordin Amrabat,Watford,10,439,43.9,0,0,6,3,0%,17,2,0,62.55,2015
+440,Ryan Shawcross,Stoke City,20,1740,87,0,0,8,0,0%,3,3,1,135.97,2015
+441,Glenn Whelan,Stoke City,37,3173,85.75675676,0,0,11,3,0%,21,0,0,251.85,2015
+442,Peter Crouch,Stoke City,10,455,45.5,0,0,6,3,0%,4,8,0,64.98,2015
+443,Jakob Haugaard,Stoke City,5,404,80.8,0,0,0,0,0%,0,0,0,30.68,2015
+444,Geoff Cameron,Stoke City,30,2368,78.93333333,0,0,15,2,0%,8,0,0,198.02,2015
+445,Dionatan Teixeira,Stoke City,1,44,44,0,0,0,0,0%,0,0,0,6.55,2015
+446,Erik Pieters,Stoke City,35,3098,88.51428571,0,0,5,1,0%,47,0,3,243.27,2015
+447,Marc Muniesa,Stoke City,15,1112,74.13333333,0,0,3,0,0%,7,0,1,98.26,2015
+448,Stephen Ireland,Stoke City,12,230,19.16666667,0,0,3,0,0%,0,0,0,74.19,2015
+449,Peter Odemwingie,Stoke City,5,101,20.2,0,0,2,0,0%,1,1,0,30.61,2015
+450,Jack Butland,Stoke City,31,2790,90,0,0,0,0,0%,1,0,3,212.32,2015
+451,Phil Bardsley,Stoke City,11,816,74.18181818,0,0,7,2,0%,15,0,0,75.18,2015
+452,Steven Sidwell,Stoke City,1,12,12,0,0,0,0,0%,0,0,0,6.25,2015
+453,Philipp Wollscheid,Stoke City,31,2684,86.58064516,0,0,3,1,0%,17,0,2,216.82,2015
+454,Glen Johnson,Stoke City,25,2186,87.44,0,0,16,4,0%,11,4,1,172.22,2015
+455,Shay Given,Stoke City,3,226,75.33333333,0,0,0,0,0%,1,0,0,18.66,2015
+456,Gokhan Inler,Leicester City,5,195,39,0,0,2,0,0%,4,0,0,32.61,2015
+457,Kasper Schmeichel,Leicester City,38,3420,90,0,0,0,0,0%,1,0,0,257.4,2015
+458,Christian Fuchs,Leicester City,32,2710,84.6875,0,0,19,8,0%,12,0,3,234.9,2015
+459,Danny Simpson,Leicester City,30,2649,88.3,0,0,7,2,0%,12,0,0,214.02,2015
+460,Marcin Wasilewski,Leicester City,4,302,75.5,0,0,1,0,0%,0,0,0,26.35,2015
+461,Demarai Gray,Leicester City,11,176,16,0,0,4,2,0%,4,0,0,70.21,2015
+462,Daniel Amartey,Leicester City,4,101,25.25,0,0,1,1,0%,0,0,0,25.15,2015
+463,James Tomkins,West Ham United,25,1965,78.6,0,0,9,1,0%,15,0,1,173.28,2015
+464,"Pedro Mba Obiang Avomo, Perico",West Ham United,23,1078,46.86956522,0,0,7,1,0%,10,0,0,153.46,2015
+465,James Collins,West Ham United,18,1445,80.27777778,0,0,13,4,0%,7,1,0,125.77,2015
+466,Angelo Obinze Ogbonna,West Ham United,27,2327,86.18518519,0,0,6,0,0%,16,0,0,185.65,2015
+467,Darren Randolph,West Ham United,6,540,90,0,0,1,0,0%,0,0,0,37.63,2015
+468,Alexandre Song Billong,West Ham United,12,659,54.91666667,0,0,6,0,0%,7,0,0,80.3,2015
+469,Emmanuel Emenike,West Ham United,13,508,39.07692308,0,0,10,2,0%,7,7,0,81.96,2015
+470,Adrian San Miguel del Castillo,West Ham United,33,2970,90,0,0,0,0,0%,2,0,1,225.85,2015
+471,Sam Byram,West Ham United,4,286,71.5,0,0,0,0,0%,4,2,0,26.28,2015
+472,Reece Oxford,West Ham United,7,211,30.14285714,0,0,1,0,0%,1,0,0,44.75,2015
+473,Younes Kaboul,Sunderland A.F.C,24,2115,88.125,0,0,12,4,0%,9,0,0,171.26,2015
+474,Sebastian Larsson,Sunderland A.F.C,17,564,33.17647059,0,0,7,1,0%,6,0,0,108.08,2015
+475,Adam Matthews,Sunderland A.F.C,1,36,36,0,0,0,0,0%,0,0,0,6.66,2015
+476,John OShea,Sunderland A.F.C,28,2012,71.85714286,0,0,7,3,0%,13,0,0,185.09,2015
+477,Wes Brown,Sunderland A.F.C,6,540,90,0,0,0,0,0%,7,0,0,39.44,2015
+478,Vito Mannone,Sunderland A.F.C,20,1800,90,0,0,0,0,0%,4,0,2,140.72,2015
+479,Lee Cattermole,Sunderland A.F.C,32,2317,72.40625,0,0,12,1,0%,17,0,0,210.92,2015
+480,Ola Toivonen,Sunderland A.F.C,12,670,55.83333333,0,0,7,1,0%,8,0,0,76.36,2015
+481,Jordi Gomez,Sunderland A.F.C,5,355,71,0,0,2,1,0%,5,0,0,32.74,2015
+482,Danny Graham,Sunderland A.F.C,10,359,35.9,0,0,4,2,0%,6,1,0,61.81,2015
+483,Thomas Robson,Sunderland A.F.C,1,90,90,0,0,0,0,0%,1,0,0,7.08,2015
+484,George Honeyman,Sunderland A.F.C,1,38,38,0,0,0,0,0%,1,0,0,6.22,2015
+485,Jordan Pickford,Sunderland A.F.C,2,180,90,0,0,0,0,0%,1,0,0,13.71,2015
+486,Jan Kirchhoff,Sunderland A.F.C,16,1169,73.0625,0,0,9,1,0%,18,0,2,114.38,2015
+487,Rees Greenwood,Sunderland A.F.C,1,52,52,0,0,0,0,0%,0,0,0,6.56,2015
+488,Adam Federici,Bournemouth AFC,6,495,82.5,0,0,0,0,0%,0,0,0,35.85,2015
+489,Sylvain Distin,Bournemouth AFC,10,840,84,0,0,2,0,0%,1,1,0,67.5,2015
+490,Shaun Macdonald,Bournemouth AFC,2,28,14,0,0,0,0,0%,0,0,0,12.05,2015
+491,Simon Francis,Bournemouth AFC,38,3420,90,0,0,7,1,0%,10,3,2,271.54,2015
+492,Tyrone Mings,Bournemouth AFC,1,44,44,0,0,0,0,0%,0,0,0,6.2,2015
+493,Tokelo Anthony Rantie,Bournemouth AFC,3,38,12.66666667,0,0,1,0,0%,0,1,0,18.41,2015
+494,Lee Tomlin,Bournemouth AFC,6,289,48.16666667,0,0,5,3,0%,9,0,0,39.02,2015
+495,Andrew Surman,Bournemouth AFC,38,3420,90,0,0,16,0,0%,18,0,0,258.3,2015
+496,Artur Boruc,Bournemouth AFC,32,2880,90,0,0,0,0,0%,1,0,1,205.31,2015
+497,Ryan Allsopp,Bournemouth AFC,1,45,45,0,0,0,0,0%,0,0,0,6.23,2015
+498,Juan Manuel Iturbe Arevalos,Bournemouth AFC,2,55,27.5,0,0,1,1,0%,1,0,0,12.63,2015
+499,Angel Rangel,Swansea City,23,1911,83.08695652,0,0,15,0,0%,19,2,0,159.59,2015
+500,Neil Taylor,Swansea City,35,3037,86.77142857,0,0,9,0,0%,27,0,0,230.05,2015
+501,Leon Britton,Swansea City,24,1525,63.54166667,0,0,5,0,0%,18,0,0,152.59,2015
+502,Kristoffer Nordfeldt,Swansea City,1,90,90,0,0,0,0,0%,0,0,0,6.88,2015
+503,Jefferson Antonio Montero Vite,Swansea City,23,1356,58.95652174,0,0,20,6,0%,37,4,2,152.46,2015
+504,Kyle Naughton,Swansea City,26,1814,69.76923077,0,0,8,2,0%,19,0,0,173.82,2015
+505,Jordi Amat Mass,Swansea City,8,461,57.625,0,0,1,0,0%,4,0,1,53.41,2015
+506,Marvin Emnes,Swansea City,2,66,33,0,0,1,0,0%,0,0,0,12.08,2015
+507,Kyle Bartley,Swansea City,5,284,56.8,0,0,1,0,0%,4,0,0,26.49,2015
+508,Jay Fulton,Swansea City,1,19,19,0,0,0,0,0%,0,0,0,6.52,2015
+509,Lukasz Fabianski,Swansea City,37,3330,90,0,0,1,0,0%,9,0,3,252.87,2015
+510,Matt Grimes,Swansea City,1,90,90,0,0,1,0,0%,1,0,0,6.33,2015
+511,Stephen Kingsley,Swansea City,4,356,89,0,0,1,0,0%,3,0,0,28.26,2015
