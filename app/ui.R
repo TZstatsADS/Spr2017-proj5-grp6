@@ -2,31 +2,6 @@
 ##### Author: ADS-Proj5-Group6 #####
 ##### Date: April 28,2017 #####
 
-#### package
-packages.used <- 
-  c("shinythemes",     
-    "DT",      
-    "ggplot2",
-    "leaflet",
-    "shinydashboard" ,       
-    "knitr",      
-    "plyr",
-    "shiny",
-    "readr",
-    "dplyr",
-    "plotly",
-    "RColorBrewer",
-    "tidyr"
-  )
-
-# check packages that need to be installed.
-packages.needed=setdiff(packages.used, 
-                        intersect(installed.packages()[,1], 
-                                  packages.used))
-# install additional packages
-if(length(packages.needed)>0){
-  install.packages(packages.needed, dependencies = TRUE)
-}
 
 #### load the packages
 library(shinythemes)
