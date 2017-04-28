@@ -1,3 +1,34 @@
+##### Server for Soccer Manager #####
+##### Author: ADS-Proj5-Group6 #####
+##### Date: April 28,2017 #####
+
+#### package
+packages.used <- 
+  c("shinythemes",     
+    "DT",      
+    "ggplot2",
+    "leaflet",
+    "shinydashboard" ,       
+    "knitr",      
+    "plyr",
+    "shiny",
+    "readr",
+    "dplyr",
+    "plotly",
+    "RColorBrewer",
+    "tidyr"
+  )
+
+# check packages that need to be installed.
+packages.needed=setdiff(packages.used, 
+                        intersect(installed.packages()[,1], 
+                                  packages.used))
+# install additional packages
+if(length(packages.needed)>0){
+  install.packages(packages.needed, dependencies = TRUE)
+}
+
+#### load the packages
 library(shinythemes)
 library(shiny)
 library(DT)
@@ -27,13 +58,16 @@ load("Fulldata16.RData")
 load("Fulldata.RData")
 load("Prem_player.RData")
 load("matches.RData")
-#matches <- read.csv("../data/matches.csv")
+load("pos_table.RData")
 
 
+
+
+## Server Function
 
 server = function(input, output) {
   
-  ##Introduction
+  ## Introduction
   output$blankspace = renderUI({
     HTML("<br/><br/><br/><br/><br/><br/><br/><br/>")
   })
@@ -44,6 +78,8 @@ server = function(input, output) {
   
   
   observe({
+    
+      ## Cluster page
       dataInput<-reactive({
         Fulldata[((Fulldata$Pos1==input$Position)|(Fulldata$Pos2==input$Position)|(Fulldata$Pos3==input$Position))&(Fulldata$Year==input$season),]
           # selected15 <- Fulldata15[(Fulldata15$Pos1==input$Position)|(Fulldata15$Pos2==input$Position)|(Fulldata15$Pos3==input$Position),]
@@ -89,7 +125,7 @@ server = function(input, output) {
       
       output$table1 <- renderDataTable({
         #rows of a position
-        load("../output/pos_table.RData")
+        #load("../output/pos_table.RData")
         table1<-pos_table[pos_table$Fullname==input$Position,c(3,4)]
         datatable(table1, options=list(searching = F,lengthChange=F,paging=T), rownames=F)
       })
@@ -120,6 +156,10 @@ server = function(input, output) {
 
       })
       
+      ### end cluster page
+      
+      
+      ## comparison - 6-dim
       output$plotlydef <- renderPlotly({
         namelist <- dataInput()$Name[dataInput1()$cluster==input$tag]
         d <- Prem_player[Prem_player$n1name%in%namelist,]
@@ -135,9 +175,7 @@ server = function(input, output) {
           
           ) %>%
           
-          layout(xaxis = list(title = "Defensive Dimension"), yaxis = list(title = "y axis"))
-            
-            
+          layout(xaxis = list(title = "Score Dimension"), yaxis = list(title = "y axis"))
           
         }
 
@@ -157,7 +195,7 @@ server = function(input, output) {
           marker = list(size = 12)
           ) %>%
           
-          layout(xaxis = list(title = "Passing Dimension"), yaxis = list(title = "y axis"))
+          layout(xaxis = list(title = "Defensive Dimension"), yaxis = list(title = "y axis"))
 
       })
       
@@ -175,17 +213,17 @@ server = function(input, output) {
           marker = list(size = 12)
         )%>%
           
-          layout(xaxis = list(title = "Score Dimension"), yaxis = list(title = "y axis"))
+          layout(xaxis = list(title = "Passing Dimension"), yaxis = list(title = "y axis"))
 
       })
+      
+      ## end comparison - 6-dim
 
 
   })
     
     
-    ### ashan
-    
-    #first chart: playergoal  
+    ## comparison - first chart: playergoal  
     output$playergoal<-renderPlotly({
       
       dataInput<-reactive({
@@ -207,15 +245,16 @@ server = function(input, output) {
         add_trace(y = ~temp$Goals.P, type="scatter", marker = list(color = "red", size = 12), text = ~temp$Player,
                   mode = "markers") %>%
         layout(
-          title = "Player goals by team",
-          xaxis = list(title = "", tickfont = list(size = 8), tickangle = 15)
+          title = "Goals in Team",
+          xaxis = list(title = "Team", tickfont = list(size = 8), tickangle = 15),
+          yaxis = list(title = "Goals")
         )
         
       
     })
+    ## end comparison - first chart: playergoal 
     
-    
-    #second chart: playertime  
+    ## comparison - second chart: playertime  
     output$playertime<-renderPlotly({
       
       dataInput<-reactive({
@@ -243,17 +282,19 @@ server = function(input, output) {
         add_trace(y = ~avg_mins, type="scatter", marker = list(color = ~color, size = 12), text = ~paste(Team, Player, sep = ' : '),
                   mode = "markers") %>%
         layout(
-          title = "Player average time",
-          xaxis = list(title = "", tickfont = list(size = 10))
+          title = "Average Play Time",
+          xaxis = list(title = "Number of Games", tickfont = list(size = 10)),
+          yaxis = list(title = "Average Mins")
           
           
         )
       
     })
     
+    ## end comparison - second chart: playertime
     
     
-    #third chart: polar chart
+    ## comparison - third chart: radar chart
     
     #year1 <- reactive({
     #  input$year_player
@@ -316,6 +357,8 @@ server = function(input, output) {
       
              
     })
+    
+    ## end comparison - third chart: polar chart
     
     
     

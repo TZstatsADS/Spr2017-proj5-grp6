@@ -1,3 +1,34 @@
+##### UI for Soccer Manager #####
+##### Author: ADS-Proj5-Group6 #####
+##### Date: April 28,2017 #####
+
+#### package
+packages.used <- 
+  c("shinythemes",     
+    "DT",      
+    "ggplot2",
+    "leaflet",
+    "shinydashboard" ,       
+    "knitr",      
+    "plyr",
+    "shiny",
+    "readr",
+    "dplyr",
+    "plotly",
+    "RColorBrewer",
+    "tidyr"
+  )
+
+# check packages that need to be installed.
+packages.needed=setdiff(packages.used, 
+                        intersect(installed.packages()[,1], 
+                                  packages.used))
+# install additional packages
+if(length(packages.needed)>0){
+  install.packages(packages.needed, dependencies = TRUE)
+}
+
+#### load the packages
 library(shinythemes)
 library(shiny)
 library(DT)
@@ -12,10 +43,10 @@ library(readr)
 source("plot_radar.R")
 
 score <- read.csv("scorer2_2015-17.csv")
-goal <- select(score, Player, Team, Goals, Year)
-names(goal) <- c("player", "team", "goals", "year")
-mins <- select(score, Player, Team, Play, Mins, Avg_mins, Year)
-names(mins) <- c("player", "team", "play", "mins", "avg_mins", "year")
+#goal <- select(score, Player, Team, Goals, Year)
+#names(goal) <- c("player", "team", "goals", "year")
+#mins <- select(score, Player, Team, Play, Mins, Avg_mins, Year)
+#names(mins) <- c("player", "team", "play", "mins", "avg_mins", "year")
 
 
 ### data
@@ -27,7 +58,10 @@ load("Fulldata16.RData")
 load("Fulldata.RData")
 load("Prem_player.RData")
 load("matches.RData")
-#matches <- read.csv("../data/matches.csv")
+load("pos_table.RData")
+
+
+
 
 ## UI Function
 
@@ -51,11 +85,11 @@ ui<- navbarPage(
   ## Player tab
   navbarMenu("Player",
              
-             
-             
-             ##Cluster tabset
+
+             ##Position & Play Style tabset
              tabPanel("Position & Play Style",
             
+                  ##Cluster
                   titlePanel("Style Explorer - Clustering Analysis"),
 
 
@@ -81,13 +115,11 @@ ui<- navbarPage(
                                           selectInput("Position",
                                                       label="Start Searching by Position", 
                                                       choices=unique(Fulldata$Pos1),
-                                                      selected = "Striker"),  #choose player position
-                            
-                                          
+                                                      selected = "Striker"),  #choose player position    
                             
                                           selectInput("tag",
                                                       label=" Select Player by Play Style", 
-                                                      choices=c(1,2,3)),#orig_1617$CUISINE.DESCRIPTION
+                                                      choices=c(1,2,3)),
                                       
                                           DT::dataTableOutput("table1")
                                           #verbatimTextOutput("selection")
@@ -99,20 +131,20 @@ ui<- navbarPage(
                       
 
                       
-             ),
+               ),
              ### end Cluster
              
              
-             ### comparison
+             ### comparison tabset
              tabPanel("Comparison",
                       
-                      titlePanel("  Comparison for Selected Players"),
+                      titlePanel("Comparison for Selected Players"),
                       
                                      
                                      tabsetPanel(
                                        
                                        ### 6-dim
-                                       tabPanel("Scorer, Passing, Defensive",
+                                       tabPanel("Scorer, Defensive, Passing",
                                                 br(),
                                                 br(),
 
@@ -151,15 +183,12 @@ ui<- navbarPage(
                                                     )),
                                                 fluidRow(    
                                                     column(9,offset=0.6,plotlyOutput("plotlyscore")
-                                                    ))
-                                                
-                                                
-                                                #plotlyOutput("plotlydef"),
-                                                #plotlyOutput("plotlypass"),
-                                                #plotlyOutput("plotlyscore")                          
+                                                    ))                      
                                      
                                        ),
-                                       
+                                       ### end 6-dim
+
+
                                        ### goal/team
                                        tabPanel("Player Goals by Team",
                                                 br(),
@@ -168,62 +197,55 @@ ui<- navbarPage(
                                                 plotlyOutput("playergoal", height = "500px")
                                                 
                                        ),
+                                       ### end goal/team
                                        
-                                       ###avg.
+
+                                       ### Minutes per Game
                                        tabPanel("Minutes per Game",
                                                 br(),
                                                 br(),
 
                                                 plotlyOutput("playertime",height = "500px")
                                        ),
-                                                
-                                       ### radar
+                                       ### end Minutes per Game
+                                        
+
+                                       ### radar for player
                                        tabPanel("Comprehensive Abilities",
-                                                
-                                      
+
                                                 sidebarLayout(
                                                   sidebarPanel(
-                                                
-                                                    
+                                          
                                                     #check box of the polar chart
                                                     checkboxGroupInput('name', label = h3("Player Name"), 
                                                                        choices = Prem$Name,
                                                                        selected =""),
-                                                    
-                                                    
+                                           
                                                     width = 3
                                                     
                                                   ),
                                                   
                                                   mainPanel(
+                                                            plotOutput("spider", width = "100%", height = "800px")
+                                                  ),
 
-                                                plotOutput("spider", width = "100%", height = "800px")
-                                                
-                                       ),
-                                       position = "right"
-                                       
-                                   
-                                   
-                                       )
-                                     
-                                 
-                                 
-                                    )
+                                                  position = "right"
+                                                )
+                                         )
+                                         ### end radar for player
                                    
                                    
                                    
-                                )
-                      
-                      
-             
-             
+                                    )### end tabset
                        
-  )  ### comparison
+                    )  ### comparison
   ),
+  
+  
   
   ## Team tab
   tabPanel("Team",
-           titlePanel("  h2h Stats between Teams"),
+           titlePanel("h2h Stats between Teams"),
            
            fluidRow(
              column(4,
@@ -238,8 +260,6 @@ ui<- navbarPage(
                          choices=matches$Opponent,
                          selected = "Swansea City"
                          ))
-          
-           
                ),
            
            p(
@@ -253,20 +273,8 @@ ui<- navbarPage(
              plotOutput("Spider"),
              tags$style(type="text/css",  ".shiny-output-error { visibility: hidden; }",  ".shiny-output-error:before { visibility: hidden; }")
              )
-           
-           
-           
-             #plotOutput("Spider")
-             #plotOutput("spider2", width = "700px"),
-             #plotOutput("spider3", width = "700px")
            )
-           
-               
-             
-           
-
-  
-  ## end team tab
+          ## end team tab
 )
 
 
