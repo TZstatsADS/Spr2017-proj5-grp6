@@ -43,7 +43,7 @@ spider <- function(home,oppo,dat){
     #custom the grid
     cglcol="grey", cglty=1, axislabcol="black", caxislabels=seq(0,20,5), cglwd=0.2,
     #custom labels
-    vlcex=2
+    vlcex=1.5
     )
     legend(x=0.6, y=1.2, legend = rownames(home_dat[-c(1,2),]), bty = "n", pch=20 , col=colors_in , text.col = "black", cex=1.5, pt.cex=2)
     
@@ -53,7 +53,7 @@ spider <- function(home,oppo,dat){
     #custom the grid
     cglcol="grey", cglty=1, axislabcol="black", caxislabels=seq(0,20,5), cglwd=0.2,
     #custom labels
-    vlcex=2
+    vlcex=1.5
     )
     legend(x=0.6, y=1.2, legend = rownames(oppo_dat[-c(1,2),]), bty = "n", pch=20 , col=colors_in , text.col = "black", cex=1.5, pt.cex=2)
     
@@ -63,7 +63,7 @@ spider <- function(home,oppo,dat){
     #custom the grid
     cglcol="grey", cglty=1, axislabcol="black", caxislabels=seq(0,20,5), cglwd=0.2,
     #custom labels
-    vlcex=2
+    vlcex=1.5
     )
     legend(x=0.6, y=1.2, legend = rownames(home_oppo[-c(1,2),]), bty = "n", pch=20 , col=colors_in , text.col = "black", cex=1.5, pt.cex=2)
     spider1
