@@ -2,7 +2,7 @@
 
 Term: Spring 2017
 
-+ Team #
++ Team # Team 6
 + Projec title: Help soccer managers find ideal players
 + Team members
 	+ Guo, Zhengyuan
