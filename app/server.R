@@ -9,12 +9,13 @@ library(dplyr)
 library(tidyr)
 library(readr)
 
+source("../lib/plot_radar.R")
 
 score <- read.csv("../data/scorer2_2015-17.csv")
-# goal <- select(score, Player, Team, Goals, Year)
-# names(goal) <- c("player", "team", "goals", "year")
-# mins <- select(score, Player, Team, Play, Mins, Avg_mins, Year)
-# names(mins) <- c("player", "team", "play", "mins", "avg_mins", "year")
+#goal <- select(score, Player, Team, Goals, Year)
+#names(goal) <- c("player", "team", "goals", "year")
+#mins <- select(score, Player, Team, Play, Mins, Avg_mins, Year)
+#names(mins) <- c("player", "team", "play", "mins", "avg_mins", "year")
 
 
 ### data
@@ -25,7 +26,8 @@ load("../output/Fulldata15.RData")
 load("../output/Fulldata16.RData")
 load("../output/Fulldata.RData")
 load("../output/Prem_player.RData")
-matches <- read.csv("../data/matches.csv")
+load("../output/matches.RData")
+#matches <- read.csv("../data/matches.csv")
 
 
 
@@ -36,8 +38,8 @@ server = function(input, output) {
     HTML("<br/><br/><br/><br/><br/><br/><br/><br/>")
   })
   output$text = renderUI({
-    HTML("<br/><br/><br/>Soccer Manager is a powerful tool for player selection. blablabla<br/>
-         between the United States and the rest of the world<br/><br/><br/><br/>Group 6: Jiahao, Xiaowo, Zhengyuan, Zhishan")
+    HTML("<br/><br/><br/>Soccer Manager is a powerful tool for soccer managers and coaches to find qualified players on transfer market. <br/>Football fans can also use the App to explore soccer strategies and players.
+         <br/><br/><br/><br/>Group 6: Jiahao, Xiaowo, Zhengyuan, Zhishan")
   })
   
   
@@ -58,7 +60,7 @@ server = function(input, output) {
       
         # choose the numeric variables to do pca
         
-        if(input$Position=="GK") {
+        if(input$Position=="Goal Keeper") {
           dat <- dataInput()[, 50:54]}
         else{dat <- dataInput()[, 19:49]}
         
@@ -88,7 +90,7 @@ server = function(input, output) {
       output$table1 <- renderDataTable({
         #rows of a position
         load("../output/pos_table.RData")
-        table1<-pos_table[pos_table$Position==input$Position,c(3,4)]
+        table1<-pos_table[pos_table$Fullname==input$Position,c(3,4)]
         datatable(table1, options=list(searching = F,lengthChange=F,paging=T), rownames=F)
       })
       
@@ -192,6 +194,17 @@ server = function(input, output) {
     
     #first chart: playergoal  
     output$playergoal<-renderPlotly({
+      
+      dataInput<-reactive({
+        Fulldata[((Fulldata$Pos1==input$Position)|(Fulldata$Pos2==input$Position)|(Fulldata$Pos3==input$Position))&(Fulldata$Year==input$season),]
+        # selected15 <- Fulldata15[(Fulldata15$Pos1==input$Position)|(Fulldata15$Pos2==input$Position)|(Fulldata15$Pos3==input$Position),]
+        # selected16 <- Fulldata16[(Fulldata16$Pos1==input$Position)|(Fulldata16$Pos2==input$Position)|(Fulldata16$Pos3==input$Position),]
+      })
+      
+      dataInput1<-reactive({
+        set.seed(1)
+        kmeans(dataInput()[, 19:49], 3, nstart = 20)
+      })
       #temp <- subset(goal, 
       #               (year == year1())
                      #add one more cluster filter 
@@ -201,8 +214,8 @@ server = function(input, output) {
       temp <- Prem_player[Prem_player$n1name%in%namelist,]
       
       temp %>%
-        plot_ly(x = ~Team) %>%
-        add_trace(y = ~Goal, type="scatter", marker = list(color = "red", size = 10), text = ~Player,
+        plot_ly(x = ~temp$Team) %>%
+        add_trace(y = ~temp$Goals.P, type="scatter", marker = list(color = "red", size = 10), text = ~temp$Player,
                   mode = "markers") %>%
         layout(
           title = "Player goals by team",
@@ -228,6 +241,17 @@ server = function(input, output) {
     
     #second chart: playertime  
     output$playertime<-renderPlotly({
+      
+      dataInput<-reactive({
+        Fulldata[((Fulldata$Pos1==input$Position)|(Fulldata$Pos2==input$Position)|(Fulldata$Pos3==input$Position))&(Fulldata$Year==input$season),]
+        # selected15 <- Fulldata15[(Fulldata15$Pos1==input$Position)|(Fulldata15$Pos2==input$Position)|(Fulldata15$Pos3==input$Position),]
+        # selected16 <- Fulldata16[(Fulldata16$Pos1==input$Position)|(Fulldata16$Pos2==input$Position)|(Fulldata16$Pos3==input$Position),]
+      })
+      
+      dataInput1<-reactive({
+        set.seed(1)
+        kmeans(dataInput()[, 19:49], 3, nstart = 20)
+      })
       #temp <- subset(mins, 
                      #(year == year1())
                      #add one more cluster filter
@@ -237,13 +261,13 @@ server = function(input, output) {
       temp <- Prem_player[Prem_player$n1name%in%namelist,]
 
       
-      colourCount = length(unique(temp$team))
+      colourCount = length(unique(temp$Team))
       getPalette = colorRampPalette(brewer.pal(9, "Set1"))
       cols = getPalette(colourCount)
-      temp$color <- factor(temp$team, labels = cols)
+      temp$color <- factor(temp$Team, labels = cols)
       temp %>%
-        plot_ly(x = ~play) %>%
-        add_trace(y = ~avg_mins, type="scatter", marker = list(color = ~color, size = 10), text = ~paste(team, player, sep = ' : '),
+        plot_ly(x = ~Play.Sub.) %>%
+        add_trace(y = ~avg_mins, type="scatter", marker = list(color = ~color, size = 10), text = ~paste(Team, Player, sep = ' : '),
                   mode = "markers") %>%
         layout(
           title = "Player average time",
@@ -278,6 +302,7 @@ server = function(input, output) {
 
 
     output$spider<-renderPlotly({
+      
       temp_radar <- select(Prem, Name, #Ball_Control, 
                            Aggression, Acceleration,
                            Finishing, Jumping, Heading)
@@ -310,6 +335,11 @@ server = function(input, output) {
           showlegend = TRUE,
           legend = list(orientation = 'h'))
       
+    })
+    
+    output$Spider <- renderPlot({
+      spider(input$Home,input$Oppo,matches)
+             
     })
     
     
