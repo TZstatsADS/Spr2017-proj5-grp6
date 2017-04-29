@@ -66,6 +66,13 @@ server = function(input, output) {
           kmeans(dataInput()[, 19:49], 3, nstart = 20)
       })
       
+      output$Selector <- renderUI({
+        checkboxGroupInput('name', label = h3("Player Name"), 
+                           choices = dataInput()$Name,
+                           selected ="") 
+      })
+
+      
       output$barPlot <- renderPlotly({
         # k means cluster
       

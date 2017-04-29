@@ -12,8 +12,10 @@ spider <- function(home,oppo,dat){
     oppo_avg <- aggregate(oppo_game[,c(7,20,10,34,16,32)],by=list(oppo_game$Team),FUN="mean")
     home_win <- aggregate(home_game[,c(7,20,10,34,16,32)],by=list(home_game$Result),FUN="mean")
     oppo_win <- aggregate(oppo_game[,c(7,20,10,34,16,32)],by=list(oppo_game$Result),FUN="mean")
-    ho_max <- apply(home_oppo,2,max)
-    ho_min <- apply(home_oppo,2,min)
+    ho_max <- apply(dat[,c(24,7,20,10,34,16,32)],2,max)
+    # ho_min <- apply(dat,2,0)
+    ho_min <- rep(0,7)
+    
     home_oppo <- rbind(ho_max,ho_min,home_oppo)
     home_dat <- rbind(home_avg,home_win)
     home_max <- apply(home_dat,2,max)

@@ -193,12 +193,14 @@ ui<- navbarPage(
                                                     # selectizeInput('year_player', 'Year',choices = goal$year, selected=""),
                                                     # selectizeInput('name', 'Player Name',choices = Prem$Name, selected=""),
                                                     
-                                                    #check box of the polar chart
-                                                    checkboxGroupInput('name', label = h3("Player Name"), 
-                                                                       choices = Prem$Name[((Prem$Pos1=="ST")|(Prem$Pos2=="ST")|(Prem$Pos3=="ST"))],
-                                                                       selected ="")
+                                                  #check box of the polar chart
+                                                  #   checkboxGroupInput('name', label = h3("Player Name"), 
+                                                  #                      choices = Fulldata$Name[((Fulldata$Pos1=="Striker")|(Fulldata$Pos2=="Striker")|(Fulldata$Pos3=="Striker"))],
+                                                  #                      selected ="")
+                                                  # ),
+                                                  # 
+                                                  uiOutput("Selector")
                                                   ),
-                                                  
                                                   
                                                   # Show a plot of the generated distribution
                                                   mainPanel(
