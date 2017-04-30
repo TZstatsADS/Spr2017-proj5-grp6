@@ -7,16 +7,17 @@ spider <- function(home,oppo,dat){
     home_stat <- dat[(dat$Team==home)&(dat$Opponent==oppo),]
     oppo_stat <- dat[(dat$Team==oppo)&(dat$Opponent==home),]
     home_oppo <- rbind(home_stat,oppo_stat)
-    home_oppo <- aggregate(home_oppo[,c(7,20,10,34,16,32)],by=list(home_oppo$Team),FUN="mean")
-    home_avg <- aggregate(home_game[,c(7,20,10,34,16,32)],by=list(home_game$Team),FUN="mean")
-    oppo_avg <- aggregate(oppo_game[,c(7,20,10,34,16,32)],by=list(oppo_game$Team),FUN="mean")
-    home_win <- aggregate(home_game[,c(7,20,10,34,16,32)],by=list(home_game$Result),FUN="mean")
-    oppo_win <- aggregate(oppo_game[,c(7,20,10,34,16,32)],by=list(oppo_game$Result),FUN="mean")
-    ho_max <- apply(dat[,c(24,7,20,10,34,16,32)],2,max)
-    # ho_min <- apply(dat,2,0)
-    ho_min <- rep(0,7)
+    home_oppo <- aggregate(home_oppo[,c(7,20,10,34,16,32)],by=list(home_oppo$Team),FUN="mean")[,-1]
+  
+    home_avg <- aggregate(home_game[,c(7,20,10,34,16,32)],by=list(home_game$Team),FUN="mean")[,-1]
+    oppo_avg <- aggregate(oppo_game[,c(7,20,10,34,16,32)],by=list(oppo_game$Team),FUN="mean")[,-1]
+    home_win <- aggregate(home_game[,c(7,20,10,34,16,32)],by=list(home_game$Result),FUN="mean")[,-1]
+    oppo_win <- aggregate(oppo_game[,c(7,20,10,34,16,32)],by=list(oppo_game$Result),FUN="mean")[,-1]
+    ho_max <- apply(dat[,c(7,20,10,34,16,32)],2,max)
+    ho_min <- apply(dat[,c(7,20,10,34,16,32)],2,function(x)"0")
     
-    home_oppo <- rbind(ho_max,ho_min,home_oppo)
+    
+    home_oppo <- data.frame(rbind(ho_max,ho_min,home_oppo),stringsAsFactors = F)
     home_dat <- rbind(home_avg,home_win)
     home_max <- apply(home_dat,2,max)
     home_min <- apply(home_dat,2,min)
@@ -39,7 +40,7 @@ spider <- function(home,oppo,dat){
     
     par(mfrow = c(1,3))
 
-    spider1=radarchart( home_dat[,-1]  , axistype=1 , title = "Home Team Historical Performance",
+    spider1=radarchart( home_dat  , axistype=1 , title = "Home Team Historical Performance",
     #custom polygon
     pcol=colors_border , pfcol=colors_in , plwd=1 , plty=1,
     #custom the grid
@@ -49,7 +50,7 @@ spider <- function(home,oppo,dat){
     )
     legend(x=0.6, y=1.2, legend = rownames(home_dat[-c(1,2),]), bty = "n", pch=20 , col=colors_in , text.col = "black", cex=1.5, pt.cex=2)
     
-    spider2=radarchart( oppo_dat[,-1]  , axistype=1 , title = "Opponent Team Historical Performance", 
+    spider2=radarchart( oppo_dat  , axistype=1 , title = "Opponent Team Historical Performance", 
     #custom polygon
     pcol=colors_border , pfcol=colors_in , plwd=1 , plty=1,
     #custom the grid
@@ -59,7 +60,7 @@ spider <- function(home,oppo,dat){
     )
     legend(x=0.6, y=1.2, legend = rownames(oppo_dat[-c(1,2),]), bty = "n", pch=20 , col=colors_in , text.col = "black", cex=1.5, pt.cex=2)
     
-    spider3=radarchart( (home_oppo[,-1])  , axistype=1 , title = "h2h Historical Record",
+    spider3=radarchart( (home_oppo)  , axistype=1 , title = "h2h Historical Record",
     #custom polygon
     pcol=colors_border1 , pfcol=colors_in1 , plwd=1 , plty=1,
     #custom the grid
